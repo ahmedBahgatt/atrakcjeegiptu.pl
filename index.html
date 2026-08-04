@@ -1,5 +1,108 @@
 <!doctype html>
 <html lang="pl">
-<head><meta charset="utf-8"><title>atrakcjeegiptu.pl</title></head>
-<body><h1>atrakcjeegiptu.pl</h1><p>Coming soon.</p></body>
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>atrakcjeegiptu.pl</title>
+<meta name="description" content="Wycieczki i wakacje w Egipcie dla polskich turystów.">
+<style>
+  :root {
+    --bg: #fbf8f2;
+    --text: #22201c;
+    --muted: #6b6459;
+    --accent: #c9862b;
+    --border: #e7ded0;
+  }
+  * { box-sizing: border-box; }
+  body {
+    margin: 0;
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+    background: var(--bg);
+    color: var(--text);
+    line-height: 1.6;
+  }
+  .wrap { max-width: 960px; margin: 0 auto; padding: 0 24px; }
+  header { padding: 72px 0 40px; border-bottom: 1px solid var(--border); }
+  header h1 { font-size: 2.2rem; margin: 0 0 8px; }
+  header p.tagline { color: var(--accent); font-weight: 600; margin: 0 0 16px; }
+  header p.desc { color: var(--muted); max-width: 600px; margin: 0; }
+  section { padding: 40px 0; }
+  h2 { font-size: 1.3rem; margin: 0 0 20px; }
+  .grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(260px, 1fr)); gap: 20px; }
+  .card {
+    background: #fff;
+    border: 1px solid var(--border);
+    border-radius: 10px;
+    padding: 20px;
+  }
+  .card h3 { margin: 0 0 6px; font-size: 1.1rem; }
+  .card .loc { color: var(--accent); font-size: 0.85rem; font-weight: 600; margin-bottom: 8px; }
+  .card p.excerpt { color: var(--muted); font-size: 0.95rem; margin: 0 0 12px; }
+  .card ul { margin: 0 0 12px; padding-left: 18px; color: var(--muted); font-size: 0.9rem; }
+  .card .price { font-weight: 700; font-size: 1.1rem; }
+  .card .days { color: var(--muted); font-size: 0.85rem; }
+  footer { padding: 32px 0 64px; color: var(--muted); font-size: 0.85rem; border-top: 1px solid var(--border); }
+  #status { color: var(--muted); }
+</style>
+</head>
+<body>
+  <div class="wrap">
+    <header>
+      <h1 id="site-title">atrakcjeegiptu.pl</h1>
+      <p class="tagline" id="site-tagline"></p>
+      <p class="desc" id="site-desc"></p>
+    </header>
+    <section>
+      <h2>Nasze wycieczki</h2>
+      <p id="status">Wczytywanie ofert...</p>
+      <div class="grid" id="tours"></div>
+    </section>
+    <footer>
+      <p id="contact"></p>
+      <p>&copy; 2026 atrakcjeegiptu.pl</p>
+    </footer>
+  </div>
+  <script>
+    const PROJECT_ID = "qm4eo9p4";
+    const DATASET = "production";
+    const query = encodeURIComponent(`{"settings": *[_type=="siteSettings"][0], "tours": *[_type=="tourPackage"]|order(price asc)}`);
+    const url = `https://${PROJECT_ID}.apicdn.sanity.io/v2023-01-01/data/query/${DATASET}?query=${query}`;
+
+    fetch(url)
+      .then(r => r.json())
+      .then(({ result }) => {
+        const { settings, tours } = result;
+        if (settings) {
+          document.getElementById("site-title").textContent = settings.title || "atrakcjeegiptu.pl";
+          document.getElementById("site-tagline").textContent = settings.tagline || "";
+          document.getElementById("site-desc").textContent = settings.description || "";
+          if (settings.contactEmail) {
+            document.getElementById("contact").innerHTML =
+              `Kontakt: <a href="mailto:${settings.contactEmail}">${settings.contactEmail}</a>`;
+          }
+        }
+        const grid = document.getElementById("tours");
+        const status = document.getElementById("status");
+        if (!tours || !tours.length) {
+          status.textContent = "Oferty wkrótce.";
+          return;
+        }
+        status.remove();
+        grid.innerHTML = tours.map(t => `
+          <div class="card">
+            <div class="loc">${t.location || ""}</div>
+            <h3>${t.title}</h3>
+            <p class="excerpt">${t.excerpt || ""}</p>
+            <ul>${(t.highlights || []).map(h => `<li>${h}</li>`).join("")}</ul>
+            <div class="price">${t.price} ${t.currency || "PLN"}</div>
+            <div class="days">${t.durationDays} dni</div>
+          </div>
+        `).join("");
+      })
+      .catch(err => {
+        document.getElementById("status").textContent = "Nie udało się wczytać ofert.";
+        console.error(err);
+      });
+  </script>
+</body>
 </html>
