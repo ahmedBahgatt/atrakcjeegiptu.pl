@@ -1,0 +1,2924 @@
+[
+ {
+  "slug": "wycieczka-z-hurghady-lodzia-seascope",
+  "title": "Rejs łodzią podwodną Seascope z Hurghady",
+  "shortTitle": "Rejs łodzią podwodną Seascope z Hurghady",
+  "category": "morze",
+  "base": "Hurghada",
+  "duration": "1 dzień",
+  "price": 18,
+  "priceOld": 24,
+  "tiers": [],
+  "description": [
+   "Rejs łodzią podwodną seascope z hurghady  Łódź Seascope  Rafy + snorkeling",
+   "Seascope Hurghada Rejs łodzią podwodną Seascope z panoramicznymi oknami, widokiem na rafy Morza Czerwonego, snorkelingiem i transferem w cenie.",
+   ""
+  ],
+  "included": [],
+  "notIncluded": [],
+  "photos": 5,
+  "type": "wycieczka"
+ },
+ {
+  "slug": "wycieczka-z-hurghady-jazda-konno-i-kapiel-w-morzu",
+  "title": "Wycieczka z Hurghady - Jazda konno i kąpiel w morzu",
+  "shortTitle": "Wycieczka z Hurghady - Jazda konno i kąpiel w morzu",
+  "category": "morze",
+  "base": "Hurghada",
+  "duration": "1 dzień",
+  "price": 23,
+  "priceOld": 30,
+  "tiers": [],
+  "description": [
+   "Jazda konno i kąpiel w morzu z koniem w Hurghadzie to kolejna oferta rozrywki z naszej listy.",
+   "Podczas wycieczki można przez 1 lub 2 godziny jeździć konno po plaży, kąpać się w morzu, spacerować z końmi, a nawet kłusować. Zapewniamy ogromną porcję cudownych wrażeń przy kąpieli z tymi niezwykłymi, przyjaznymi stworzeniami!",
+   "Niezapomniane przeżycia podczas kąpieli w morzu na tych majestatycznych stworzeniach.",
+   "Wycieczka trwa ok. 1 lub 2 godziny"
+  ],
+  "included": [
+   "Transport z/do hotelu",
+   "jazda konno",
+   "jazda quadem opcjonalnie"
+  ],
+  "notIncluded": [
+   "Wydatki osobiste",
+   "Napiwki dla kierowcy i przewodnika"
+  ],
+  "photos": 5,
+  "type": "wycieczka"
+ },
+ {
+  "slug": "wycieczka-z-hurghady-delfinarium-dolphin-show",
+  "title": "Delfinarium Hurghada – pokaz delfinów z transferem",
+  "shortTitle": "Delfinarium Hurghada – pokaz delfinów z transferem",
+  "category": "morze",
+  "base": "Hurghada",
+  "duration": "1 dzień",
+  "price": 25,
+  "priceOld": 33,
+  "tiers": [],
+  "description": [
+   "Delfinarium Hurghada  Pokaz delfinów Delfinarium Hurghada",
+   "Pokaz delfinów w Hurghadzie z transferem z hotelu, biletem wstępu i czasem na zdjęcia.",
+   ""
+  ],
+  "included": [],
+  "notIncluded": [],
+  "photos": 5,
+  "type": "wycieczka"
+ },
+ {
+  "slug": "wycieczka-z-hurghady-do-domu-delfinow",
+  "title": "Wycieczka z Hurghady do Domu Delfinów (Dolphin House) | pływanie z delfinami",
+  "shortTitle": "Wycieczka z Hurghady do Domu Delfinów (Dolphin House)",
+  "category": "morze",
+  "base": "Hurghada",
+  "duration": "1 dzień",
+  "price": 25,
+  "priceOld": 35,
+  "tiers": [],
+  "description": [
+   "Wycieczka z Hurghady do Domu Delfinów  Dolphin House  Rejs + snorkeling",
+   "Dolphin House Hurghada Rejs po Morzu Czerwonym z obserwacją delfinów, snorkelingiem, rafami i sportami wodnymi.",
+   ""
+  ],
+  "included": [],
+  "notIncluded": [],
+  "photos": 5,
+  "type": "wycieczka"
+ },
+ {
+  "slug": "cleopatra-spa-hurghada-luksusowy-pakiet-3h-z-masazem",
+  "title": "Cleopatra Spa Plus w Hurghadzie.",
+  "shortTitle": "Cleopatra Spa Plus w Hurghadzie.",
+  "category": "relaks",
+  "base": "Hurghada",
+  "duration": "1 dzień",
+  "price": 30,
+  "priceOld": 35,
+  "tiers": [],
+  "description": [
+   "Cleopatra Spa: 3-godzinna Podróż dla Zmysłów Zanurz się w ekskluzywnym programie wellness",
+   "Łączącym tradycyjne zabiegi SPA z nowoczesnymi technikami relaksacyjnymi. Odpręż się i zrelaksuj w Cleopatra Spa!",
+   "Podaruj sobie odrobinę luksusu . Ten program trwa około 2-3 godzin."
+  ],
+  "included": [],
+  "notIncluded": [],
+  "photos": 4,
+  "type": "wycieczka"
+ },
+ {
+  "slug": "marokanski-hammam-w-hurghadzie-peeling-kessa-i-masaz-relaksacyjny",
+  "title": "Marokański Hammam SPA w Hurghadzie",
+  "shortTitle": "Marokański Hammam SPA w Hurghadzie",
+  "category": "relaks",
+  "base": "Hurghada",
+  "duration": "1 dzień",
+  "price": 30,
+  "priceOld": 35,
+  "tiers": [
+   {
+    "label": "Dorosły/dziecko",
+    "usd": 30
+   }
+  ],
+  "description": [
+   "Ciesz się luksusowym doświadczeniem spa z marokańskim hammamem. Zrelaksuj się w przyćmionym świetle, słuchając łagodnej muzyki i zakończ wizytę perfumowanymi olejkami.",
+   "Ten program trwa około 2 godzin."
+  ],
+  "included": [],
+  "notIncluded": [],
+  "photos": 4,
+  "type": "wycieczka"
+ },
+ {
+  "slug": "orange-bay-hurghada",
+  "title": "Orange Bay Hurghada – wycieczka z Hurghady (rejs, plaża, snorkel) – od 30 USD",
+  "shortTitle": "Orange Bay Hurghada – wycieczka z Hurghady (rejs, plaża, snorkel) – od 30 USD",
+  "category": "morze",
+  "base": "Hurghada",
+  "duration": "1 dzień",
+  "price": 30,
+  "priceOld": 38,
+  "tiers": [],
+  "description": [
+   "Orange Bay  Rejs + snorkeling Orange Bay Hurghada Rejs łodzią na Orange Bay z plażą, snorkelingiem, lunchem i napojami na statku.",
+   ""
+  ],
+  "included": [],
+  "notIncluded": [],
+  "photos": 5,
+  "type": "wycieczka"
+ },
+ {
+  "slug": "dolphin-house-hurghada-nurkowanie-z-butla",
+  "title": "Dolphin House Hurghada + nurkowanie z butlą",
+  "shortTitle": "Dolphin House Hurghada + nurkowanie z butlą",
+  "category": "morze",
+  "base": "Hurghada",
+  "duration": "1 dzień",
+  "price": 35,
+  "priceOld": 40,
+  "tiers": [],
+  "description": [
+   "Dolphin House Hurghada + nurkowanie z butlą  Dolphin House  Nurkowanie + snorkeling",
+   "Hurghada → Dolphin House Rejs z Hurghady do Dolphin House z możliwością spotkania delfinów, snorkelingiem, jednym nurkowaniem z butlą, orientalnym śniadaniem, obiadem i transferem z hotelu.",
+   ""
+  ],
+  "included": [],
+  "notIncluded": [],
+  "photos": 5,
+  "type": "wycieczka"
+ },
+ {
+  "slug": "wycieczka-z-hurghady-nurkowanie-z-butla",
+  "title": "Nurkowanie Hurghada z butlą – wycieczka z Hurghady (Scuba Diving)",
+  "shortTitle": "Nurkowanie Hurghada z butlą",
+  "category": "morze",
+  "base": "Hurghada",
+  "duration": "1 dzień",
+  "price": 38,
+  "priceOld": 44,
+  "tiers": [],
+  "description": [
+   "Nurkowanie hurghada  Nurkowanie z butlą  Rafa koralowa Nurkowanie w Hurghadzie",
+   "Całodniowy rejs łodzią z 2 nurkowaniami, instruktorem, sprzętem i rafą koralową.",
+   ""
+  ],
+  "included": [],
+  "notIncluded": [],
+  "photos": 5,
+  "type": "wycieczka"
+ },
+ {
+  "slug": "wycieczka-z-hurghady-na-plaze-ozirea",
+  "title": "Wycieczka z Hurghady na plażę Ozirea – snorkeling i rejs",
+  "shortTitle": "Wycieczka z Hurghady na plażę Ozirea – snorkeling i rejs",
+  "category": "morze",
+  "base": "Hurghada",
+  "duration": "1 dzień",
+  "price": 40,
+  "priceOld": 57,
+  "tiers": [],
+  "description": [
+   "Wycieczka z hurghady na plażę ozirea  Plaża Ozirea  Rejs + snorkeling",
+   "Plaża Ozirea Hurghada Całodniowy rejs na plażę Ozirea z 2 przystankami na snorkeling i relaksem na plaży.",
+   ""
+  ],
+  "included": [],
+  "notIncluded": [],
+  "photos": 5,
+  "type": "wycieczka"
+ },
+ {
+  "slug": "wycieczka-z-hurghady-wielkie-akwarium-w-hurghadzie",
+  "title": "Hurghada Grand Aquarium (Akwarium w Hurghadzie) – wycieczka z transferem",
+  "shortTitle": "Hurghada Grand Aquarium (Akwarium w Hurghadzie)",
+  "category": "relaks",
+  "base": "Hurghada",
+  "duration": "1 dzień",
+  "price": 40,
+  "priceOld": 50,
+  "tiers": [],
+  "description": [
+   "Grand Aquarium ⏱ Pół dnia Hurghada Grand Aquarium Półdniowa wycieczka do Hurghada Grand Aquarium z podwodnym tunelem, mini zoo i strefami edukacyjnymi.",
+   ""
+  ],
+  "included": [],
+  "notIncluded": [],
+  "photos": 5,
+  "type": "wycieczka"
+ },
+ {
+  "slug": "wyspa-paradise-egipt",
+  "title": "Wyspa Paradise Egipt – Paradise Island, Egypt | rejs z Hurghady",
+  "shortTitle": "Wyspa Paradise Egipt – Paradise Island, Egypt",
+  "category": "morze",
+  "base": "Hurghada",
+  "duration": "1 dzień",
+  "price": 45,
+  "priceOld": 57,
+  "tiers": [],
+  "description": [
+   "Wyspa Paradise Egipt  Paradise Island  Rejs + snorkeling Paradise Island Hurghada",
+   "Rejs łodzią na Paradise Island z plażą, snorkelingiem, lunchem i napojami na łodzi.",
+   ""
+  ],
+  "included": [
+   "Transfer z/do hotelu",
+   "Napoje ciepłe i zimne na statku",
+   "Obiad w restauracji na plaży",
+   "Sporty wodne (banan lub kanapa)",
+   "Sprzęt do snurkowania"
+  ],
+  "notIncluded": [
+   "Wydatki osobiste",
+   "Napiwki dla załogi",
+   "Napoje, jedzenie na plaży (oprócz obiadu)",
+   "zdjęcia robione przez fotografa"
+  ],
+  "photos": 5,
+  "type": "wycieczka"
+ },
+ {
+  "slug": "family-day-hurghada",
+  "title": "Family Day Hurghada 3 w 1 – Seascope, Dolphin Show i Beduini",
+  "shortTitle": "Family Day Hurghada 3 w 1 – Seascope, Dolphin Show i Beduini",
+  "category": "morze",
+  "base": "Hurghada",
+  "duration": "1 dzień",
+  "price": 48,
+  "priceOld": 55,
+  "tiers": [],
+  "description": [
+   "Family Day Hurghada  Family Day 3 w 1 ‍‍‍ Atrakcje dla całej rodziny",
+   "Family Day 3 w 1 Hurghada Całodniowa wycieczka łącząca rejs Seascope, Dolphin Show oraz kolację beduińską na pustyni. Trzy atrakcje w jeden dzień z transferem z hotelu.",
+   ""
+  ],
+  "included": [],
+  "notIncluded": [],
+  "photos": 5,
+  "type": "wycieczka"
+ },
+ {
+  "slug": "wycieczka-z-hurghady-do-aquaparku-makadi-water-world",
+  "title": "Wycieczka z Hurghady do aquaparku Makadi Water World",
+  "shortTitle": "Wycieczka z Hurghady do aquaparku Makadi Water World",
+  "category": "relaks",
+  "base": "Hurghada",
+  "duration": "1 dzień",
+  "price": 60,
+  "priceOld": 68,
+  "tiers": [
+   {
+    "label": "Dorosly",
+    "usd": 60
+   }
+  ],
+  "description": [
+   "Wycieczka z Hurghady do aquaparku Makadi Water World Aquapark Makadi Water World to jedno z największych wodnych centrów rozrywki w Egipcie.",
+   "Co więcej Znajduje się w malowniczej zatoce Makadi Bay, niedaleko Hurghady. Na odwiedzających czeka ponad 50 zjeżdżalni o różnym stopniu trudności – od spokojnych ślizgawek rodzinnych po ekstremalne zjazdy dla miłośników adrenaliny.",
+   "Ponadto, Ośrodek oferuje również liczne baseny, leniwe rzeki, strefy relaksu z leżakami oraz restauracje serwujące dania kuchni międzynarodowej. To doskonałe miejsce na całodniową zabawę dla całej rodziny, łączące relaks i emocje w pięknym, słonecznym otoczeniu nad Morzem Czerwonym.",
+   "W rezultacie, Makadi Water World – dzień pełen zabawy i relaksu!"
+  ],
+  "included": [
+   "transfer z i do hotelu",
+   "bilety wstępu do aquaparku",
+   "obiad, napoje i lody"
+  ],
+  "notIncluded": [
+   "wydatki własne, napiwki",
+   "zdjęcia robione przez fotografa",
+   "zakupy",
+   "Wycieczka z Hurghady do aquaparku Makadi Water World"
+  ],
+  "photos": 5,
+  "type": "wycieczka"
+ },
+ {
+  "slug": "wycieczka-z-hurghady-do-kairu",
+  "title": "Wycieczka z Hurghady do Kairu | Autokar lub samolot",
+  "shortTitle": "Wycieczka z Hurghady do Kairu | Autokar lub samolot",
+  "category": "historia",
+  "base": "Hurghada",
+  "duration": "1 dzień",
+  "price": 60,
+  "priceOld": 75,
+  "tiers": [],
+  "description": [
+   "Wycieczka po polsku ⭐ Bestseller z Hurghady Hurghada → Kair, 1 dzień",
+   "Piramidy, Sfinks i Muzeum Egipskie z polskim przewodnikiem."
+  ],
+  "included": [],
+  "notIncluded": [],
+  "photos": 5,
+  "type": "wycieczka"
+ },
+ {
+  "slug": "wycieczka-z-hurghady-do-abu-dabbab",
+  "title": "Wycieczka z Hurghady do Abu Dabbab – żółwie i snorkeling",
+  "shortTitle": "Wycieczka z Hurghady do Abu Dabbab – żółwie i snorkeling",
+  "category": "morze",
+  "base": "Hurghada",
+  "duration": "1 dzień",
+  "price": 62,
+  "priceOld": 70,
+  "tiers": [],
+  "description": [
+   "Wycieczka z hurghady do abu dabbab  Snorkeling z żółwiami  Abu Dabbab",
+   "Hurghada → Abu Dabbab Plaża Abu Dabbab, snorkeling, żółwie morskie i możliwość zobaczenia diugonia.",
+   ""
+  ],
+  "included": [],
+  "notIncluded": [],
+  "photos": 5,
+  "type": "wycieczka"
+ },
+ {
+  "slug": "super-kair-z-hurghady-piramidy-muzeum-i-rejs-po-nilu",
+  "title": "Wycieczka do Kairu z Hurghady – Super Kair + Piramidy w Gizie + Muzeum, 1 dzień",
+  "shortTitle": "Wycieczka do Kairu z Hurghady",
+  "category": "historia",
+  "base": "Hurghada",
+  "duration": "1 dzień",
+  "price": 70,
+  "priceOld": 80,
+  "tiers": [],
+  "description": [
+   "Wycieczka do Kairu z Hurghady  Polskojęzyczny przewodnik  Kair + Stary Kair",
+   "Hurghada → Kair, 1 dzień Kair z Hurghady autokarem: Muzeum Egipskie, Stary Kair, piramidy, Sfinks i czas na zakupy.",
+   ""
+  ],
+  "included": [],
+  "notIncluded": [],
+  "photos": 5,
+  "type": "wycieczka"
+ },
+ {
+  "slug": "wycieczka-do-luksoru-z-hurghady-4",
+  "title": "Wycieczka do Luksoru z Hurghady",
+  "shortTitle": "Wycieczka do Luksoru z Hurghady",
+  "category": "historia",
+  "base": "Hurghada",
+  "duration": "1 dzień",
+  "price": 70,
+  "priceOld": 88,
+  "tiers": [],
+  "description": [
+   "Wycieczka do Luksoru z Hurghady  Polski przewodnik ⭐ Luksor z Hurghady",
+   "Hurghada → Luksor, 1 dzień Całodniowa wycieczka do Luksoru: Karnak, Dolina Królów, świątynia Hatszepsut i Kolosy Memnona.",
+   ""
+  ],
+  "included": [],
+  "notIncluded": [],
+  "photos": 5,
+  "type": "wycieczka"
+ },
+ {
+  "slug": "wyspa-bianca-lodz-ze-szklanym-dnem-rajska-przygoda-z-hurghady",
+  "title": "Wyspa Bianca + Łódź ze Szklanym Dnem – rajska przygoda z Hurghady!",
+  "shortTitle": "Wyspa Bianca + Łódź ze Szklanym Dnem",
+  "category": "morze",
+  "base": "Hurghada",
+  "duration": "1 dzień",
+  "price": 75,
+  "priceOld": 90,
+  "tiers": [
+   {
+    "label": "Dorosły",
+    "usd": 75
+   },
+   {
+    "label": "Dzieci 5-11 lat",
+    "usd": 38
+   }
+  ],
+  "description": [
+   "Wyspa Bianca + Łódź ze Szklanym Dnem – rajska przygoda z Hurghady!",
+   "Zapraszamy na niezapomnianą, całodniową morską wycieczkę z Hurghady na przepiękną Wyspę Bianca, połączoną z rejsem łodzią ze szklanym dnem! To doskonała okazja, by zobaczyć podwodny świat Morza Czerwonego bez konieczności nurkowania – idealna atrakcja dla całej rodziny!",
+   "Program wycieczki: Wyspa Bianca + Łódź ze Szklanym Dnem – rajska przygoda z Hurghady!",
+   "Odbiór z hotelu – rano (ok. 8:00) klimatyzowanym busem z Hurghady"
+  ],
+  "included": [
+   "Transfer z i do hotelu",
+   "Rejs łodzią ze szklanym dnem",
+   "Sprzęt do snorkelingu (maski, rurki)",
+   "Obiad i napoje bezalkoholowe"
+  ],
+  "notIncluded": [
+   "wydatki własne, napiwki",
+   "zdjęcia robione przez fotografa"
+  ],
+  "photos": 1,
+  "type": "wycieczka"
+ },
+ {
+  "slug": "wycieczka-gem-kair-z-hurghady",
+  "title": "Wycieczka z Hurghady do Wielkiego Muzeum Egipskiego",
+  "shortTitle": "Wycieczka z Hurghady do Wielkiego Muzeum Egipskiego",
+  "category": "historia",
+  "base": "Hurghada",
+  "duration": "1 dzień",
+  "price": 90,
+  "priceOld": 120,
+  "tiers": [],
+  "description": [
+   "Wycieczka z Hurghady do Wielkiego Muzeum Egipskiego  Polski przewodnik",
+   "⭐ GEM + Piramidy Hurghada → Muzeum GEM Wielkie Muzeum Egipskie, piramidy w Gizie i Sfinks w jednej wycieczce z Hurghady.",
+   ""
+  ],
+  "included": [],
+  "notIncluded": [],
+  "photos": 5,
+  "type": "wycieczka"
+ },
+ {
+  "slug": "wycieczka-z-hurghady-na-wyspe-mahmya-raj-na-morzu-czerwonym",
+  "title": "Wycieczka z Hurghady na Wyspę Mahmya – Raj na Morzu Czerwonym",
+  "shortTitle": "Wycieczka z Hurghady na Wyspę Mahmya – Raj na Morzu Czerwonym",
+  "category": "morze",
+  "base": "Hurghada",
+  "duration": "1 dzień",
+  "price": 97,
+  "priceOld": 120,
+  "tiers": [],
+  "description": [
+   "Wycieczka z Hurghady na Wyspę Mahmya – Raj na Morzu Czerwonym",
+   "Opis wycieczki: Wycieczka z Hurghady na Wyspę Mahmya – Raj na Morzu Czerwonym",
+   "Zapraszamy na całodniową wyprawę na jedną z najpiękniejszych wysp w okolicach Hurghady –",
+   "Mahmya Island, zwaną egipskimi Malediwami! Czeka Cię relaks na białym piasku, turkusowa woda i niezapomniane widoki raf koralowych."
+  ],
+  "included": [
+   "Transfer z i do hotelu",
+   "Rejs jachtem",
+   "Obiad na wyspie (bufet)",
+   "Sprzęt do snorkelingu",
+   "Woda i napoje bezalkoholowe na łodzi"
+  ],
+  "notIncluded": [
+   "Napoje alkoholowe",
+   "akupy, wydatki własne, napiwki",
+   "zdjęcia robione przez fotografa",
+   "Wycieczka z Hurghady na Wyspę Mahmya – Raj na Morzu Czerwonym"
+  ],
+  "photos": 3,
+  "type": "wycieczka"
+ },
+ {
+  "slug": "wycieczka-buggy-safari-z-hurghady",
+  "title": "Wycieczka Buggy Safari z Hurghady",
+  "shortTitle": "Wycieczka Buggy Safari z Hurghady",
+  "category": "safari",
+  "base": "Hurghada",
+  "duration": "1 dzień",
+  "price": 140,
+  "priceOld": 160,
+  "tiers": [],
+  "description": [
+   "Wycieczka Buggy Safari z Hurghady Przeżyj prawdziwą pustynną przygodę podczas ekscytującej wycieczki Buggy Safari z Hurghady! Czeka Cię ogromna dawka adrenaliny, zapierające dech w piersiach widoki i spotkanie z kulturą Beduinów.",
+   "Program wycieczki: Wycieczka Buggy Safari z Hurghady Odbiór z hotelu – wygodnym klimatyzowanym busem zabierzemy Cię prosto z hotelu",
+   "Jazda buggy po pustyni – zasiądź za kierownicą dwuosobowego lub czteroosobowego buggy i poczuj wiatr we włosach, przemierzając złote wydmy pustyni.",
+   "Wizyta w wiosce Beduinów – poznaj życie i tradycje mieszkańców pustyni."
+  ],
+  "included": [
+   "Transfer z i do hotelu",
+   "Jazda buggy po pustyni",
+   "Wizyta w wiosce Beduinów",
+   "Przejażdżka na wielbłądzie",
+   "Herbata beduińska"
+  ],
+  "notIncluded": [
+   "zakupy, napoje, wydatki własne",
+   "zdjęcia robione przez fotografa",
+   "arafatki",
+   "gogle",
+   "Wycieczka Buggy Safari z Hurghady"
+  ],
+  "photos": 4,
+  "type": "wycieczka"
+ },
+ {
+  "slug": "wycieczka-z-hurghady-lot-balonem-nad-luksorem",
+  "title": "Wycieczka z Hurghady do Luksoru – lot balonem nad Luksorem",
+  "shortTitle": "Wycieczka z Hurghady do Luksoru – lot balonem nad Luksorem",
+  "category": "historia",
+  "base": "Hurghada",
+  "duration": "1 dzień",
+  "price": 155,
+  "priceOld": 170,
+  "tiers": [],
+  "description": [
+   "Lot balonem ⭐ Luksor z Hurghady Lot balonem nad Luksorem Wyjazd z Hurghady do Luksoru z noclegiem i porannym lotem balonem nad zabytkami.",
+   ""
+  ],
+  "included": [],
+  "notIncluded": [],
+  "photos": 5,
+  "type": "wycieczka"
+ },
+ {
+  "slug": "speed-boat-hurghada",
+  "title": "Speed Boat Hurghada – Dolphin House, Orange Bay i Hula Hula",
+  "shortTitle": "Speed Boat Hurghada – Dolphin House, Orange Bay i Hula Hula",
+  "category": "morze",
+  "base": "Hurghada",
+  "duration": "1 dzień",
+  "price": 180,
+  "priceOld": 200,
+  "tiers": [],
+  "description": [
+   "Speed Boat Hurghada  Delfiny + snorkeling Speed Boat Hurghada",
+   "Prywatny rejs speed boatem: Dolphin House, Orange Bay lub Hula Hula i snorkeling na rafach.",
+   ""
+  ],
+  "included": [],
+  "notIncluded": [],
+  "photos": 5,
+  "type": "wycieczka"
+ },
+ {
+  "slug": "wycieczka-z-hurghady-do-kairu-samolotem",
+  "title": "Wycieczka z Hurghady do Kairu samolotem (1 dzień) – Piramidy i Muzeum",
+  "shortTitle": "Wycieczka z Hurghady do Kairu samolotem (1 dzień)",
+  "category": "historia",
+  "base": "Hurghada",
+  "duration": "1 dzień",
+  "price": 300,
+  "priceOld": 330,
+  "tiers": [],
+  "description": [
+   "Wycieczka z hurghady do kairu samolotem  Polskojęzyczny przewodnik",
+   "Kair samolotem Hurghada → Kair samolotem Jednodniowa wycieczka do Kairu samolotem: Muzeum Egipskie, piramidy w Gizie i Sfinks.",
+   ""
+  ],
+  "included": [],
+  "notIncluded": [],
+  "photos": 5,
+  "type": "wycieczka"
+ },
+ {
+  "slug": "wycieczka-z-hurghady-zakupy",
+  "title": "Wycieczka z Hurghady – Zakupy - Shopping w Hurghadzie",
+  "shortTitle": "Wycieczka z Hurghady – Zakupy - Shopping w Hurghadzie",
+  "category": "relaks",
+  "base": "Hurghada",
+  "duration": "1 dzień",
+  "price": 5,
+  "priceOld": null,
+  "tiers": [],
+  "description": [
+   "Chcesz przywieźć wyjątkowe pamiątki z Egiptu? Zabierzemy Cię w najlepsze miejsca na zakupy w Hurghadzie!",
+   "Pamiątki, perfumy, olejki Zioła, przyprawy i herbaty Lokalne wyroby i wiele więcej"
+  ],
+  "included": [],
+  "notIncluded": [],
+  "photos": 5,
+  "type": "wycieczka"
+ },
+ {
+  "slug": "wycieczka-city-tour-z-hurghady",
+  "title": "Wycieczka City Tour z Hurghady",
+  "shortTitle": "Wycieczka City Tour z Hurghady",
+  "category": "relaks",
+  "base": "Hurghada",
+  "duration": "1 dzień",
+  "price": 12,
+  "priceOld": null,
+  "tiers": [
+   {
+    "label": "Dorosły",
+    "usd": 12
+   },
+   {
+    "label": "Dzieci do 11 lat",
+    "usd": 6
+   }
+  ],
+  "description": [
+   "Hurghada City Tour to wycieczka, na której zwiedzicieHurghadę, pokażemy wam znane miejsca.",
+   "Wycieczka ta rozpoczyna się w zależności od wasych preferencji, najczęsciej ok. 10 lub ok. 14  Zabierzemy was z hotelu klimatyzowanym autem bądź busem.",
+   "Zwiedzimy Kościół Koptyjski, Meczet, Bazar, tzw. SUKH z warzywami, owocami i mięsem. A także Targ Rybny, Nową Marinę, czyli nadmorski deptak oraz zabierzemy was na punkt widokowy, z którego zobaczycie panoramę miasta.  Dla chętnych Fabryka Perfum i zakupy pamiątek."
+  ],
+  "included": [
+   "Transport z/do hotelu",
+   "zwiedzanie miasta"
+  ],
+  "notIncluded": [
+   "Wydatki osobiste",
+   "Napiwki dla kierowcy i przewodnika",
+   "zakupy"
+  ],
+  "photos": 5,
+  "type": "wycieczka"
+ },
+ {
+  "slug": "turecki-hammam-w-hurghadzie-peeling-masaz-45-min",
+  "title": "Turecki Hammam",
+  "shortTitle": "Turecki Hammam",
+  "category": "relaks",
+  "base": "Hurghada",
+  "duration": "1 dzień",
+  "price": 23,
+  "priceOld": null,
+  "tiers": [
+   {
+    "label": "Dorosły/dziecko",
+    "usd": 23
+   }
+  ],
+  "description": [
+   "ŁAŹNIA TURECKA HAMMAM + MASAŻ 45 MINUT Czym jest łaźnia turecka, znana też jako hammam? To nic innego jak wspaniały relaks dla każdego.  W wielkim skrócie można powiedzieć, że to seria relaksujących zabiegów kosmetycznych, które pozwalają m.in. na uzyskanie bardziej intensywnej i co najważniejsze, utrzymującej się znacznie dłużej opalenizny.",
+   "Ten program trwa około 1 godziny."
+  ],
+  "included": [],
+  "notIncluded": [],
+  "photos": 4,
+  "type": "wycieczka"
+ },
+ {
+  "slug": "wycieczka-z-hurghady-masaz-relaksacyjny-spa",
+  "title": "Masaż relaksacyjny",
+  "shortTitle": "Masaż relaksacyjny",
+  "category": "relaks",
+  "base": "Hurghada",
+  "duration": "1 dzień",
+  "price": 24,
+  "priceOld": null,
+  "tiers": [],
+  "description": [
+   "Masaż relaksacyjny jest wykonywany zręcznymi rękami profesjonalistów a więc to, czego potrzebujesz podczas wypoczynku! Masaż w Hurghadzie to idealny sposób na relaks i odpoczynek. Możesz znaleźć kilka opcji masażu całego ciała w Hurghadzie, w cenach zaczynających się od 20$ za osobę."
+  ],
+  "included": [],
+  "notIncluded": [],
+  "photos": 4,
+  "type": "wycieczka"
+ },
+ {
+  "slug": "wycieczka-z-hurghady-family-safari",
+  "title": "Wycieczka z Hurghady Family Safari",
+  "shortTitle": "Wycieczka z Hurghady Family Safari",
+  "category": "safari",
+  "base": "Hurghada",
+  "duration": "1 dzień",
+  "price": 25,
+  "priceOld": null,
+  "tiers": [
+   {
+    "label": "Dorosły",
+    "usd": 25
+   },
+   {
+    "label": "Dzieci 5-11 lat",
+    "usd": 13
+   }
+  ],
+  "description": [
+   "Family Safari to safari, na którym pojezdzicie quadami i buggy, a do wioski beduińskiej zawiezie was przez pustynię jeep.",
+   "Zbiórka przed hotelem około 8 rano. Ponad godzinna jazda przez pustynię do wioski beduińskiej usytuowanej między górami. Po drodze przystanek na fatamorganę – jeśli pogoda pozwoli. W wiosce odpoczynek w szałasach.",
+   "Przewodnik oprowadzi Państwa po wiosce. Pokaże m.in. jak beduinki wypiekają chleb – będziecie mogli go spróbować. Następnie przejażdżka na wielbłądach. Odwiedzą Państwo również miejscową aptekę – zobaczycie w niej m. in. zioła, rośliny i maści, którymi leczą się beduini.",
+   "Następnie przejażdżka po pustyni na quadach (około 30-40 min.) oraz buggy ( około 10- 15 min)."
+  ],
+  "included": [
+   "Transport z/do hotelu",
+   "Jazda jeepem, quadami, buggy",
+   "jazda na wielbłądzie"
+  ],
+  "notIncluded": [
+   "Wydatki osobiste",
+   "Napiwki dla załogi",
+   "Napoje",
+   "zdjęcia robione przez fotografa"
+  ],
+  "photos": 5,
+  "type": "wycieczka"
+ },
+ {
+  "slug": "wycieczka-z-hurghady-moto-quad-safari-3h",
+  "title": "Wycieczka z Hurghady Moto Quad Safari 3h",
+  "shortTitle": "Wycieczka z Hurghady Moto Quad Safari 3h",
+  "category": "safari",
+  "base": "Hurghada",
+  "duration": "1 dzień",
+  "price": 25,
+  "priceOld": null,
+  "tiers": [
+   {
+    "label": "Dorosły",
+    "usd": 25
+   },
+   {
+    "label": "Dzieci 5-11 lat",
+    "usd": 13
+   }
+  ],
+  "description": [
+   "Jeśli chcesz poczuć „oddech Sahary” to Moto Quad Safari Hurghada 3 godziny",
+   "– jest to idealna propozycja dla Ciebie. Wycieczka, która łączy ze sobą sporą dawkę adrenaliny z refleksją i zadumą, nieskazitelnym, czystym powietrzem i zderzeniem się z mało znaną w Europie, kulturą i tradycją beduinską, sięgającą VII wieku.",
+   "Moto Quad Safari 3 godziny – to wycieczka skupiająca się na quadach. W trakcie wycieczki przejadą Państwo Saharę z bazy do wioski Beduinów, gdzie będzie można przejechać się wielbłądem, skosztować chleba i herbaty Beduinów i powrócić z wioski do bazy.",
+   "Startujemy ok. 9 rano lub ok. 13-14 po południu. Już spod hotelu zabierają nas jeepy, które zawiozą nas do bazy. Tam wsiadamy na quady, wyruszymy w głąb pustyni, w góry, gdzie z herbatą i chlebem wypiekanym metodą sprzed kilku wieków, czekają na nas Beduini. Impreza przewiduje również przejażdżkę na wielbłądzie i wzgórze z przepiękną panoramą."
+  ],
+  "included": [
+   "Transport z/do hotelu",
+   "Jazda quadem",
+   "jazda na wielbłądzie"
+  ],
+  "notIncluded": [
+   "Wydatki osobiste",
+   "Napiwki",
+   "Napoje",
+   "zdjęcia robione przez fotografa"
+  ],
+  "photos": 5,
+  "type": "wycieczka"
+ },
+ {
+  "slug": "wycieczki-inne-z-hurghady-jazda-na-wielbladzie",
+  "title": "Wycieczki inne z Hurghady - Jazda na wielbłądzie",
+  "shortTitle": "Wycieczki inne z Hurghady - Jazda na wielbłądzie",
+  "category": "safari",
+  "base": "Hurghada",
+  "duration": "1 dzień",
+  "price": 25,
+  "priceOld": null,
+  "tiers": [],
+  "description": [
+   "Wielbłądy są fizjologicznie przystosowane do życia w warunkach suchego i gorącego klimatu, są w wielu krajach wykorzystywane jako zwierzęta użytkowe.",
+   "Wielbłądy wykorzystywane są jako wierzchowce, zwierzęta juczne, źródło mleka, wełny, mięsa i skóry, a także w celach rozrywkowych (cyrki, wyścigi wielbłądów).",
+   "W przeszłości wykorzystywane były również do celów transportowych ze względu na to, że potrafiły przenosić ładunki o masie wynoszącej 220–270 kg.",
+   "Każdy, kto odwiedza Egipt po raz pierwszy, musi spróbować przejażdżki na wielbłądzie w Hurghadzie."
+  ],
+  "included": [
+   "Transport z/do hotelu",
+   "jazda wielbłądem"
+  ],
+  "notIncluded": [
+   "Wydatki osobiste",
+   "Napiwki dla kierowcy i przewodnika",
+   "zdjęcia robione przez fotografa"
+  ],
+  "photos": 5,
+  "type": "wycieczka"
+ },
+ {
+  "slug": "cleopatra-spa-w-hurghadzie-masaz-relaksacyjny-i-kompleksowe-zabiegi",
+  "title": "Cleopatra Spa + masaż w Hurghadzie",
+  "shortTitle": "Cleopatra Spa + masaż w Hurghadzie",
+  "category": "relaks",
+  "base": "Hurghada",
+  "duration": "1 dzień",
+  "price": 27,
+  "priceOld": null,
+  "tiers": [
+   {
+    "label": "Dorosły/dziecko",
+    "usd": 27
+   }
+  ],
+  "description": [
+   "Oferujemy 2-godzinny program VIP łączący tradycyjne zabiegi SPA z nowoczesnym masażem relaksacyjnym. :",
+   "Odpręż się i zrelaksuj w Cleopatra Spa! Podaruj sobie odrobinę luksusu .",
+   "Program ten trwa około 2 godzin."
+  ],
+  "included": [],
+  "notIncluded": [],
+  "photos": 4,
+  "type": "wycieczka"
+ },
+ {
+  "slug": "wycieczka-z-hurghady-city-tour-muzeum",
+  "title": "Wycieczka z Hurghady City Tour Muzeum",
+  "shortTitle": "Wycieczka z Hurghady City Tour Muzeum",
+  "category": "relaks",
+  "base": "Hurghada",
+  "duration": "1 dzień",
+  "price": 27,
+  "priceOld": null,
+  "tiers": [
+   {
+    "label": "Dorosły",
+    "usd": 27
+   },
+   {
+    "label": "Dzieci",
+    "usd": 13
+   }
+  ],
+  "description": [
+   "Hurghada City Tour to wycieczka, na której zwiedzicieHurghadę, pokażemy wam znane miejsca.",
+   "Wycieczka ta rozpoczyna się w zależności od waszych preferencji, najczęściej ok. 10 lub ok. 14  Zabierzemy was z hotelu klimatyzowanym autem bądź busem.",
+   "Zwiedzimy Kościół Koptyjski, Meczet, Bazar, tzw. SUKH z warzywami, owocami i mięsem. A także Targ Rybny, Nową Marinę, czyli nadmorski deptak oraz zabierzemy was na punkt widokowy, z którego zobaczycie panoramę miasta.  Dla chętnych Fabryka Perfum i zakupy pamiątek.",
+   "W trakcie wycieczki zwiedzicie również Muzeum w Hurghadzie. To pierwsze muzeum archeologiczne w Egipcie, które powstało we współpracy z sektorem prywatnym."
+  ],
+  "included": [
+   "Transport z/do hotelu",
+   "zwiedzanie miasta",
+   "muzeum"
+  ],
+  "notIncluded": [
+   "Wydatki osobiste",
+   "Napiwki dla kierowcy i przewodnika",
+   "zakupy"
+  ],
+  "photos": 5,
+  "type": "wycieczka"
+ },
+ {
+  "slug": "wycieczka-z-hurghady-do-el-gouny",
+  "title": "Wycieczka z Hurghady do El Gouny",
+  "shortTitle": "Wycieczka z Hurghady do El Gouny",
+  "category": "morze",
+  "base": "Hurghada",
+  "duration": "1 dzień",
+  "price": 27,
+  "priceOld": null,
+  "tiers": [
+   {
+    "label": "Dorosły",
+    "usd": 27
+   },
+   {
+    "label": "Dzieci",
+    "usd": 14
+   }
+  ],
+  "description": [
+   "Proponujemy Państwu kolejną, bardziej zaawansowaną wersję wycieczek krajoznawczych",
+   "Wycieczka po Mieście El Gouna . 30 km na północ od Hurghady znajduje się wyjątkowy kurort o romantycznej nazwie Egipska Wenecja lub El Gouna.",
+   "El Gouna otrzymała tę nazwę ze względu na fakt, że cała składa się ze sztucznie wykopanych kanałów wypełnionych wodą morską. Na tej wyspie znajdują się luksusowe hotele i prywatne wille. Cały teren tego obszaru jest zielony: dużo drzew i krzewów, gaje mango, ogrody, kwiaty i rozległe obszary pól golfowych. Tego nie da się opisać… To trzeba zobaczyć!",
+   "Odbierzemy Cię z hotelu i pojedziemy do El Gouny w towarzystwie przewodnika prywatnym klimatyzowanym samochodem."
+  ],
+  "included": [
+   "Transport z/do hotelu",
+   "zwiedzanie miasta"
+  ],
+  "notIncluded": [
+   "Wydatki osobiste",
+   "Napiwki dla kierowcy i przewodnika",
+   "zakupy"
+  ],
+  "photos": 5,
+  "type": "wycieczka"
+ },
+ {
+  "slug": "wycieczka-z-hurghady-parasailing",
+  "title": "Wycieczka z Hurghady - Parasailing",
+  "shortTitle": "Wycieczka z Hurghady - Parasailing",
+  "category": "morze",
+  "base": "Hurghada",
+  "duration": "1 dzień",
+  "price": 27,
+  "priceOld": null,
+  "tiers": [
+   {
+    "label": "Osoba towarzyszaca (bez lotu)",
+    "usd": 10
+   }
+  ],
+  "description": [
+   "Parasailng to oferta wycieczki morskiej, oferująca wzbicie się na spadochronie  za ciągnącą go motorówką.",
+   "Zobacz jak wygląda Hurghada z lotu ptaka i poczuj sporą dawkę adrenaliny!",
+   "Z całą pewnością atrakcja w Hurghadzie warta waszej uwagi. Wprawdzie lot ze spadochronem trwa tylko kilka (5-7) minut, ale wycieczka trwa dłużej. Na motorówce, która ciągnie spadochron jest więcej osób, które będą korzystać z tej atrakcji.",
+   "Sami możecie zdecydować czy chcecie lecieć wyżej czy niżej, czy chcecie zanurzyć część ciała w wodzie, czy nie."
+  ],
+  "included": [
+   "Transfer z/do hotelu",
+   "lot spadochronem"
+  ],
+  "notIncluded": [
+   "Wydatki osobiste",
+   "Napiwki dla załogi",
+   "zdjęcia robione przez fotografa"
+  ],
+  "photos": 5,
+  "type": "wycieczka"
+ },
+ {
+  "slug": "wycieczka-z-hurghady-moto-quad-safari-5h",
+  "title": "Wycieczka z Hurghady Moto Quad Safari 5h",
+  "shortTitle": "Wycieczka z Hurghady Moto Quad Safari 5h",
+  "category": "safari",
+  "base": "Hurghada",
+  "duration": "1 dzień",
+  "price": 30,
+  "priceOld": null,
+  "tiers": [
+   {
+    "label": "Dorosły",
+    "usd": 30
+   },
+   {
+    "label": "Dzieci 5-11 lat",
+    "usd": 15
+   }
+  ],
+  "description": [
+   "Moto Quad Safari 5 godzin – to wycieczka skupiająca się na quadach. W trakcie wycieczki przejadą Państwo Saharę z bazy do wioski Beduinów, gdzie będzie można przejechać się wielbłądem, skosztować chleba i herbaty Beduinów. Po powrocie do bazy będzie przygotowana kolacja oraz obejrzycie show tańca brzucha i tanury.",
+   "Samodzielnie kierować quadem może osoba, która ukończyła 16 lat."
+  ],
+  "included": [
+   "Transport z/do hotelu",
+   "Jazda quadami",
+   "kolacja",
+   "orientalne show",
+   "jazda na wielbłądzie"
+  ],
+  "notIncluded": [
+   "Wydatki osobiste",
+   "Napiwki",
+   "Napoje",
+   "zdjęcia robione przez fotografa"
+  ],
+  "photos": 5,
+  "type": "wycieczka"
+ },
+ {
+  "slug": "wycieczka-z-hurghady-na-wyspe-hula-hula",
+  "title": "Wycieczka z Hurghady na Wyspę Hula Hula",
+  "shortTitle": "Wycieczka z Hurghady na Wyspę Hula Hula",
+  "category": "morze",
+  "base": "Hurghada",
+  "duration": "1 dzień",
+  "price": 30,
+  "priceOld": null,
+  "tiers": [
+   {
+    "label": "Dorosły",
+    "usd": 30
+   },
+   {
+    "label": "Dzieci 5-11 lat",
+    "usd": 15
+   }
+  ],
+  "description": [
+   "Klimatyczna, afrykańska plaża Hula Hula Hurghada usytuowana jest przy brzegu z niewielką rafą.",
+   "Plaża Hula Hula Hurghada przepełniona jest wieloma miejscami z bajeczną wręcz scenografia, która stwarza nam doskonałe warunki dla fotografii i filmików. Pod afrykańskimi parasolami stworzone są miejsca do wypoczynku!",
+   "Startujemy w godzinach porannych. Odbiór z hoteli odbywa sie miedzy 7.30 a 8.30, w zależności od hotelu. Ok godziny 9-10 wypływamy na morze. W czasie rejsu czeka nas kilka sympatycznych atrakcji, takich jak snurkowanie, przejażdżka bananem lub sofą wodną (o ile pogoda pozwoli).",
+   "Podczas wycieczki na Plażę Hula Hula Hurghada – będziesz miał ok. 1,5-2 godziny, aby cieszyć się wszystkimi urokami wyspy. Pływaj, snurkuj i rób niezapomniane zdjęcia!"
+  ],
+  "included": [],
+  "notIncluded": [],
+  "photos": 5,
+  "type": "wycieczka"
+ },
+ {
+  "slug": "wycieczka-z-hurghady-na-wyspe-magawish",
+  "title": "Wycieczka z Hurghady na Wyspę Magawish",
+  "shortTitle": "Wycieczka z Hurghady na Wyspę Magawish",
+  "category": "morze",
+  "base": "Hurghada",
+  "duration": "1 dzień",
+  "price": 30,
+  "priceOld": null,
+  "tiers": [
+   {
+    "label": "Dorosły",
+    "usd": 30
+   },
+   {
+    "label": "Dzieci 5-11 lat",
+    "usd": 15
+   }
+  ],
+  "description": [
+   "Wyspę Magawish Hurghada wyróżnia błękitna płytka woda, Wyspa Magawish Hurghada",
+   "To nie tylko miejsce odpoczynku, i kąpieli słonecznych. To także raj dla fotografii i filmu rodem z pocztówek.",
+   "Startujemy w godzinach porannych. Odbiór z hoteli odbywa sie między 7.30 a 8.30, w zależności od hotelu. Ok godziny 9-10 wypływamy na morze.",
+   "W czasie rejsu czeka nas kilka sympatycznych atrakcji, takich jak snurkowanie, przejażdżka bananem lub sofą wodną (jeśli pogoda pozwoli)."
+  ],
+  "included": [
+   "Transfer z/do hotelu",
+   "Napoje ciepłe i zimne na statku",
+   "Obiad na statku",
+   "Sporty wodne (banan i kanapa)",
+   "Sprzęt do snurkowania"
+  ],
+  "notIncluded": [
+   "Wydatki osobiste",
+   "Napiwki dla załogi",
+   "Napoje, jedzenie na plaży",
+   "zdjęcia robione przez fotografa"
+  ],
+  "photos": 5,
+  "type": "wycieczka"
+ },
+ {
+  "slug": "wycieczka-z-hurghady-super-safari-sahara-park",
+  "title": "Wycieczka z Hurghady - Super Safari Sahara Park",
+  "shortTitle": "Wycieczka z Hurghady - Super Safari Sahara Park",
+  "category": "safari",
+  "base": "Hurghada",
+  "duration": "1 dzień",
+  "price": 30,
+  "priceOld": null,
+  "tiers": [
+   {
+    "label": "Dorosły",
+    "usd": 30
+   },
+   {
+    "label": "Dzieci 5-11 lat",
+    "usd": 15
+   }
+  ],
+  "description": [
+   "Lubicie poznawać lokalne kultury? Chcecie poznać przedstawicieli koczowniczego i półkoczowniczego arabskiego plemiona? A może po prostu chcecie zobaczyć największą gorącą pustynię na Ziemi?",
+   "Jeśli chociaż na jedno pytanie odpowiedzieliście TAK, to ta wycieczka jest właśnie dla Was! Idealna również na rodzinne wypady.",
+   "Zbiórka przed hotelem około 12-13. Ponad godzinna jazda przez pustynię do wioski beduińskiej usytuowanej między górami.",
+   "Po drodze przystanek na fatamorganę – jeśli pogoda pozwoli. W wiosce odpoczynek w szałasach."
+  ],
+  "included": [
+   "Transport z/do hotelu",
+   "Jazda jeepem, quadami, buggy",
+   "kolacja",
+   "orientalne show"
+  ],
+  "notIncluded": [
+   "Wydatki osobiste",
+   "Napiwki dla załogi",
+   "Napoje",
+   "zdjęcia robione przez fotografa"
+  ],
+  "photos": 5,
+  "type": "wycieczka"
+ },
+ {
+  "slug": "kurs-padi-advanced-open-water-diver-w-hurghadzie",
+  "title": "Kurs PADI Advanced Open Water Diver w Hurghadzie – do 30 m",
+  "shortTitle": "Kurs PADI Advanced Open Water Diver w Hurghadzie – do 30 m",
+  "category": "kurs",
+  "base": "Hurghada",
+  "duration": "2 dni",
+  "price": 35,
+  "priceOld": null,
+  "tiers": [],
+  "description": [
+   "Kurs nurkowania PADI  PADI Advanced Open Water Diver w Hurghadzie",
+   "Zaawansowany kurs nurkowy PADI dla osób po OWD, dzięki któremu rozwiniesz praktyczne umiejętności, zdobędziesz",
+   "Międzynarodowy certyfikat PADI Advanced Open Water Diver i po ukończeniu będziesz mógł nurkować do",
+   "30 metrów . ⏱ Czas trwania 2 dni  Nurkowania 5 nurkowań  Certyfikat"
+  ],
+  "included": [],
+  "notIncluded": [],
+  "photos": 5,
+  "type": "kurs"
+ },
+ {
+  "slug": "kurs-padi-open-water-diver-w-hurghadzie",
+  "title": "Kurs PADI Open Water Diver w Hurghadzie – certyfikat PADI",
+  "shortTitle": "Kurs PADI Open Water Diver w Hurghadzie – certyfikat PADI",
+  "category": "kurs",
+  "base": "Hurghada",
+  "duration": "4 dni",
+  "price": 35,
+  "priceOld": null,
+  "tiers": [],
+  "description": [
+   "Zdobądź międzynarodowy certyfikat PADI i nurkuj do 18 m na całym świecie.",
+   "Kurs nurkowania PADI  PADI Open Water Diver w Hurghadzie Podstawowy kurs nurkowy PADI, dzięki któremu zdobędziesz",
+   "Międzynarodowy certyfikat nurkowy i po ukończeniu będziesz mógł nurkować z partnerem do",
+   "18 metrów na całym świecie. ⏱ Czas trwania 3–4 dni  Nurkowania"
+  ],
+  "included": [],
+  "notIncluded": [],
+  "photos": 5,
+  "type": "kurs"
+ },
+ {
+  "slug": "wycieczka-do-mini-egypt-park",
+  "title": "Wycieczka do Mini Egypt Park",
+  "shortTitle": "Wycieczka do Mini Egypt Park",
+  "category": "relaks",
+  "base": "Hurghada",
+  "duration": "1 dzień",
+  "price": 35,
+  "priceOld": null,
+  "tiers": [
+   {
+    "label": "Dorosły",
+    "usd": 35
+   },
+   {
+    "label": "Dzieci 4-11 lat",
+    "usd": 18
+   }
+  ],
+  "description": [
+   "Mini-Park Egypt to specjalne miejsce w którym znajduje się miniatura całego Egiptu. Znajduje się tam ponad 50 makiet. Jest to miejsce, dzięki któremu zobaczysz cały Egipt w pigułce",
+   "Park znajduje się w rejonie Makadi w Hurghadzie, obok delfinarium. Odbierzemy Cię wygodnym samochodem z hotelu a po około 25 minutach dotrzesz do Mini Egypt Park.",
+   "Na jego terytorium zobaczysz ponad 50 zabytków Egiptu, wykonanych w zmniejszonej skali: są to piramidy, Sfinks, starożytne meczety Aleksandrii i Kairu, Muzeum Egipskie, budynek Mugammy, Uniwersytet Amerykański, świątynie Luksoru, budynek Biblioteki Aleksandryjskiej i wiele innych. Przy każdym obiekcie znajduje się tabliczka ze szczegółowym opisem tej atrakcji. Nawet Nil wygląda jak prawdziwa rzeka.",
+   "Pod koniec wycieczki odwieziemy Cię do miejsca zakwaterowania w Hurghadzie."
+  ],
+  "included": [
+   "Transport z/do hotelu",
+   "zwiedzanie mini Egypt Park"
+  ],
+  "notIncluded": [
+   "Wydatki osobiste",
+   "Napiwki dla kierowcy i przewodnika",
+   "zakupy"
+  ],
+  "photos": 5,
+  "type": "wycieczka"
+ },
+ {
+  "slug": "wycieczka-vip-moto-quad-safari",
+  "title": "Wycieczka VIP Moto Quad Safari",
+  "shortTitle": "Wycieczka VIP Moto Quad Safari",
+  "category": "safari",
+  "base": "Hurghada",
+  "duration": "1 dzień",
+  "price": 37,
+  "priceOld": null,
+  "tiers": [
+   {
+    "label": "Dorosły/dziecko",
+    "usd": 37
+   }
+  ],
+  "description": [
+   "Jeśli chcesz poczuć „oddech Sahary” to VIP Moto Quad Safari 2 godzin",
+   "Y – jest to idealna propozycja dla Ciebie. Wycieczka, która łączy ze sobą sporą dawkę adrenaliny z refleksją i zadumą, nieskazitelnym, czystym powietrzem.",
+   "Tu możesz przekonać się, że pustynia nie musi kojarzyć się z palącym słońcem i wszechobecnym piachem. Wręcz odwrotnie, 2 godzinny pobyt w niemal dziewiczym środowisku pustynnym podaruje Ci pakiet wzmacniający energię.",
+   "VIP Moto Quad Safari 2h – to wycieczka quadami. Podzielona jest na dwie części. Najpierw quadem jeździmy po pustyni, następnie quadem jeździmy po klifach, plaży, wzdłuż Morza Czerwonego. Przepiękne miejsce do robienia zdjęć. Wycieczka odbywa się w Makadi."
+  ],
+  "included": [
+   "Transport z/do hotelu",
+   "Jazda quadami"
+  ],
+  "notIncluded": [
+   "Wydatki osobiste",
+   "Napiwki",
+   "Napoje",
+   "zdjęcia robione przez fotograf"
+  ],
+  "photos": 5,
+  "type": "wycieczka"
+ },
+ {
+  "slug": "wycieczka-sunset-safari-teleskop",
+  "title": "Wycieczka Sunset Safari + Teleskop, kolacja na pustyni",
+  "shortTitle": "Wycieczka Sunset Safari + Teleskop, kolacja na pustyni",
+  "category": "safari",
+  "base": "Hurghada",
+  "duration": "1 dzień",
+  "price": 37,
+  "priceOld": null,
+  "tiers": [
+   {
+    "label": "Dorosły",
+    "usd": 37
+   },
+   {
+    "label": "Dzieci 5-11 lat",
+    "usd": 18
+   }
+  ],
+  "description": [
+   "Jeśli chcesz poczuć „oddech Sahary” to jest idealna propozycja dla Ciebie. Wycieczka, która łączy ze sobą refleksję i zadumę, nieskazitelnie, czyste powietrze i zderzenie się z mało znaną w Europie, kulturą i tradycją beduińską.",
+   "Startujemy ok. 14-15. Już spod hotelu zabierają nas jeepy, które zawiozą nas w głąb pustyni, do wioski beduińskiej,  Impreza przewiduje również przejażdżkę na wielbłądzie oraz podziwianie zachodu słońca na pustyni. Następnie zjemy romantyczną kolację przy świecach, w wiosce beduińskiej. Po kolacji będziemy oglądać księżyc i gwiazdy przez teleskop. Powrót do hotelu ok. godziny 20-21."
+  ],
+  "included": [
+   "Transport z/do hotelu",
+   "kolacja",
+   "orientalne show",
+   "jazda na wielbłądzie"
+  ],
+  "notIncluded": [
+   "Wydatki osobiste",
+   "Napiwki",
+   "Napoje",
+   "zdjęcia robione przez fotografa"
+  ],
+  "photos": 5,
+  "type": "wycieczka"
+ },
+ {
+  "slug": "wycieczka-morska-z-hurghady-wycieczka-z-hurghady-hula-hula-seascope",
+  "title": "Wycieczka morska z Hurghady - Wycieczka z Hurghady Hula Hula + Seascope",
+  "shortTitle": "Wycieczka morska z Hurghady",
+  "category": "morze",
+  "base": "Hurghada",
+  "duration": "1 dzień",
+  "price": 40,
+  "priceOld": null,
+  "tiers": [
+   {
+    "label": "Dorosły",
+    "usd": 40
+   },
+   {
+    "label": "Dzieci 5-11 lat",
+    "usd": 20
+   }
+  ],
+  "description": [
+   "Klimatyczna, afrykańska plaża Hula Hula Hurghada usytuowana jest przy brzegu z niewielką rafą.",
+   "Można tam skorzystać również z kolorowych dmuchanych zjeżdżalni.",
+   "Plaża Hula Hula Hurghada przepełniona jest wieloma miejscami z bajeczną wręcz scenografia, która stwarza nam doskonałe warunki dla fotografii i filmików. Pod afrykańskimi parasolami stworzone są miejsca do wypoczynku!",
+   "Ponadto w trakcie wycieczki popłyniesz łodzią podwodna Seascope."
+  ],
+  "included": [
+   "Transfer z/do hotelu",
+   "Napoje ciepłe i zimne na statku",
+   "Obiad na statku",
+   "Sporty wodne (banan lub kanapa)",
+   "Sprzęt do snurkowania"
+  ],
+  "notIncluded": [
+   "Wydatki osobiste",
+   "Napiwki dla załogi",
+   "Napoje, jedzenie na plaży",
+   "zdjęcia robione przez fotografa"
+  ],
+  "photos": 5,
+  "type": "wycieczka"
+ },
+ {
+  "slug": "wycieczka-z-hurghady-na-wyspe-magawish-seascope",
+  "title": "Wycieczka z Hurghady na Wyspę Orange +Seascope",
+  "shortTitle": "Wycieczka z Hurghady na Wyspę Orange +Seascope",
+  "category": "morze",
+  "base": "Hurghada",
+  "duration": "1 dzień",
+  "price": 40,
+  "priceOld": null,
+  "tiers": [
+   {
+    "label": "Dorosły",
+    "usd": 40
+   },
+   {
+    "label": "Dzieci 5-11 lat",
+    "usd": 20
+   }
+  ],
+  "description": [
+   "1,5 godzinny pobyt na Plaży Orange wniesie niezapomniane wspomnienia i uzupełni wakacyjny pobyt w egzotycznym kraju.",
+   "Ponadto w trakcie wycieczki popłyniesz łodzią podwodna Seascope.",
+   "Jest to dwupiętrowa łódź podwodna. Górna część znajduje się nad wodą, aby odpocząć, natomiast dolna część znajduje się trzy metry pod wodą. Pokład jest zamknięty, klimatyzowany z panoramicznymi oknami!",
+   "Popłyniesz łodzią podwodną w rejs wzdłuż Morza Czerwonego, do najpiękniejszych miejsc podwodnego świata."
+  ],
+  "included": [],
+  "notIncluded": [],
+  "photos": 5,
+  "type": "wycieczka"
+ },
+ {
+  "slug": "wycieczka-do-kairu-piramidy-i-stary-kair-z-hurghady",
+  "title": "Wycieczka z Hurghady do Kairu + Stary Kair",
+  "shortTitle": "Wycieczka z Hurghady do Kairu + Stary Kair",
+  "category": "historia",
+  "base": "Hurghada",
+  "duration": "1 dzień",
+  "price": 50,
+  "priceOld": null,
+  "tiers": [
+   {
+    "label": "Dzieci 5-11 lat",
+    "usd": 25
+   }
+  ],
+  "description": [
+   "Wycieczka z Hurghady Kair + Stary Kair Być w Egipcie i nie zobaczyć piramid, to jak być w Chinach i nie zobaczyć Muru Chińskiego…",
+   "Ponad 90% turystów, wybierając się na wakacje do Egiptu, planuje zobaczyć PIRAMIDY.",
+   "Zapraszamy na wycieczkę do Kairu. Wycieczkę rozpoczniemy około 24:30-2:30 (czas zależny od lokalizacji hotelu). Przyjedziemy po was dużym, wygodnym, klimatyzowanym autokarem.",
+   "Zwiedzanie zaczynamy od Starego Kairu, gdzie głównymi punktami są:"
+  ],
+  "included": [],
+  "notIncluded": [],
+  "photos": 5,
+  "type": "wycieczka"
+ },
+ {
+  "slug": "wycieczka-z-hurghady-do-sharm-el-naga",
+  "title": "Wycieczka z Hurghady do Sharm el Naga",
+  "shortTitle": "Wycieczka z Hurghady do Sharm el Naga",
+  "category": "morze",
+  "base": "Hurghada",
+  "duration": "1 dzień",
+  "price": 50,
+  "priceOld": null,
+  "tiers": [
+   {
+    "label": "Dorosły",
+    "usd": 50
+   },
+   {
+    "label": "Dzieci 5-11 lat",
+    "usd": 25
+   }
+  ],
+  "description": [
+   "Obszar chroniony Sharm El Naga jest ze wszystkich stron otoczony górami, więc zazwyczaj nie ma tu silnych wiatrów, a wiklinowe płoty chronią przed lekkimi bryzami.",
+   "Dlatego pogoda w Sharm El Naga jest zawsze dobra. Wybierz się w ekscytującą podróż do",
+   "Sharm El Naga . To jedno z najcudowniejszych raf koralowych w Egipcie.",
+   "Wycieczka rozpoczyna się wcześnie rano. Wygodny autobus/bus zabierze Was z waszego hotelu."
+  ],
+  "included": [],
+  "notIncluded": [],
+  "photos": 5,
+  "type": "wycieczka"
+ },
+ {
+  "slug": "wycieczka-do-luksoru-z-hurghady",
+  "title": "Wycieczka do Luksoru z Hurghady z Doliną Królowych",
+  "shortTitle": "Wycieczka do Luksoru z Hurghady z Doliną Królowych",
+  "category": "historia",
+  "base": "Hurghada",
+  "duration": "1 dzień",
+  "price": 65,
+  "priceOld": null,
+  "tiers": [
+   {
+    "label": "Dorosły",
+    "usd": 65
+   },
+   {
+    "label": "Dzieci 5-11 lat",
+    "usd": 35
+   }
+  ],
+  "description": [
+   "Luksor, niegdyś stolica Egiptu, zwany Miastem Pałaców, jest wielką gratką dla miłośników zwiedzania i historii Egiptu. Odwiedzisz z nami Karnak, Dolinę Królowych, świątynie Hatszepsut, Kolosy Memnona i inne niesamowitości tego miasta,",
+   "Wycieczkę organizujemy w każdą sobotę, około godziny 4.00 (Dokładna godzina zależna od lokalizacji waszego hotelu). Do tego niezwykłego miejsca zabierze was wygodny, klimatyzowany autokar lub mikrobus. W Luksorze będzie wam towarzyszył polskojęzyczny przewodnik oraz dbająca o bezpieczeństwo, kwalifikowana eskorta. Już w drodze do Luksoru będziecie mogli przyjrzeć się codziennemu życiu egipskiej prowincji.",
+   "Na miejscu, „Starożytną” przygodę rozpoczniemy od zwiedzania KARNAKU, ŚWIĄTYNI Hatszepsut i DOLINY KRÓLOWYCH.",
+   "Po obiedzie, który jest wliczony w cenę wycieczki wyruszymy na spotkanie z prawie 18 metrowymi, ważącymi ok 800 ton, KOLOSAMI MEMNONA.Te majestatyczne posągi, przedstawiające wizerunek ich pomysłodawcy, faraona Amenhotepa III są jedyną, zachowaną częścią świątyni grobowej tego władcy,która zniknęła z powierzchni ziemi w bliżej nieznanych okolicznościach."
+  ],
+  "included": [
+   "przejazd klimatyzowanym autokarem lub mikrobusem",
+   "obiad",
+   "zwiedzanie Karnaku, Świątyni Hatszepsut, Doliny Królów, Kolosów Memnona",
+   "polskojęzyczny przewodnik"
+  ],
+  "notIncluded": [
+   "wydatki osobiste, zakupy",
+   "wejście do grobowca Tutenchamona i Ramzesa III",
+   "napoje",
+   "rejs na Wyspę Bananową"
+  ],
+  "photos": 5,
+  "type": "wycieczka"
+ },
+ {
+  "slug": "wycieczka-z-hurghady-na-wyspe-eden",
+  "title": "Wycieczka z Hurghady na Wyspę Eden",
+  "shortTitle": "Wycieczka z Hurghady na Wyspę Eden",
+  "category": "morze",
+  "base": "Hurghada",
+  "duration": "1 dzień",
+  "price": 75,
+  "priceOld": null,
+  "tiers": [
+   {
+    "label": "Dorosły",
+    "usd": 75
+   },
+   {
+    "label": "Dzieci 5-10 lat",
+    "usd": 38
+   }
+  ],
+  "description": [
+   "Wycieczka na wyspę Eden to niezapomniana przygoda, którą koniecznie musisz przeżyć podczas pobytu w Hurghadzie. To magiczne miejsce, położone niedaleko wybrzeża, oferuje niezwykłe doświadczenia. Nasz jednodniowy rejs zapewnia pełen pakiet atrakcji, w tym snurkowanie, lunch oraz relaks na plaży.",
+   "Rano zabierzemy cię z hotelu do portu, skąd wypłyniemy w rejs na",
+   "Wyspę Eden . W trakcie rejsu zatrzymamy się w dwóch miejscach, gdzie podczas snurkowania będziesz oglądać podwodny świat Morza Czerwonego. Na statku zapewniamy pyszny lunch oraz napoje ciepłe i zimne.",
+   "Po zachwytach podwodnymi krajobrazami przypływamy na samą wyspę Eden"
+  ],
+  "included": [
+   "Transfer z/do hotelu",
+   "Napoje ciepłe i zimne na statku",
+   "Obiad na statku",
+   "Sporty wodne (banan i kanapa)",
+   "Sprzęt do snurkowania"
+  ],
+  "notIncluded": [
+   "Wydatki osobiste",
+   "Napiwki dla załogi",
+   "Napoje, jedzenie na plaży",
+   "zdjęcia robione przez fotografa"
+  ],
+  "photos": 3,
+  "type": "wycieczka"
+ },
+ {
+  "slug": "wycieczka-z-hurghady-super-luksor",
+  "title": "Wycieczka z Hurghady Super Luksor",
+  "shortTitle": "Wycieczka z Hurghady Super Luksor",
+  "category": "historia",
+  "base": "Hurghada",
+  "duration": "1 dzień",
+  "price": 80,
+  "priceOld": null,
+  "tiers": [
+   {
+    "label": "Dorosły",
+    "usd": 80
+   },
+   {
+    "label": "Dzieci 5-11 lat",
+    "usd": 45
+   }
+  ],
+  "description": [
+   "Luksor, niegdyś stolica Egiptu, zwany Miastem Pałaców, jest wielką gratką dla miłośników zwiedzania i historii Egiptu. Odwiedzisz z nami Karnak, Dolinę Królowych, świątynie Hatszepsut, Kolosy Memnona i inne niesamowitości tego miasta,",
+   "Wycieczkę organizujemy w każdy poniedziałek, środę i piątek, około godziny 3-4.00 (Dokładna godzina zależna od lokalizacji waszego hotelu). Do tego niezwykłego miejsca zabierze was wygodny, klimatyzowany autokar lub mikrobus. W Luksorze będzie wam towarzyszył polskojęzyczny przewodnik oraz dbająca o bezpieczeństwo, kwalifikowana eskorta. Już w drodze do Luksoru będziecie mogli przyjrzeć się codziennemu życiu egipskiej prowincji.",
+   "Na miejscu, „Starożytną” przygodę rozpoczniemy od zwiedzania KARNAKU, ŚWIĄTYNI Hatszepsut i DOLINY KRÓLÓW.",
+   "Po obiedzie, który jest wliczony w cenę wycieczki wyruszymy na spotkanie z prawie 18 metrowymi, ważącymi ok 800 ton, KOLOSAMI MEMNONA.Te majestatyczne posągi, przedstawiające wizerunek ich pomysłodawcy, faraona Amenhotepa III są jedyną, zachowaną częścią świątyni grobowej tego władcy,która zniknęła z powierzchni ziemi w bliżej nieznanych okolicznościach."
+  ],
+  "included": [
+   "przejazd klimatyzowanym autokarem lub mikrobusem",
+   "obiad",
+   "zwiedzanie Karnaku, Świątyni Hatszepsut, Doliny Krolowych, Kolosów Memnona",
+   "polskojęzyczny przewodnik"
+  ],
+  "notIncluded": [
+   "wydatki osobiste, zakupy",
+   "wejście do grobowca Tutenchamona i Ramzesa III",
+   "napoje",
+   "rejs na Wyspę Bananową"
+  ],
+  "photos": 5,
+  "type": "wycieczka"
+ },
+ {
+  "slug": "prywatna-wycieczka-do-kairu-stary-kair-i-piramidy-z-hurghady",
+  "title": "Prywatna Wycieczka z Hyrghady do Kairu+Stary Kair",
+  "shortTitle": "Prywatna Wycieczka z Hyrghady do Kairu+Stary Kair",
+  "category": "historia",
+  "base": "Hurghada",
+  "duration": "1 dzień",
+  "price": 95,
+  "priceOld": null,
+  "tiers": [
+   {
+    "label": "Dorosły 2 osoby",
+    "usd": 115
+   },
+   {
+    "label": "Dorosły 3-4 osoby",
+    "usd": 105
+   },
+   {
+    "label": "Dorosły 5 i więcej osób",
+    "usd": 95
+   },
+   {
+    "label": "Dzieci (5-11 lat)",
+    "usd": 55
+   }
+  ],
+  "description": [
+   "Być w Egipcie i nie zobaczyć piramid, to jak być w Chinach i nie zobaczyć Muru Chińskiego…",
+   "Ponad 90% turystów, wybierając się na wakacje do Egiptu, planuje zobaczyć PIRAMIDY.",
+   "Zapraszamy na prywatną wycieczkę do Kairu. Wycieczkę rozpoczniemy około 24:30-2:30 (czas zależny od lokalizacji hotelu). Przyjedziemy po was dużym, wygodnym, klimatyzowanym autem osobowym lub mikrobusem..",
+   "Zwiedzanie zaczynamy od Starego Kairu, gdzie głównymi punktami są:"
+  ],
+  "included": [],
+  "notIncluded": [],
+  "photos": 5,
+  "type": "wycieczka"
+ },
+ {
+  "slug": "prywatna-wycieczka-do-kairu-z-hurghady-piramidy-i-muzeum",
+  "title": "Prywatna Wycieczka z Hurghady do Kairu",
+  "shortTitle": "Prywatna Wycieczka z Hurghady do Kairu",
+  "category": "historia",
+  "base": "Hurghada",
+  "duration": "1 dzień",
+  "price": 105,
+  "priceOld": null,
+  "tiers": [
+   {
+    "label": "Dorosły 2 osoby",
+    "usd": 145
+   },
+   {
+    "label": "Dorosły 3-4 osoby",
+    "usd": 130
+   },
+   {
+    "label": "Dorosły 5-6 osób",
+    "usd": 115
+   },
+   {
+    "label": "Dorosły 7-8 osób",
+    "usd": 105
+   },
+   {
+    "label": "Dzieci (5-11 lat)",
+    "usd": 70
+   }
+  ],
+  "description": [
+   "Kair to stolica Egiptu. Być w Egipcie i nie zobaczyć piramid? Zabierzemy cię na niezapomnianą wycieczkę do tego niesamowitego miasta.",
+   "Wycieczka z Hurghady rozpocznie sie ok. 1:00-2:00, w zależności od hotelu,",
+   "Do Kairu zabierze was klimatyzowany samochód osobowy lub mikrobus. W Kairze przez cały czas będzie wam towarzyszył polskojęzyczny przewodnik.",
+   "W Kairze zwiedzicie Muzeum Kairskie, czas przeznaczony na zwiedzanie ok. 1,5-2 godziny. Muzeum zawiera niesamowite eksponaty przedstawiające dobrze prosperujące królestwo starożytnego Egiptu. Mumie, sarkofagi, ceramika i biżuteria oraz oczywiście skarby faraona Tutanchamona, to wszystko znajdziesz w salach muzeum."
+  ],
+  "included": [],
+  "notIncluded": [],
+  "photos": 5,
+  "type": "wycieczka"
+ },
+ {
+  "slug": "prywatna-wycieczka-do-luksoru-i-dendery",
+  "title": "Prywatna wycieczka z Hurghady do Luksoru i Dendery",
+  "shortTitle": "Prywatna wycieczka z Hurghady do Luksoru i Dendery",
+  "category": "historia",
+  "base": "Hurghada",
+  "duration": "1 dzień",
+  "price": 195,
+  "priceOld": null,
+  "tiers": [
+   {
+    "label": "Dorosły (min. 2 osoby)",
+    "usd": 220
+   },
+   {
+    "label": "Dorosły (min. 3-4 osoby)",
+    "usd": 200
+   },
+   {
+    "label": "Dorosły (min.5-8 osób)",
+    "usd": 195
+   },
+   {
+    "label": "Dzieci 5-11 lat",
+    "usd": 110
+   }
+  ],
+  "description": [
+   "Luxor, niegdyś stolica Egiptu, zwany Miastem Pałaców, jest wielką gratką dla miłośników zwiedzania i historii Egiptu.",
+   "Odwiedzisz z nami Karnak, Dolinę Królów, świątynie Hatszepsut, Kolosy Memnona i inne niesamowitości tego miasta.",
+   "Dendera, miasto w górnym Egipcie, było w starożytności miejscem kultu bogini Hathor.",
+   "Hathor była jedną z najważniejszych i najpopularniejszych bóstw starożytnego Egiptu. Była kojarzona z muzyką, radością, tańcem i macierzyństwem; była również znana jako pani nieba. Jej główny ośrodek kultu znajdował się w Denderze, gdzie do dziś stoi jedna z najlepiej zachowanych świątyń w Egipcie. Wejście do świątyni z sześcioma masywnymi kolumnami zwieńczonymi głową Hathor jest uważane za jeden z najpiękniejszych zabytków w Egipcie."
+  ],
+  "included": [
+   "przejazd klimatyzowanym autokarem lub mikrobusem",
+   "obiad",
+   "polskojęzyczny przewodnik"
+  ],
+  "notIncluded": [
+   "wydatki osobiste, zakupy",
+   "wejście do grobowca Tutenchamona i Ramzesa III",
+   "napoje",
+   "rejs na Wyspę Bananową"
+  ],
+  "photos": 5,
+  "type": "wycieczka"
+ },
+ {
+  "slug": "2-dniowa-wycieczka-z-hurghady-do-luksoru-lot-balonem",
+  "title": "2-dniowa wycieczka z Hurghady do Luksoru + lot balonem",
+  "shortTitle": "2-dniowa wycieczka z Hurghady do Luksoru + lot balonem",
+  "category": "historia",
+  "base": "Hurghada",
+  "duration": "2 dni / 1 noc",
+  "price": 225,
+  "priceOld": null,
+  "tiers": [
+   {
+    "label": "Dorosły (2 osoby)",
+    "usd": 270
+   },
+   {
+    "label": "Dorosły (3-4 osoby)",
+    "usd": 240
+   },
+   {
+    "label": "Dorosły (5-8 osób)",
+    "usd": 225
+   },
+   {
+    "label": "Dzieci 5-11 lat",
+    "usd": 185
+   }
+  ],
+  "description": [
+   "Dwudniowa wycieczka z Hurghady do Luksoru pozwoli Ci nie tylko odwiedzić słynną Dolinę Królów i Królowych, świątynie Karnak i Luksor, ale także zajrzeć do słynnych egipskich grobowców i świątyń i odbyć rejs feluką po Nilu.",
+   "Pierwszy dzień w Luksorze Około 3-4 rano odbierzemy Cię z hotelu i pojedziemy do Luksoru. W Luksorze powinniśmy być ok. godziny 8-9.",
+   "Pierwszym punktem wycieczki jest Dolina Królów w Luksorze. Jest to kanion w Egipcie, rozwidlający się na drugim końcu w kształcie litery „T”.",
+   "Następną atrakcją są Śpiewające Kolosy Memnona w Luksorze. Kolosy Memnona to dwa ogromne posągi o wysokości 18 metrów i wadze ponad 700 ton każdy.To pierwsza atrakcja, którą turyści widzą na zachodnim brzegu Nilu."
+  ],
+  "included": [
+   "przejazd klimatyzowanym autokarem lub mikrobusem",
+   "lot balonem",
+   "polskojęzyczny przewodnik",
+   "nocleg w hotelu (śniadanie i obiad w drugim dniu)"
+  ],
+  "notIncluded": [
+   "wydatki osobiste, zakupy",
+   "wyżywienie w pierwszym dniu",
+   "napoje",
+   "rejs na Wyspę Bananową",
+   "wejście do grobowca Tutenchamona"
+  ],
+  "photos": 5,
+  "type": "wycieczka"
+ },
+ {
+  "slug": "wycieczka-z-marsa-alam-moto-quad-safari-2h",
+  "title": "Wycieczka z Marsa Alam - Moto Quad Safari 2h",
+  "shortTitle": "Wycieczka z Marsa Alam - Moto Quad Safari 2h",
+  "category": "safari",
+  "base": "Marsa Alam",
+  "duration": "1 dzień",
+  "price": 33,
+  "priceOld": 42,
+  "tiers": [],
+  "description": [
+   "Jeśli chcesz poczuć „oddech Sahary” to Moto Quad Safari Marsa Alam 2 godziny – jest to idealna propozycja dla Ciebie. Wycieczka, która łączy ze sobą sporą dawkę adrenaliny z refleksją i zadumą, nieskazitelnym, czystym powietrzem i zderzeniem się z mało znaną w Europie, kulturą i tradycją beduinską, sięgającą VII wieku.",
+   "Tu możesz przekonać się, że pustynia nie musi kojarzyć się z palącym słońcem i wszechobecnym piachem. Wręcz odwrotnie, 2 godzinny pobyt w niemal dziewiczym środowisku pustynnym podaruje Ci pakiet wzmacniający energię. Możliwość nawet krótkiego obcowania z niepoddającą się współczesnej cywilizacji i żyjącą zgodnie z Koranem i rytmem natury nacją, pobudza zaskakujące refleksje związane z pędem cywilizacyjnym i sensem życia.",
+   "Moto Quad Safari 2 godziny – to wycieczka skupiająca się na quadach. W trakcie wycieczki będziecie przemierzać pustynie na quadach. Również będziemy jeżdzić wzdłóż brzegu morza.",
+   "Startujemy ok. 8-9 rano lub ok. 13-14 po południu. Już spod hotelu zabierają nas jeepy lub mikrobus, które zawiozą nas do bazy. Tam wsiadamy na quady, wyruszymy w głąb pustyni. Droga przypomina trasę Paryż – Dakar, więc i tu emocji i adrenaliny będzie sporo…"
+  ],
+  "included": [
+   "Transport z/do hotelu",
+   "Jazda quadami"
+  ],
+  "notIncluded": [
+   "Wydatki osobiste",
+   "Napiwki dla załogi",
+   "Napoje",
+   "zdjęcia robione przez fotografa",
+   "chusty \"arafatki\"",
+   "gogle"
+  ],
+  "photos": 5,
+  "type": "wycieczka"
+ },
+ {
+  "slug": "wycieczka-z-marsa-alam-super-safari",
+  "title": "Marsa Alam safari: Super Safari – jeep i quady",
+  "shortTitle": "Marsa Alam safari: Super Safari – jeep i quady",
+  "category": "safari",
+  "base": "Marsa Alam",
+  "duration": "1 dzień",
+  "price": 38,
+  "priceOld": 47,
+  "tiers": [
+   {
+    "label": "Dorosły",
+    "usd": 38
+   },
+   {
+    "label": "Dzieci 5–11 lat",
+    "usd": 20
+   }
+  ],
+  "description": [
+   "Marsa Alam Safari  Super Safari  Jeep + quady Marsa Alam Super Safari",
+   "Popołudniowo-wieczorne safari z jeepem, quadami, wioską Beduinów, wielbłądem, kolacją i orientalnym show.",
+   ""
+  ],
+  "included": [],
+  "notIncluded": [],
+  "photos": 5,
+  "type": "wycieczka"
+ },
+ {
+  "slug": "quad-safari-marsa-alam-5-godzin",
+  "title": "Quad Safari Marsa Alam 5 godzin – Moto Quad Safari + Beduini | Cena 40$",
+  "shortTitle": "Quad Safari Marsa Alam 5 godzin – Moto Quad Safari + Beduini",
+  "category": "safari",
+  "base": "Marsa Alam",
+  "duration": "1 dzień",
+  "price": 40,
+  "priceOld": 50,
+  "tiers": [],
+  "description": [
+   "Moto Quad Safari  5 godzin Moto Quad Safari Marsa Alam Pięciogodzinna przygoda na pustyni: quady, Beduini, wielbłąd, kolacja i show.",
+   "⏱ Czas 5 godzin"
+  ],
+  "included": [],
+  "notIncluded": [],
+  "photos": 5,
+  "type": "wycieczka"
+ },
+ {
+  "slug": "wycieczka-z-marsa-alam-snurkowanie-na-marsa-mubarak",
+  "title": "Marsa Mubarak z Marsa Alam – wycieczka i snurkowanie z żółwiami",
+  "shortTitle": "Marsa Mubarak z Marsa Alam",
+  "category": "morze",
+  "base": "Marsa Alam",
+  "duration": "1 dzień",
+  "price": 53,
+  "priceOld": 60,
+  "tiers": [],
+  "description": [
+   "Marsa Mubarak  Żółwie + snorkeling Marsa Mubarak z Marsa Alam",
+   "Całodniowy rejs na zatokę Marsa Mubarak z rafami koralowymi, żółwiami morskimi i szansą zobaczenia diugoni.",
+   ""
+  ],
+  "included": [
+   "przejazd klimatyzowanym autokarem lub mikrobusem",
+   "obiad",
+   "napoje ciepłe i zimne na łodzi",
+   "sprzęt do snurkowania"
+  ],
+  "notIncluded": [
+   "wydatki osobiste, zakupy",
+   "napiwki",
+   "zdjęcia robione przez fotografa"
+  ],
+  "photos": 5,
+  "type": "wycieczka"
+ },
+ {
+  "slug": "wycieczka-z-marsa-alam-do-zatoki-abu-dabbab",
+  "title": "Abu Dabbab Marsa Alam – żółwie i snorkeling od 60 USD",
+  "shortTitle": "Abu Dabbab Marsa Alam – żółwie i snorkeling od 60 USD",
+  "category": "morze",
+  "base": "Marsa Alam",
+  "duration": "1 dzień",
+  "price": 60,
+  "priceOld": 72,
+  "tiers": [],
+  "description": [
+   "Abu Dabbab Marsa Alam – opis wycieczki  Abu Dabbab  Żółwie + snorkeling",
+   "Marsa Alam → Abu Dabbab Wycieczka do zatoki Abu Dabbab z Marsa Alam: plaża, snorkeling, żółwie morskie, sprzęt do snurkowania, wejście na plażę i transfer z hotelu.",
+   ""
+  ],
+  "included": [],
+  "notIncluded": [],
+  "photos": 5,
+  "type": "wycieczka"
+ },
+ {
+  "slug": "wycieczka-z-marsa-alam-na-wyspy-hamata",
+  "title": "Wycieczka z Marsa Alam na wyspy Hamata – Egipskie Malediwy",
+  "shortTitle": "Wycieczka z Marsa Alam na wyspy Hamata – Egipskie Malediwy",
+  "category": "morze",
+  "base": "Marsa Alam",
+  "duration": "1 dzień",
+  "price": 60,
+  "priceOld": 73,
+  "tiers": [],
+  "description": [
+   "Wycieczka z Marsa Alam na wyspy Hamata  Wyspy Hamata  Rejs + snorkeling",
+   "Marsa Alam → Hamata Rejs na wyspy Hamata, znane jako Egipskie Malediwy, z plażowaniem, snorkelingiem przy rafach, lunchem, napojami i transferem w cenie.",
+   ""
+  ],
+  "included": [],
+  "notIncluded": [],
+  "photos": 5,
+  "type": "wycieczka"
+ },
+ {
+  "slug": "wycieczka-z-marsa-alam-lodzia-seascope",
+  "title": "Seascope Marsa Alam – łódź podwodna od 62 USD",
+  "shortTitle": "Seascope Marsa Alam – łódź podwodna od 62 USD",
+  "category": "morze",
+  "base": "Marsa Alam",
+  "duration": "1 dzień",
+  "price": 62,
+  "priceOld": 70,
+  "tiers": [],
+  "description": [
+   "Seascope Marsa Alam  Panoramiczne okna Marsa Alam → Seascope",
+   "Rejs łodzią Seascope z Marsa Alam z klimatyzowanym podwodnym pokładem, panoramicznymi oknami, widokiem na rafy koralowe i transferem w cenie.",
+   ""
+  ],
+  "included": [],
+  "notIncluded": [],
+  "photos": 5,
+  "type": "wycieczka"
+ },
+ {
+  "slug": "wycieczka-z-marsa-alam-do-domu-delfinow-sataya",
+  "title": "Wycieczka z Marsa Alam do domu delfinów Sataya",
+  "shortTitle": "Wycieczka z Marsa Alam do domu delfinów Sataya",
+  "category": "morze",
+  "base": "Marsa Alam",
+  "duration": "1 dzień",
+  "price": 65,
+  "priceOld": 76,
+  "tiers": [],
+  "description": [
+   "Wycieczka z Marsa Alam do domu delfinów Sataya  Sataya Dolphin Reef",
+   "Delfiny + snorkeling Marsa Alam → Sataya Rejs do Sataya Dolphin Reef z możliwością pływania z delfinami, snorkelingiem przy rafach, lunchem na łodzi i transferem w cenie.",
+   ""
+  ],
+  "included": [],
+  "notIncluded": [],
+  "photos": 5,
+  "type": "wycieczka"
+ },
+ {
+  "slug": "wycieczka-z-marsa-alam-do-domu-delfinow-shaab-samadai",
+  "title": "Sha'ab Samadai Marsa Alam – dom delfinów od 65 USD",
+  "shortTitle": "Sha'ab Samadai Marsa Alam – dom delfinów od 65 USD",
+  "category": "morze",
+  "base": "Marsa Alam",
+  "duration": "1 dzień",
+  "price": 65,
+  "priceOld": 77,
+  "tiers": [],
+  "description": [
+   "Sha’ab Samadai Marsa Alam  Sha’ab Samadai  Delfiny + snorkeling",
+   "Marsa Alam → Sha’ab Samadai Rejs z Marsa Alam do domu delfinów Sha’ab Samadai z dwoma postojami na snorkeling, rafami koralowymi, lunchem, napojami i transferem w cenie.",
+   ""
+  ],
+  "included": [],
+  "notIncluded": [],
+  "photos": 5,
+  "type": "wycieczka"
+ },
+ {
+  "slug": "wycieczka-z-marsa-alam-nurkowanie-z-plazy",
+  "title": "Nurkowanie z plaży Marsa Alam – 2 zejścia pod wodę",
+  "shortTitle": "Nurkowanie z plaży Marsa Alam – 2 zejścia pod wodę",
+  "category": "morze",
+  "base": "Marsa Alam",
+  "duration": "1 dzień",
+  "price": 70,
+  "priceOld": 77,
+  "tiers": [],
+  "description": [
+   "Nurkowanie z plaży Marsa Alam – opis wycieczki  Nurkowanie z plaży",
+   "Plaża + rafy Marsa Alam → Nurkowanie z plaży Nurkowanie z plaży w Marsa Alam dla początkujących i certyfikowanych nurków. Rafy Morza Czerwonego, sprzęt nurkowy i transfer z hotelu w cenie.",
+   ""
+  ],
+  "included": [],
+  "notIncluded": [],
+  "photos": 5,
+  "type": "wycieczka"
+ },
+ {
+  "slug": "wycieczka-z-marsa-alam-nurkowanie-z-lodzi",
+  "title": "Nurkowanie Marsa Alam z łodzi – 2 zejścia pod wodę",
+  "shortTitle": "Nurkowanie Marsa Alam z łodzi – 2 zejścia pod wodę",
+  "category": "morze",
+  "base": "Marsa Alam",
+  "duration": "1 dzień",
+  "price": 75,
+  "priceOld": 82,
+  "tiers": [],
+  "description": [
+   "Nurkowanie Marsa Alam z łodzi – opis wycieczki  Nurkowanie z łodzi",
+   "Rafy + sprzęt Marsa Alam → Nurkowanie Nurkowanie z łodzi w Marsa Alam dla początkujących i certyfikowanych nurków. Rafy Morza Czerwonego, sprzęt nurkowy, obiad, napoje i transfer z hotelu.",
+   ""
+  ],
+  "included": [],
+  "notIncluded": [],
+  "photos": 5,
+  "type": "wycieczka"
+ },
+ {
+  "slug": "wycieczka-z-marsa-alam-kair-stary-kair",
+  "title": "Wycieczka z Marsa Alam do Kairu + Stary Kair | Piramidy w Gizie i Sfinks",
+  "shortTitle": "Wycieczka z Marsa Alam do Kairu + Stary Kair",
+  "category": "historia",
+  "base": "Marsa Alam",
+  "duration": "1 dzień",
+  "price": 80,
+  "priceOld": 100,
+  "tiers": [],
+  "description": [
+   "Stary Kair  Piramidy + Sfinks Marsa Alam → Stary Kair Wycieczka z Marsa Alam do Kairu: Stary Kair, Piramidy w Gizie i Sfinks w jeden dzień.",
+   ""
+  ],
+  "included": [],
+  "notIncluded": [],
+  "photos": 5,
+  "type": "wycieczka"
+ },
+ {
+  "slug": "wycieczka-z-marsa-alam-rejs-lodzia-nefertari",
+  "title": "Nefertari Marsa Alam – Rejs Premium od 87 USD",
+  "shortTitle": "Nefertari Marsa Alam – Rejs Premium od 87 USD",
+  "category": "morze",
+  "base": "Marsa Alam",
+  "duration": "1 dzień",
+  "price": 87,
+  "priceOld": 100,
+  "tiers": [],
+  "description": [
+   "Rejs Nefertari Marsa Alam  Nefertari Premium  Rejs + snorkeling",
+   "Marsa Alam → Nefertari Luksusowy rejs łodzią Nefertari z podwodnym pokładem, snorkelingiem w Marsa Mubarak, lunchem lub kolacją oraz transferem z hotelu.",
+   ""
+  ],
+  "included": [],
+  "notIncluded": [],
+  "photos": 5,
+  "type": "wycieczka"
+ },
+ {
+  "slug": "wycieczka-do-luksoru-z-marsa-alam",
+  "title": "Wycieczka do Luksoru z Marsa Alam (1 dzień) – Dolina Królów",
+  "shortTitle": "Wycieczka do Luksoru z Marsa Alam (1 dzień) – Dolina Królów",
+  "category": "historia",
+  "base": "Marsa Alam",
+  "duration": "1 dzień",
+  "price": 95,
+  "priceOld": 110,
+  "tiers": [],
+  "description": [
+   "Polski przewodnik ⭐ Luksor z Marsa Alam Marsa Alam → Luksor, 1 dzień",
+   "Wycieczka do Luksoru z Marsa Alam: Karnak, Dolina Królów, świątynia Hatszepsut i Kolosy Memnona.",
+   ""
+  ],
+  "included": [],
+  "notIncluded": [],
+  "photos": 5,
+  "type": "wycieczka"
+ },
+ {
+  "slug": "kair-i-grand-egyptian-museum-gem-z-marsa-alam",
+  "title": "Muzeum Egipskie w Kairze z Marsa Alam – GEM + Piramidy",
+  "shortTitle": "Muzeum Egipskie w Kairze z Marsa Alam – GEM + Piramidy",
+  "category": "historia",
+  "base": "Marsa Alam",
+  "duration": "1 dzień",
+  "price": 130,
+  "priceOld": 160,
+  "tiers": [],
+  "description": [
+   "Muzeum egipskie w kairze  Nowe Muzeum Egipskie ⭐ GEM + Piramidy",
+   "Marsa Alam → GEM Kair Wycieczka z Marsa Alam do Wielkiego Muzeum Egipskiego, piramid w Gizie i Sfinksa.",
+   ""
+  ],
+  "included": [],
+  "notIncluded": [],
+  "photos": 5,
+  "type": "wycieczka"
+ },
+ {
+  "slug": "wycieczka-z-marsa-alam-do-kairu-samolotem",
+  "title": "Wycieczka z Marsa Alam do Kairu samolotem – Piramidy, Muzeum Egipskie",
+  "shortTitle": "Wycieczka z Marsa Alam do Kairu samolotem",
+  "category": "historia",
+  "base": "Marsa Alam",
+  "duration": "1 dzień",
+  "price": 345,
+  "priceOld": 360,
+  "tiers": [],
+  "description": [
+   "Polski przewodnik  Kair samolotem Marsa Alam → Kair samolotem",
+   "Jednodniowa wycieczka z Marsa Alam do Kairu samolotem: Muzeum Egipskie, piramidy w Gizie i Sfinks.",
+   ""
+  ],
+  "included": [],
+  "notIncluded": [],
+  "photos": 5,
+  "type": "wycieczka"
+ },
+ {
+  "slug": "kurs-padi-advanced-open-water-diver-w-marsa-alam",
+  "title": "Kurs PADI Advanced Open Water Diver w Marsa Alam – do 30 m",
+  "shortTitle": "Kurs PADI Advanced Open Water Diver w Marsa Alam – do 30 m",
+  "category": "kurs",
+  "base": "Marsa Alam",
+  "duration": "2 dni",
+  "price": 35,
+  "priceOld": null,
+  "tiers": [],
+  "description": [
+   "Kurs nurkowania PADI  PADI Advanced Open Water Diver w Marsa Alam",
+   "Zaawansowany kurs nurkowy PADI w Marsa Alam dla osób po OWD, dzięki któremu rozwiniesz praktyczne umiejętności, wykonasz",
+   "5 nurkowań typu Adventure Dive i po ukończeniu będziesz mógł nurkować do",
+   "30 metrów . ⏱ Czas trwania 2 dni  Nurkowania 5 nurkowań  Certyfikat"
+  ],
+  "included": [],
+  "notIncluded": [],
+  "photos": 5,
+  "type": "kurs"
+ },
+ {
+  "slug": "kurs-padi-open-water-diver-w-marsa-alam",
+  "title": "Kurs PADI Open Water Diver w Marsa Alam – certyfikat PADI",
+  "shortTitle": "Kurs PADI Open Water Diver w Marsa Alam – certyfikat PADI",
+  "category": "kurs",
+  "base": "Marsa Alam",
+  "duration": "4 dni",
+  "price": 35,
+  "priceOld": null,
+  "tiers": [],
+  "description": [
+   "Kurs nurkowania PADI  PADI Open Water Diver w Marsa Alam Podstawowy kurs nurkowy PADI w Marsa Alam, dzięki któremu zdobędziesz",
+   "Międzynarodowy certyfikat nurkowy i po ukończeniu będziesz mógł nurkować z partnerem do",
+   "18 metrów na całym świecie. ⏱ Czas trwania 3–4 dni  Nurkowania",
+   "4 nurkowania  Certyfikat PADI OWD  Cena promocyjna"
+  ],
+  "included": [],
+  "notIncluded": [],
+  "photos": 5,
+  "type": "kurs"
+ },
+ {
+  "slug": "kurs-padi-rescue-diver-w-marsa-alam",
+  "title": "Kurs PADI Rescue Diver w Marsa Alam – bezpieczeństwo i rozwój",
+  "shortTitle": "Kurs PADI Rescue Diver w Marsa Alam – bezpieczeństwo i rozwój",
+  "category": "kurs",
+  "base": "Marsa Alam",
+  "duration": "4 dni",
+  "price": 35,
+  "priceOld": null,
+  "tiers": [],
+  "description": [
+   "Kurs nurkowania PADI  PADI Rescue Diver w Marsa Alam Zaawansowany kurs nurkowy PADI w Marsa Alam, który uczy",
+   "Zapobiegania wypadkom i skutecznego reagowania w sytuacjach awaryjnych. To jeden z najważniejszych kroków w rozwoju nurka przed poziomem profesjonalnym, np.",
+   "Divemaster . ⏱ Czas trwania 3–4 dni  Poziom Rescue Diver  Certyfikat",
+   "PADI Rescue  Cena promocyjna"
+  ],
+  "included": [],
+  "notIncluded": [],
+  "photos": 5,
+  "type": "kurs"
+ },
+ {
+  "slug": "wycieczka-z-marsa-alam-jeep-safari",
+  "title": "Wycieczka z Marsa Alam - Jeep Safari",
+  "shortTitle": "Wycieczka z Marsa Alam - Jeep Safari",
+  "category": "safari",
+  "base": "Marsa Alam",
+  "duration": "1 dzień",
+  "price": 42,
+  "priceOld": null,
+  "tiers": [
+   {
+    "label": "Dorosły",
+    "usd": 42
+   },
+   {
+    "label": "Dzieci 5-11 lat",
+    "usd": 22
+   }
+  ],
+  "description": [
+   "Lubicie poznawać lokalne kultury? Chcecie poznać przedstawicieli koczowniczego i półkoczowniczego arabskiego plemiona? A może po prostu chcecie zobaczyć największą gorącą pustynię na Ziemi?",
+   "Jeśli chociaż na jedno pytanie odpowiedzieliście TAK, to ta wycieczka jest właśnie dla Was! Idealna również na rodzinne wypady.",
+   "Zbiórka przed hotelem około południa. Następnie jazda jeepem przez pustynię do wioski beduińskiej usytuowanej między górami.",
+   "Po drodze przystanek na fatamorganę – jeśli pogoda pozwoli. W wiosce odpoczynek w szałasach, a po odpoczynku będziecie mogli obejrzeć wioskę beduińską, zobaczycie jak beduinki wypiekają chleb – będziecie mogli go spróbować."
+  ],
+  "included": [
+   "Transport z/do hotelu",
+   "Jazda jeepem",
+   "kolacja",
+   "orientalne show"
+  ],
+  "notIncluded": [
+   "Wydatki osobiste",
+   "Napiwki dla załogi",
+   "Napoje",
+   "zdjęcia robione przez fotografa"
+  ],
+  "photos": 5,
+  "type": "wycieczka"
+ },
+ {
+  "slug": "wycieczka-z-marsa-alam-na-plaze-sharm-el-lulli-ras-hankorab",
+  "title": "Wycieczka z Marsa Alam na plażę Sharm el Lulli (Ras Hankorab)",
+  "shortTitle": "Wycieczka z Marsa Alam na plażę Sharm el Lulli (Ras Hankorab)",
+  "category": "morze",
+  "base": "Marsa Alam",
+  "duration": "1 dzień",
+  "price": 53,
+  "priceOld": null,
+  "tiers": [
+   {
+    "label": "Dorosły",
+    "usd": 53
+   },
+   {
+    "label": "Dzieci 5-11 lat",
+    "usd": 30
+   }
+  ],
+  "description": [
+   "Sharm El Luli to najpiękniejsza zatoka i równocześnie plaża w Marsa Alam położona ok. 60 km na południe od samej miejscowości Marsa Alam. Zatoka zwana jest również Ras Hankorab Beach lub „karaibską plażą”. Widoki nieskończonego błękitnego morza na tle pustyni są zachwycające.",
+   "Startujemy w godzinach porannych. Odbiór z hoteli odbywa sie miedzy 7.30 a 8.30. Jedziemy na słynną plażę Sharm el Lulli, znaną również jako Ras Hankorab.",
+   "Tam możecie korzystać z kąpieli słonecznej, snurkować i podziwiać podwodną faunę i florę. Powrót do hotelu w godzinach popołudniowych, ok. 15-16."
+  ],
+  "included": [
+   "przejazd klimatyzowanym autokarem lub mikrobusem",
+   "sprzęt do snurkowania"
+  ],
+  "notIncluded": [
+   "wydatki osobiste, zakupy",
+   "napiwki",
+   "zdjęcia robione przez fotografa"
+  ],
+  "photos": 5,
+  "type": "wycieczka"
+ },
+ {
+  "slug": "wycieczka-z-marsa-alam-do-kairu",
+  "title": "Wycieczka z Marsa Alam do Kairu",
+  "shortTitle": "Wycieczka z Marsa Alam do Kairu",
+  "category": "historia",
+  "base": "Marsa Alam",
+  "duration": "1 dzień",
+  "price": 90,
+  "priceOld": null,
+  "tiers": [
+   {
+    "label": "Dzieci 5-11 lat",
+    "usd": 45
+   }
+  ],
+  "description": [
+   "Kair to stolica Egiptu. Być w Egipcie i nie zobaczyć piramid? Zabierzemy cię na niezapomnianą wycieczkę do tego niesamowitego miasta.",
+   "Wycieczka z Marsa Alam rozpocznie się ok. 21-22, w zależności od hotelu. Do Hurghady będziecie jechać mikrobusem, a w Hurghadzie przesiądziecie się do dużego, klimatyzowanego autokaru.",
+   "W Kairze przez cały czas będzie wam towarzyszył polskojęzyczny przewodnik.",
+   "W Kairze zwiedzicie Muzeum Kairskie, czas przeznaczony na zwiedzanie ok. 1,5-2 godziny. Następnie udacie się do Gizy, gdzie głównym punktem będą piramidy i Sfinks. W Kairze będziecie mieli również smaczny obiad."
+  ],
+  "included": [
+   "Muzeum",
+   "Piramidy i Sfinks",
+   "obiad (bez napojów)",
+   "polskojęzyczny przewodnik"
+  ],
+  "notIncluded": [
+   "wydatki osobiste, zakupy",
+   "Rejs po Nilu (ok. 10-12$/osoba)",
+   "wejście do wnętrza piramid",
+   "napoje",
+   "przejażdżka na wielbłądzie, koniu lub bryczką pod piramidami"
+  ],
+  "photos": 5,
+  "type": "wycieczka"
+ },
+ {
+  "slug": "wycieczka-z-marsa-alam-super-kair",
+  "title": "Wycieczka z Marsa Alam Super Kair",
+  "shortTitle": "Wycieczka z Marsa Alam Super Kair",
+  "category": "historia",
+  "base": "Marsa Alam",
+  "duration": "1 dzień",
+  "price": 100,
+  "priceOld": null,
+  "tiers": [
+   {
+    "label": "Dorosły",
+    "usd": 100
+   },
+   {
+    "label": "Dzieci 5-11 lat",
+    "usd": 50
+   }
+  ],
+  "description": [
+   "Kair to stolica Egiptu. Być w Egipcie i nie zobaczyć piramid? Zabierzemy cię na niezapomnianą wycieczkę do tego niesamowitego miasta.",
+   "Wycieczka z Marsa Alam rozpocznie się ok. 22-23, w zależności od hotelu,",
+   "Z hotelu zabierze was klimatyzowany mikrobus do Hurghady, gdzie przesiądziecie się do dużego autokaru. W Kairze przez cały czas będzie wam towarzyszył polskojęzyczny przewodnik.",
+   "W Kairze zwiedzicie Muzeum Kairskie, czas przeznaczony na zwiedzanie ok. 1,5-2 godziny. Następnie udacie się do Gizy, gdzie głównym punktem będą piramidy i Sfinks. W Kairze będziecie mieli również smaczny obiad. Zobaczycie też część starego Kairu (meczet, kościół)"
+  ],
+  "included": [
+   "Muzeum",
+   "Piramidy i Sfinks",
+   "obiad (bez napojów)",
+   "polskojęzyczny przewodnik",
+   "rejs po Nilu"
+  ],
+  "notIncluded": [
+   "wydatki osobiste, zakupy",
+   "wejście do wnętrza piramid",
+   "napoje",
+   "przejażdżka na wielbłądzie, koniu lub bryczką pod piramidami"
+  ],
+  "photos": 5,
+  "type": "wycieczka"
+ },
+ {
+  "slug": "wycieczka-z-marsa-alam-super-luksor",
+  "title": "Wycieczka z Marsa Alam Super Luksor",
+  "shortTitle": "Wycieczka z Marsa Alam Super Luksor",
+  "category": "historia",
+  "base": "Marsa Alam",
+  "duration": "1 dzień",
+  "price": 100,
+  "priceOld": null,
+  "tiers": [
+   {
+    "label": "Dorosły",
+    "usd": 100
+   },
+   {
+    "label": "Dzieci 5-11 lat",
+    "usd": 50
+   }
+  ],
+  "description": [
+   "Luksor, niegdyś stolica Egiptu, zwany Miastem Pałaców, jest wielką gratką dla miłośników zwiedzania i historii Egiptu.Odwiedzisz z nami Karnak, Dolinę Królów, świątynie Hatszepsut, Kolosy Memnona i inne niesamowitości tego miasta,",
+   "Wycieczkę Super Luksor organizujemy w każdy poniedziałek, środę i piątek około godziny 2-4.00 (Dokładna godzina zależna od lokalizacji waszego hotelu).  Z hotelu do Safagi zabierze was mikrobus lub samochód osobowy, a w Safadze przesiądziecie się do klimatyzowanego autokaru. W Luksorze wam towarzyszył polskojęzyczny przewodnik oraz dbająca o bezpieczeństwo, kwalifikowana eskorta. Już w drodze do Luksoru będziecie mogli przyjrzeć się codziennemu życiu egipskiej prowincji.",
+   "Na miejscu, „Starożytną” przygodę rozpoczniemy od zwiedzania KARNAKU, ŚWIĄTYNI Hatszepsut i DOLINY KRÓLÓW.",
+   "Po obiedzie, który jest wliczony w cenę wycieczki wyruszymy na spotkanie z prawie 18 metrowymi, ważącymi ok 800 ton, KOLOSAMI MEMNONA.Te majestatyczne posągi, przedstawiające wizerunek ich pomysłodawcy, faraona Amenhotepa III są jedyną, zachowaną częścią świątyni grobowej tego władcy,która zniknęła z powierzchni ziemi w bliżej nieznanych okolicznościach."
+  ],
+  "included": [
+   "przejazd klimatyzowanym autokarem lub mikrobusem",
+   "obiad",
+   "zwiedzanie Karnaku, Świątyni Hatszepsut, Doliny Królów, Kolosów Memnona",
+   "polskojęzyczny przewodnik",
+   "rejs na Wyspę Bananową"
+  ],
+  "notIncluded": [
+   "wydatki osobiste, zakupy",
+   "wejście do grobowca Tutenchamona i Ramzesa III",
+   "napoje"
+  ],
+  "photos": 5,
+  "type": "wycieczka"
+ },
+ {
+  "slug": "prywatna-wycieczka-z-marsa-alam-do-kairu-stary-kair",
+  "title": "PRYWATNA Wycieczka Z MARSA ALAM do Kairu + Stary Kair",
+  "shortTitle": "PRYWATNA Wycieczka Z MARSA ALAM do Kairu + Stary Kair",
+  "category": "historia",
+  "base": "Marsa Alam",
+  "duration": "1 dzień",
+  "price": 135,
+  "priceOld": null,
+  "tiers": [
+   {
+    "label": "Dzieci (5-11 lat)",
+    "usd": 85
+   }
+  ],
+  "description": [
+   "Być w Egipcie i nie zobaczyć piramid, to jak być w Chinach i nie zobaczyć Muru Chińskiego…",
+   "Ponad 90% turystów, wybierając się na wakacje do Egiptu, planuje zobaczyć PIRAMIDY.",
+   "Nasze biuro proponuje pomoc w zorganizowaniu wycieczek do Kairu",
+   "Zarówno grupowych jak i indywidualnych. Nasz polskojęzyczny kwalifikowany przewodnik opowie o szczegółach, prawdach i mitach a także wprowadzi was w magię najpopularniejszych na świecie zabytków starożytności."
+  ],
+  "included": [
+   "Piramidy i Sfinks",
+   "obiad (bez napojów)",
+   "polskojęzyczny przewodnik"
+  ],
+  "notIncluded": [
+   "wydatki osobiste, zakupy",
+   "Rejs po Nilu (ok. 10-12$/osoba)",
+   "wejście do wnętrza piramid",
+   "napoje",
+   "przejażdżka na wielbłądzie, na koniu lub bryczką pod piramidami"
+  ],
+  "photos": 5,
+  "type": "wycieczka"
+ },
+ {
+  "slug": "prywatna-wycieczka-do-kairu-z-marsa-alam",
+  "title": "Prywatna wycieczka do Kairu z Marsa Alam",
+  "shortTitle": "Prywatna wycieczka do Kairu z Marsa Alam",
+  "category": "historia",
+  "base": "Marsa Alam",
+  "duration": "1 dzień",
+  "price": 160,
+  "priceOld": null,
+  "tiers": [
+   {
+    "label": "Dorosły (2 osoby)",
+    "usd": 220
+   },
+   {
+    "label": "Dorosły (3-4 osoby)",
+    "usd": 200
+   },
+   {
+    "label": "Dorosły (5-9 osób)",
+    "usd": 160
+   },
+   {
+    "label": "Dzieci (5-11 lat)",
+    "usd": 110
+   }
+  ],
+  "description": [
+   "Kair to stolica Egiptu. Być w Egipcie i nie zobaczyć piramid? Zabierzemy cię na niezapomnianą wycieczkę do tego niesamowitego miasta.",
+   "Wycieczka z Marsa Alam rozpocznie się ok. 23-24 w nocy, w zależności od hotelu,",
+   "Do Kairu zabierze was klimatyzowany samochód osobowy lub mikrobus. W Kairze przez cały czas będzie wam towarzyszył polskojęzyczny przewodnik.",
+   "W Kairze zwiedzicie Muzeum Kairskie, czas przeznaczony na zwiedzanie ok. 1,5-2 godziny. Muzeum zawiera niesamowite eksponaty przedstawiające dobrze prosperujące królestwo starożytnego Egiptu. Mumie, sarkofagi, ceramika i biżuteria oraz oczywiście skarby faraona Tutanchamona, to wszystko znajdziesz w salach muzeum."
+  ],
+  "included": [
+   "Muzeum",
+   "Piramidy i Sfinks",
+   "obiad (bez napojów)",
+   "polskojęzyczny przewodnik"
+  ],
+  "notIncluded": [
+   "wydatki osobiste, zakupy",
+   "Rejs po Nilu (ok. 10-12$/osoba)",
+   "wejście do wnętrza piramid",
+   "napoje",
+   "przejażdżka na wielbłądzie, koniu lub bryczką pod piramidami"
+  ],
+  "photos": 5,
+  "type": "wycieczka"
+ },
+ {
+  "slug": "prywatna-wycieczka-do-luksoru-z-marsa-alam",
+  "title": "Prywatna wycieczka do Luksoru z Marsa Alam",
+  "shortTitle": "Prywatna wycieczka do Luksoru z Marsa Alam",
+  "category": "historia",
+  "base": "Marsa Alam",
+  "duration": "1 dzień",
+  "price": 160,
+  "priceOld": null,
+  "tiers": [
+   {
+    "label": "Dorosły (2 osoby)",
+    "usd": 220
+   },
+   {
+    "label": "Dorosły (3-4 osoby)",
+    "usd": 200
+   },
+   {
+    "label": "Dorosły (5-9 osób)",
+    "usd": 160
+   },
+   {
+    "label": "Dzieci (5-11 lat)",
+    "usd": 110
+   }
+  ],
+  "description": [
+   "Luksor, niegdyś stolica Egiptu, zwany Miastem Pałaców, jest wielką gratką dla miłośników zwiedzania i historii Egiptu.Odwiedzisz z nami Karnak, Dolinę Królów, świątynie Hatszepsut, Kolosy Memnona i inne niesamowitości tego miasta,",
+   "Prywatną wycieczkę do Luksoru organizujemy codziennie około godziny 3-4.00 (Dokładna godzina zależna od lokalizacji waszego hotelu). Z hotelu zabierze was mikrobus lub samochód osobowy, W Luksorze będzie wam towarzyszył polskojęzyczny przewodnik oraz dbająca o bezpieczeństwo, kwalifikowana eskorta. Już w drodze do Luksoru będziecie mogli przyjrzeć się codziennemu życiu egipskiej prowincji.",
+   "Na miejscu, „Starożytną” przygodę rozpoczniemy od zwiedzania KARNAKU, ŚWIĄTYNI Hatszepsut i DOLINY KRÓLÓW.",
+   "Po obiedzie, który jest wliczony w cenę wycieczki wyruszymy na spotkanie z prawie 18 metrowymi, ważącymi ok 800 ton, KOLOSAMI MEMNONA.Te majestatyczne posągi, przedstawiające wizerunek ich pomysłodawcy, faraona Amenhotepa III są jedyną, zachowaną częścią świątyni grobowej tego władcy,która zniknęła z powierzchni ziemi w bliżej nieznanych okolicznościach."
+  ],
+  "included": [
+   "przejazd klimatyzowanym autokarem lub mikrobusem",
+   "obiad",
+   "zwiedzanie Karnaku, Świątyni Hatszepsut, Doliny Królów, Kolosów Memnona",
+   "polskojęzyczny przewodnik"
+  ],
+  "notIncluded": [
+   "wydatki osobiste, zakupy",
+   "wejście do grobowca Tutenchamona i Ramzesa III",
+   "napoje",
+   "rejs na Wyspę Bananową"
+  ],
+  "photos": 5,
+  "type": "wycieczka"
+ },
+ {
+  "slug": "prywatna-wycieczka-z-marsa-alam-do-luksoru-i-dendery",
+  "title": "Prywatna wycieczka z Marsa Alam do Luksoru i Dendery",
+  "shortTitle": "Prywatna wycieczka z Marsa Alam do Luksoru i Dendery",
+  "category": "historia",
+  "base": "Marsa Alam",
+  "duration": "1 dzień",
+  "price": 220,
+  "priceOld": null,
+  "tiers": [
+   {
+    "label": "Dorosły (2 osoby)",
+    "usd": 245
+   },
+   {
+    "label": "Dorosły (3 osoby)",
+    "usd": 235
+   },
+   {
+    "label": "Dorosły (4 osoby)",
+    "usd": 225
+   },
+   {
+    "label": "Dorosły (5-8 osób)",
+    "usd": 220
+   },
+   {
+    "label": "Dzieci (5-11 lat)",
+    "usd": 125
+   }
+  ],
+  "description": [
+   "Luxor, niegdyś stolica Egiptu, zwany Miastem Pałaców, jest wielką gratką dla miłośników zwiedzania i historii Egiptu.",
+   "Odwiedzisz z nami Karnak, Dolinę Królów, świątynie Hatszepsut, Kolosy Memnona i inne niesamowitości tego miasta.",
+   "Dendera, miasto w górnym Egipcie, było w starożytności miejscem kultu bogini Hathor.",
+   "Hathor była jedną z najważniejszych i najpopularniejszych bóstw starożytnego Egiptu. Była kojarzona z muzyką, radością, tańcem i macierzyństwem; była również znana jako pani nieba. Jej główny ośrodek kultu znajdował się w Denderze, gdzie do dziś stoi jedna z najlepiej zachowanych świątyń w Egipcie. Wejście do świątyni z sześcioma masywnymi kolumnami zwieńczonymi głową Hathor jest uważane za jeden z najpiękniejszych zabytków w Egipcie."
+  ],
+  "included": [
+   "przejazd klimatyzowanym autokarem lub mikrobusem",
+   "obiad",
+   "polskojęzyczny przewodnik"
+  ],
+  "notIncluded": [
+   "wydatki osobiste, zakupy",
+   "wejście do grobowca Tutenchamona i Ramzesa III",
+   "napoje",
+   "rejs na Wyspę Bananową"
+  ],
+  "photos": 5,
+  "type": "wycieczka"
+ },
+ {
+  "slug": "moto-safari-3h-w-sharm-el-sheikh",
+  "title": "Quad safari Sharm El Sheikh – 3h wycieczka na pustynię",
+  "shortTitle": "Quad safari Sharm El Sheikh – 3h wycieczka na pustynię",
+  "category": "safari",
+  "base": "Sharm el-Sheikh",
+  "duration": "1 dzień",
+  "price": 25,
+  "priceOld": 38,
+  "tiers": [],
+  "description": [
+   "Quad Safari Sharm El Sheikh  Quad Safari 2h  Pustynia Synaj",
+   "Quad Safari z Sharm el Sheikh Krótka pustynna przygoda na quadach z Sharm el Sheikh: Synaj, herbata beduińska, wielbłąd i opieka instruktora.",
+   ""
+  ],
+  "included": [],
+  "notIncluded": [],
+  "photos": 5,
+  "type": "wycieczka"
+ },
+ {
+  "slug": "gora-mojzesza-klasztor-sw-katarzyny",
+  "title": "Wycieczka do Klasztoru św. Katarzyny z Sharm el Sheikh i Dahab | Synaj, 1 Dzień",
+  "shortTitle": "Wycieczka do Klasztoru św. Katarzyny z Sharm el Sheikh i Dahab",
+  "category": "historia",
+  "base": "Sharm el-Sheikh",
+  "duration": "1 dzień",
+  "price": 33,
+  "priceOld": 40,
+  "tiers": [],
+  "description": [
+   "Wycieczka do klasztoru św. katarzyny z sharm el sheikh  Klasztor św. Katarzyny",
+   "UNESCO Klasztor św. Katarzyny Wycieczka z Sharm el Sheikh lub Dahab na Synaj do Klasztoru św. Katarzyny, jednego z najważniejszych miejsc UNESCO w Egipcie.",
+   ""
+  ],
+  "included": [],
+  "notIncluded": [],
+  "photos": 5,
+  "type": "wycieczka"
+ },
+ {
+  "slug": "wycieczka-z-sharm-el-sheikh-na-gore-mojzesza-klasztor-sw-katarzyny",
+  "title": "Wycieczka z Sharm el Sheikh na Górę Mojżesza i klasztor św. Katarzyny – nocne wejście",
+  "shortTitle": "Wycieczka z Sharm el Sheikh na Górę Mojżesza i klasztor św. Katarzyny",
+  "category": "historia",
+  "base": "Sharm el-Sheikh",
+  "duration": "1 dzień",
+  "price": 35,
+  "priceOld": 45,
+  "tiers": [],
+  "description": [
+   "Góra Mojżesza  Wschód słońca Góra Mojżesza i klasztor św. Katarzyny",
+   "Nocna wycieczka z Sharm el Sheikh na Górę Mojżesza, wschód słońca na szczycie i zwiedzanie klasztoru św. Katarzyny.",
+   ""
+  ],
+  "included": [],
+  "notIncluded": [],
+  "photos": 5,
+  "type": "wycieczka"
+ },
+ {
+  "slug": "rejs-na-white-island-ras-mohamed",
+  "title": "Rejs na White Island + Ras Mohamed",
+  "shortTitle": "Rejs na White Island + Ras Mohamed",
+  "category": "morze",
+  "base": "Sharm el-Sheikh",
+  "duration": "1 dzień",
+  "price": 40,
+  "priceOld": 50,
+  "tiers": [],
+  "description": [
+   "Snurkowanie, rajskie widoki i relaks na morzu! Zabierzemy Cię w niezapomniany rejs po najpiękniejszych zakątkach Morza Czerwonego! Połączenie dwóch ikon: Ras Mohamed – słynnego Parku Narodowego oraz White Island – bajecznej, białej wyspy wynurzającej się z wód jak fatamorgana. Idealna propozycja na relaks, snurkowanie i odkrywanie podwodnego świata",
+   "W programie: Dwa przystanki na snurkowanie – zanurz się w krystalicznie czystych wodach i odkryj fascynujący świat raf koralowych.",
+   "White Island (Biała Wyspa) – poc poczuj się jak na Malediwach! Rajska wyspa z białym piaskiem i turkusową wodą – idealna na sesję zdjęciową",
+   "Ras Mohamed – jeden z najpiękniejszych parków narodowych w Egipcie, znany z niezwykle bogatego życia morskiego."
+  ],
+  "included": [],
+  "notIncluded": [],
+  "photos": 4,
+  "type": "wycieczka"
+ },
+ {
+  "slug": "wycieczka-z-sharm-el-sheikh-do-blue-hole-i-kolorowego-kanionu",
+  "title": "Wycieczka z Sharm el Sheikh do Blue Hole i Kolorowego Kanionu",
+  "shortTitle": "Wycieczka z Sharm el Sheikh do Blue Hole i Kolorowego Kanionu",
+  "category": "morze",
+  "base": "Sharm el-Sheikh",
+  "duration": "1 dzień",
+  "price": 41,
+  "priceOld": 48,
+  "tiers": [],
+  "description": [
+   "Wycieczka z Sharm el Sheikh do Blue Hole i Kolorowego Kanionu",
+   "Blue Hole Dahab  Kolorowy Kanion Blue Hole i Kolorowy Kanion",
+   "Całodniowa wycieczka z Sharm el Sheikh do Dahab: Blue Hole, snorkeling, Kolorowy Kanion, obiad i city tour.",
+   ""
+  ],
+  "included": [],
+  "notIncluded": [],
+  "photos": 5,
+  "type": "wycieczka"
+ },
+ {
+  "slug": "rejs-na-white-island-ras-mohamed-z-nurkowaniem-z-butla",
+  "title": "Rejs na White Island i Ras Mohamed – nurkowanie z butlą",
+  "shortTitle": "Rejs na White Island i Ras Mohamed – nurkowanie z butlą",
+  "category": "morze",
+  "base": "Sharm el-Sheikh",
+  "duration": "1 dzień",
+  "price": 47,
+  "priceOld": 55,
+  "tiers": [],
+  "description": [
+   "Rejs na White Island  White Island  Ras Mohamed + nurkowanie",
+   "White Island + Ras Mohamed Całodniowa wycieczka morska z Sharm el Sheikh: White Island, Ras Mohamed, snorkeling i nurkowanie intro z butlą.",
+   ""
+  ],
+  "included": [],
+  "notIncluded": [],
+  "photos": 5,
+  "type": "wycieczka"
+ },
+ {
+  "slug": "wycieczka-z-sharm-el-sheikh-do-kairu-gem",
+  "title": "Wycieczka z Sharm el Sheikh do Kairu – piramidy w Gizie i Wielkie Muzeum Egipskie (GEM)",
+  "shortTitle": "Wycieczka z Sharm el Sheikh do Kairu",
+  "category": "historia",
+  "base": "Sharm el-Sheikh",
+  "duration": "1 dzień",
+  "price": 93,
+  "priceOld": 129,
+  "tiers": [],
+  "description": [
+   "Kair autokarem  GEM + Piramidy Sharm el Sheikh → Kair autokarem",
+   "Całodniowa wycieczka z Sharm el Sheikh do Kairu: GEM, piramidy w Gizie, Sfinks i obiad z widokiem na piramidy.",
+   ""
+  ],
+  "included": [],
+  "notIncluded": [],
+  "photos": 5,
+  "type": "wycieczka"
+ },
+ {
+  "slug": "kair-samolotem",
+  "title": "Wycieczki z Sharm El Sheikh do Kairu – Kair samolotem, Piramidy i Muzeum",
+  "shortTitle": "Wycieczki z Sharm El Sheikh do Kairu",
+  "category": "historia",
+  "base": "Sharm el-Sheikh",
+  "duration": "1 dzień",
+  "price": 255,
+  "priceOld": 270,
+  "tiers": [],
+  "description": [
+   "Wycieczki z sharm el sheikh do kairu  Kair samolotem  Muzeum + Piramidy",
+   "Sharm el Sheikh → Kair samolotem Całodniowa wycieczka samolotem z Sharm el Sheikh do Kairu: Muzeum Egipskie, piramidy w Gizie, Sfinks i obiad.",
+   ""
+  ],
+  "included": [],
+  "notIncluded": [],
+  "photos": 5,
+  "type": "wycieczka"
+ },
+ {
+  "slug": "wycieczka-z-sharm-el-sheikh-do-jordanii-petra-morze-martwe",
+  "title": "Wycieczka z Sharm el Sheikh do Jordanii – Petra i Morze Martwe (rejs łodzią)",
+  "shortTitle": "Wycieczka z Sharm el Sheikh do Jordanii",
+  "category": "morze",
+  "base": "Sharm el-Sheikh",
+  "duration": "1 dzień",
+  "price": 270,
+  "priceOld": 289,
+  "tiers": [],
+  "description": [
+   "Petra  Wycieczka międzynarodowa Petra z Sharm el Sheikh Całodniowa wycieczka z Sharm el Sheikh do Jordanii: Petra, obiad,  powrót do hotelu.",
+   ""
+  ],
+  "included": [],
+  "notIncluded": [],
+  "photos": 5,
+  "type": "wycieczka"
+ },
+ {
+  "slug": "wycieczka-samolotem-do-kairu-z-sharm-el-sheikh",
+  "title": "Wycieczka samolotem do Kairu z Sharm el Sheikh – piramidy i GEM",
+  "shortTitle": "Wycieczka samolotem do Kairu z Sharm el Sheikh",
+  "category": "historia",
+  "base": "Sharm el-Sheikh",
+  "duration": "1 dzień",
+  "price": 299,
+  "priceOld": 320,
+  "tiers": [],
+  "description": [
+   "Wycieczka samolotem do Kairu z Sharm el Sheikh  Kair samolotem",
+   "GEM + Piramidy Sharm el Sheikh → Kair samolotem Całodniowa wycieczka samolotem z Sharm el Sheikh do Kairu: GEM, piramidy w Gizie, Sfinks i obiad.",
+   ""
+  ],
+  "included": [],
+  "notIncluded": [],
+  "photos": 5,
+  "type": "wycieczka"
+ },
+ {
+  "slug": "dolphin-show-w-sharm-el-sheikh",
+  "title": "Dolphin Show - Pokaz delfinów w Sharm el Sheikh",
+  "shortTitle": "Dolphin Show - Pokaz delfinów w Sharm el Sheikh",
+  "category": "morze",
+  "base": "Sharm el-Sheikh",
+  "duration": "1 dzień",
+  "price": 25,
+  "priceOld": null,
+  "tiers": [
+   {
+    "label": "Dzieci 5–11 lat",
+    "usd": 14
+   }
+  ],
+  "description": [
+   "Zapraszamy na niezwykłe widowisko z udziałem delfinów, fok i krów morskich!",
+   "To niesamowite połączenie zabawy, sztuczek i bliskiego kontaktu z przyjaznymi zwierzętami.",
+   "Pokaz trwa około 1,5 godziny i dostarcza wielu emocji zarówno dzieciom, jak i dorosłym – to idealna atrakcja dla rodzin i nie tylko.",
+   "Czas trwania show: ok. 1,5 godziny"
+  ],
+  "included": [],
+  "notIncluded": [],
+  "photos": 4,
+  "type": "wycieczka"
+ },
+ {
+  "slug": "jazda-na-wielbladzie-lub-konno-sharm-el-sheikh",
+  "title": "Jazda na wielbłądzie lub konno – Sharm el Sheikh",
+  "shortTitle": "Jazda na wielbłądzie lub konno – Sharm el Sheikh",
+  "category": "safari",
+  "base": "Sharm el-Sheikh",
+  "duration": "1 dzień",
+  "price": 28,
+  "priceOld": null,
+  "tiers": [],
+  "description": [
+   "Przenieś się w orientalny klimat pustyni i wybierz wyjątkową formę przejażdżki – na wielbłądzie lub koniu. To nie tylko atrakcja, ale też prawdziwe przeżycie w sercu pustyni.",
+   "Podczas godzinnej wyprawy poczujesz adrenalinę, spokój i magię pustynnych widoków, które na długo zostaną w pamięci. To idealna przygoda dla osób szukających czegoś innego niż quady czy buggy.",
+   "Czas trwania: ok. 1 godzina"
+  ],
+  "included": [],
+  "notIncluded": [],
+  "photos": 5,
+  "type": "wycieczka"
+ },
+ {
+  "slug": "wycieczka-do-ras-mohamed-podwodny-raj-i-cuda-natury",
+  "title": "Wycieczka do Ras Mohamed – podwodny raj i cuda natury!",
+  "shortTitle": "Wycieczka do Ras Mohamed – podwodny raj i cuda natury!",
+  "category": "morze",
+  "base": "Sharm el-Sheikh",
+  "duration": "1 dzień",
+  "price": 28,
+  "priceOld": null,
+  "tiers": [],
+  "description": [
+   "Zapraszamy na niezapomnianą wycieczkę do Parku Narodowego Ras Mohamed, jednego z najpiękniejszych miejsc w Egipcie!",
+   "To idealna propozycja dla miłośników natury, snurkowania i malowniczych krajobrazów",
+   "Idealna wycieczka dla całej rodziny! Zanurz się w magiczny świat Ras Mohamed i odkryj cuda natury, które na długo zostaną w Twojej pamięci.",
+   "Program wycieczki: Snurkowanie z plaży El Suez Beach – pierwsze zanurzenie w krystalicznie czystych wodach Morza Czerwonego."
+  ],
+  "included": [],
+  "notIncluded": [],
+  "photos": 5,
+  "type": "wycieczka"
+ },
+ {
+  "slug": "parasailing-w-sharm-el-sheikh",
+  "title": "Parasailing w Sharm el Sheikh",
+  "shortTitle": "Parasailing w Sharm el Sheikh",
+  "category": "morze",
+  "base": "Sharm el-Sheikh",
+  "duration": "1 dzień",
+  "price": 37,
+  "priceOld": null,
+  "tiers": [],
+  "description": [
+   "Poczuj dreszczyk adrenaliny i zachwyć się niesamowitymi widokami Morza Czerwonego z perspektywy ptaka!",
+   "Podczas lotu unosząc się wysoko nad wodą, zobaczysz błękit morza, rafy koralowe i panoramę Sharm el Sheikh. To niezapomniana przygoda pełna emocji i pięknych kadrów na zdjęcia.",
+   "Czas lotu: 7–10 minut Ceny: Lot pojedynczy – 37$ Lot w dwie osoby (razem maks. 140 kg) – 60$/za dwie osoby"
+  ],
+  "included": [],
+  "notIncluded": [],
+  "photos": 5,
+  "type": "wycieczka"
+ },
+ {
+  "slug": "moto-sunset-safari-z-teleskopem-sharm-el-sheikh",
+  "title": "Moto Sunset Safari z teleskopem – Sharm el Sheikh",
+  "shortTitle": "Moto Sunset Safari z teleskopem – Sharm el Sheikh",
+  "category": "safari",
+  "base": "Sharm el-Sheikh",
+  "duration": "1 dzień",
+  "price": 38,
+  "priceOld": null,
+  "tiers": [
+   {
+    "label": "Dzieci 5–11 lat",
+    "usd": 22
+   }
+  ],
+  "description": [
+   "Przeżyj magiczną podróż, która łączy adrenalinę, pustynne krajobrazy i nocne niebo pełne gwiazd!",
+   "Program wycieczki: -40 km jazdy quadem – prędkość, adrenalina i pustynne widoki",
+   "Wizyta w wiosce beduińskiej – poznaj kulturę i skosztuj herbaty",
+   "Jazda na wielbłądzie – orientalna przygoda w sercu pustyni -Zachód słońca na pustyni"
+  ],
+  "included": [],
+  "notIncluded": [],
+  "photos": 5,
+  "type": "wycieczka"
+ },
+ {
+  "slug": "wycieczka-lodzia-polpodwodna-seascope-w-sharm-el-sheikh",
+  "title": "Wycieczka łodzią półpodwodną Seascope w Sharm el Sheikh",
+  "shortTitle": "Wycieczka łodzią półpodwodną Seascope w Sharm el Sheikh",
+  "category": "morze",
+  "base": "Sharm el-Sheikh",
+  "duration": "1 dzień",
+  "price": 38,
+  "priceOld": null,
+  "tiers": [
+   {
+    "label": "Dzieci 5–11 lat",
+    "usd": 20
+   }
+  ],
+  "description": [
+   "Wejdź na pokład niezwykłej łodzi półpodwodnej i zobacz z bliska rafy koralowe, kolorowe rybki i magiczny podwodny świat Morza Czerwonego – bez konieczności nurkowania!",
+   "Podczas około 2-godzinnego rejsu będziesz podziwiać jedne z najpiękniejszych raf na świecie przez panoramiczne okna znajdujące się pod powierzchnią wody. To idealna atrakcja zarówno dla dorosłych, jak i dla dzieci.",
+   "Czas trwania rejsu: ok. 2 godziny Ceny: Dorośli – 38$ Dzieci 5–11 lat – 20$",
+   "Dzieci do 5 lat – gratis"
+  ],
+  "included": [],
+  "notIncluded": [],
+  "photos": 4,
+  "type": "wycieczka"
+ },
+ {
+  "slug": "wycieczka-z-sharm-el-sheikh-wyspa-tiran",
+  "title": "Wycieczka z Sharm el Sheikh – Wyspa Tiran",
+  "shortTitle": "Wycieczka z Sharm el Sheikh – Wyspa Tiran",
+  "category": "morze",
+  "base": "Sharm el-Sheikh",
+  "duration": "1 dzień",
+  "price": 38,
+  "priceOld": null,
+  "tiers": [],
+  "description": [
+   "Zapraszamy na niezapomnianą morską przygodę do jednej z najpiękniejszych wysp Morza Czerwonego – Wyspy Tiran!",
+   "Program wycieczki: 2 snurkowania na kolorowych rafach koralowych",
+   "Napoje i obiad na łodzi w cenie Możliwość wypożyczenia sprzętu za dodatkową opłatą",
+   "Wycieczka odbywa się codziennie"
+  ],
+  "included": [],
+  "notIncluded": [],
+  "photos": 2,
+  "type": "wycieczka"
+ },
+ {
+  "slug": "moto-safari-5h-w-sharm-el-sheikh",
+  "title": "Moto Quad Safari 5h w Sharm el Sheikh",
+  "shortTitle": "Moto Quad Safari 5h w Sharm el Sheikh",
+  "category": "safari",
+  "base": "Sharm el-Sheikh",
+  "duration": "1 dzień",
+  "price": 40,
+  "priceOld": null,
+  "tiers": [],
+  "description": [
+   "Przeżyj wyjątkową przygodę na pustyni łączącą adrenalinę, kulturę i rozrywkę!",
+   "W programie: -Około 40 km jazdy quadem po pustyni – prędkość i emocje gwarantowane",
+   "Wizyta w wiosce beduińskiej – poznaj tradycje i spróbuj beduińskiej herbaty",
+   "Jazda na wielbłądzie – orientalne doświadczenie w samym sercu pustyni"
+  ],
+  "included": [],
+  "notIncluded": [],
+  "photos": 5,
+  "type": "wycieczka"
+ },
+ {
+  "slug": "buggy-safari-sharm-el-sheikh",
+  "title": "Buggy Safari – Sharm el Sheikh",
+  "shortTitle": "Buggy Safari – Sharm el Sheikh",
+  "category": "safari",
+  "base": "Sharm el-Sheikh",
+  "duration": "1 dzień",
+  "price": 45,
+  "priceOld": null,
+  "tiers": [],
+  "description": [
+   "Poczuj prawdziwą moc pustyni i przeżyj ekscytującą przygodę w buggy!",
+   "Podczas wycieczki czeka na Ciebie: -40 km jazdy buggy przez pustynię – prędkość, piach i kurz, czyli czysta adrenalina!",
+   "Niezapomniane widoki pustynnych krajobrazów -Wizyta w wiosce beduińskiej, gdzie poznasz lokalną kulturę i napijesz się tradycyjnej herbaty",
+   "To świetna atrakcja dla fanów mocnych wrażeń, a także idealna zabawa w gronie znajomych czy rodziny."
+  ],
+  "included": [],
+  "notIncluded": [],
+  "photos": 5,
+  "type": "wycieczka"
+ },
+ {
+  "slug": "wycieczka-z-sharm-el-sheikh-wyspa-tiran-z-nurkowaniem",
+  "title": "Wycieczka z Sharm el Sheikh – Wyspa Tiran z nurkowaniem",
+  "shortTitle": "Wycieczka z Sharm el Sheikh – Wyspa Tiran z nurkowaniem",
+  "category": "morze",
+  "base": "Sharm el-Sheikh",
+  "duration": "1 dzień",
+  "price": 49,
+  "priceOld": null,
+  "tiers": [],
+  "description": [
+   "Poznaj piękno podwodnego świata Morza Czerwonego i odkryj niezwykłe rafy Wyspy Tiran!",
+   "Program wycieczki: 2 snurkowania w najpiękniejszych miejscach wokół wyspy",
+   "1 nurkowanie z butlą (ok. 15 minut) – w cenie wycieczki Obiad i napoje na łodzi",
+   "Sprzęt do nurkowania w cenie Sprzęt do snurkowania Wycieczka odbywa się codziennie"
+  ],
+  "included": [],
+  "notIncluded": [],
+  "photos": 2,
+  "type": "wycieczka"
+ },
+ {
+  "slug": "turecki-hammam-sharm-el-sheikh",
+  "title": "Turecki Hammam – Sharm el Sheikh",
+  "shortTitle": "Turecki Hammam – Sharm el Sheikh",
+  "category": "morze",
+  "base": "Sharm el-Sheikh",
+  "duration": "1 dzień",
+  "price": 50,
+  "priceOld": null,
+  "tiers": [],
+  "description": [
+   "Podaruj sobie chwilę pełnego relaksu i odprężenia w tradycyjnym tureckim hammamie. To wyjątkowe doświadczenie SPA, które łączy orientalne rytuały pielęgnacyjne z głębokim wyciszeniem ciała i umysłu.",
+   "W programie: -Sauna i łaźnia parowa – oczyszczenie organizmu i przygotowanie skóry",
+   "Peeling i rytuał pianą – gładka i odświeżona skóra -Maseczka na twarz – naturalna pielęgnacja i nawilżenie",
+   "Ciepły napój – chwila odprężenia -30 minut masażu całego ciała – relaks i regeneracja mięśni"
+  ],
+  "included": [],
+  "notIncluded": [],
+  "photos": 5,
+  "type": "wycieczka"
+ },
+ {
+  "slug": "marokanski-hammam-sharm-el-sheikh",
+  "title": "Marokański Hammam – Sharm el Sheikh",
+  "shortTitle": "Marokański Hammam – Sharm el Sheikh",
+  "category": "morze",
+  "base": "Sharm el-Sheikh",
+  "duration": "1 dzień",
+  "price": 60,
+  "priceOld": null,
+  "tiers": [],
+  "description": [
+   "Zanurz się w świat orientalnych rytuałów i podaruj sobie wyjątkowy czas pełen relaksu, pielęgnacji i odnowy. Marokański hammam to tradycyjny rytuał piękna, który sprawia, że ciało i umysł odzyskują harmonię.",
+   "W programie: -Sauna i łaźnia parowa – głębokie oczyszczenie i przygotowanie skóry",
+   "Usuwanie martwego naskórka rękawicą Kessa – jedwabiście gładka skóra",
+   "10 minut masażu pianą – relaks i świeżość -Peeling kawowy całego ciała – odżywienie i poprawa krążenia"
+  ],
+  "included": [],
+  "notIncluded": [],
+  "photos": 5,
+  "type": "wycieczka"
+ },
+ {
+  "slug": "kair-autokarem",
+  "title": "Kair autokarem",
+  "shortTitle": "Kair autokarem",
+  "category": "historia",
+  "base": "Sharm el-Sheikh",
+  "duration": "1 dzień",
+  "price": 79,
+  "priceOld": null,
+  "tiers": [
+   {
+    "label": "Dorosły",
+    "usd": 79
+   },
+   {
+    "label": "Dzieci 5-11 lat",
+    "usd": 55
+   }
+  ],
+  "description": [
+   "Wycieczka do Kairu z Sharm El Sheikh to niezwykła podróż w czasie do serca starożytnego Egiptu.",
+   "To idealna propozycja dla tych, którzy podczas wakacji nad Morzem Czerwonym chcą zobaczyć coś więcej niż tylko plaże i rafy koralowe. W ciągu jednego dnia można stanąć u stóp majestatycznych piramid w Gizie,",
+   "Spojrzeć Sfinksowi prosto w oczy i zanurzyć się w historię faraonów w słynnym Muzeum Egipskim w centrum Kairu.",
+   "Choć dzień jest intensywny, wrażenia pozostają niezapomniane — to spotkanie z jedną z najstarszych cywilizacji świata, które na długo zostaje w pamięci."
+  ],
+  "included": [],
+  "notIncluded": [],
+  "photos": 5,
+  "type": "wycieczka"
+ }
+]

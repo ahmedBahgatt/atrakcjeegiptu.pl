@@ -1,108 +1,228 @@
 <!doctype html>
-<html lang="pl">
+<html lang="pl" class="no-js">
 <head>
 <meta charset="utf-8">
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<title>atrakcjeegiptu.pl</title>
-<meta name="description" content="Wycieczki i wakacje w Egipcie dla polskich turystów.">
-<style>
-  :root {
-    --bg: #fbf8f2;
-    --text: #22201c;
-    --muted: #6b6459;
-    --accent: #c9862b;
-    --border: #e7ded0;
-  }
-  * { box-sizing: border-box; }
-  body {
-    margin: 0;
-    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
-    background: var(--bg);
-    color: var(--text);
-    line-height: 1.6;
-  }
-  .wrap { max-width: 960px; margin: 0 auto; padding: 0 24px; }
-  header { padding: 72px 0 40px; border-bottom: 1px solid var(--border); }
-  header h1 { font-size: 2.2rem; margin: 0 0 8px; }
-  header p.tagline { color: var(--accent); font-weight: 600; margin: 0 0 16px; }
-  header p.desc { color: var(--muted); max-width: 600px; margin: 0; }
-  section { padding: 40px 0; }
-  h2 { font-size: 1.3rem; margin: 0 0 20px; }
-  .grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(260px, 1fr)); gap: 20px; }
-  .card {
-    background: #fff;
-    border: 1px solid var(--border);
-    border-radius: 10px;
-    padding: 20px;
-  }
-  .card h3 { margin: 0 0 6px; font-size: 1.1rem; }
-  .card .loc { color: var(--accent); font-size: 0.85rem; font-weight: 600; margin-bottom: 8px; }
-  .card p.excerpt { color: var(--muted); font-size: 0.95rem; margin: 0 0 12px; }
-  .card ul { margin: 0 0 12px; padding-left: 18px; color: var(--muted); font-size: 0.9rem; }
-  .card .price { font-weight: 700; font-size: 1.1rem; }
-  .card .days { color: var(--muted); font-size: 0.85rem; }
-  footer { padding: 32px 0 64px; color: var(--muted); font-size: 0.85rem; border-top: 1px solid var(--border); }
-  #status { color: var(--muted); }
-</style>
+<script>document.documentElement.classList.replace('no-js','js')</script>
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Atrakcje Egiptu - wycieczki fakultatywne z Hurghady, Marsa Alam i Sharm</title>
+<meta name="description" content="Ponad 100 wycieczek fakultatywnych w Egipcie po polsku: Kair, Luksor, rejsy, safari i nurkowanie. Ceny w USD, odbiór z hotelu, rezerwacja przez WhatsApp.">
+<link rel="canonical" href="https://atrakcjeegiptu.pl/">
+<link rel="preload" as="image" href="/assets/img/hero_poster.webp" fetchpriority="high">
+<meta property="og:title" content="Atrakcje Egiptu - wycieczki fakultatywne z Hurghady, Marsa Alam i Sharm">
+<meta property="og:description" content="Ponad 100 wycieczek fakultatywnych w Egipcie po polsku: Kair, Luksor, rejsy, safari i nurkowanie. Ceny w USD, odbiór z hotelu, rezerwacja przez WhatsApp.">
+<meta property="og:image" content="https://atrakcjeegiptu.pl/assets/img/hero_poster.webp">
+<meta property="og:url" content="https://atrakcjeegiptu.pl/">
+<meta property="og:type" content="website">
+<meta property="og:locale" content="pl_PL">
+<meta property="og:site_name" content="Atrakcje Egiptu">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:image" content="https://atrakcjeegiptu.pl/assets/img/hero_poster.webp">
+<link rel="icon" type="image/svg+xml" href="/assets/img/logo.svg">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,500;9..144,600;9..144,700&family=Manrope:wght@400;600;700;800&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="/css/site.css">
+<script type="application/ld+json">{"@context": "https://schema.org", "@type": "TravelAgency", "name": "Atrakcje Egiptu", "url": "https://atrakcjeegiptu.pl", "logo": "https://atrakcjeegiptu.pl/assets/img/logo.svg", "description": "Atrakcje Egiptu to polskojęzyczna agencja wycieczek fakultatywnych działająca w Hurghadzie, Marsa Alam i Sharm el-Sheikh. Pokazujemy Egipt bez pośpiechu i bez ukrytych opłat.", "areaServed": ["Hurghada", "Marsa Alam", "Sharm el-Sheikh"], "address": {"@type": "PostalAddress", "addressLocality": "Hurghada", "addressCountry": "EG"}, "telephone": "+201055850536", "email": "kontakt@atrakcjeegiptu.pl", "priceRange": "$5 - $345"}</script><script type="application/ld+json">{"@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": "Jak zarezerwować wycieczkę?", "acceptedAnswer": {"@type": "Answer", "text": "Napisz do nas na WhatsApp - podaj nazwę wycieczki, hotel, termin i liczbę osób. Potwierdzimy dostępność i godzinę odbioru, zwykle w ciągu 15 minut. Nie pobieramy przedpłat."}}, {"@type": "Question", "name": "Czy mogę zapłacić w złotówkach albo kartą?", "acceptedAnswer": {"@type": "Answer", "text": "Płatność przyjmujemy gotówką w dniu wycieczki - w dolarach lub euro. Złotówki i karty niestety nie działają u lokalnych operatorów, dlatego warto mieć przygotowaną gotówkę."}}, {"@type": "Question", "name": "Czy ceny zawierają odbiór z hotelu?", "acceptedAnswer": {"@type": "Answer", "text": "Tak, transfer z hotelu i z powrotem jest wliczony w cenę w obrębie głównej strefy kurortu. Za odbiór z dalszych lokalizacji (np. El Gouna, Soma Bay, Sahl Hasheesh) obowiązuje niewielka dopłata podana przy wycieczce."}}, {"@type": "Question", "name": "Co jeśli muszę odwołać rezerwację?", "acceptedAnswer": {"@type": "Answer", "text": "Wycieczkę można bezpłatnie odwołać do 24 godzin przed startem - wystarczy wiadomość na WhatsApp. Przy późniejszym odwołaniu może obowiązywać opłata, o której zawsze uprzedzamy."}}, {"@type": "Question", "name": "Czy wycieczki są bezpieczne dla dzieci?", "acceptedAnswer": {"@type": "Answer", "text": "Większość tak - przy każdej wycieczce podajemy ceny dla dzieci i ograniczenia wiekowe (np. lot balonem od 8 lat). Foteliki i spokojniejsze tempo da się ustalić przy rezerwacji."}}, {"@type": "Question", "name": "W jakim języku prowadzone są wycieczki?", "acceptedAnswer": {"@type": "Answer", "text": "Po polsku. Naszymi przewodnikami są osoby mówiące po polsku - to główny powód, dla którego polscy turyści wybierają nas zamiast anonimowych ofert hotelowych."}}]}</script>
 </head>
 <body>
-  <div class="wrap">
-    <header>
-      <h1 id="site-title">atrakcjeegiptu.pl</h1>
-      <p class="tagline" id="site-tagline"></p>
-      <p class="desc" id="site-desc"></p>
-    </header>
-    <section>
-      <h2>Nasze wycieczki</h2>
-      <p id="status">Wczytywanie ofert...</p>
-      <div class="grid" id="tours"></div>
-    </section>
-    <footer>
-      <p id="contact"></p>
-      <p>&copy; 2026 atrakcjeegiptu.pl</p>
-    </footer>
-  </div>
-  <script>
-    const PROJECT_ID = "qm4eo9p4";
-    const DATASET = "production";
-    const query = encodeURIComponent(`{"settings": *[_type=="siteSettings"][0], "tours": *[_type=="tourPackage"]|order(price asc)}`);
-    const url = `https://${PROJECT_ID}.apicdn.sanity.io/v2023-01-01/data/query/${DATASET}?query=${query}`;
+<header class="site-header"><div class="container">
+<a class="brand" href="/"><img src="/assets/img/logo.svg" alt="" width="36" height="36">Atrakcje Egiptu</a>
+<button class="nav-toggle" aria-label="Menu" aria-expanded="false" aria-controls="main-nav">☰</button>
+<nav class="main-nav" id="main-nav"><a href="/" class="active">Strona główna</a><a href="/wycieczki/">Wycieczki</a><a href="/hurghada/">Hurghada</a><a href="/marsa-alam/">Marsa Alam</a><a href="/sharm-el-sheikh/">Sharm el-Sheikh</a><a href="/blog/">Blog</a></nav>
+<a class="btn btn-wa header-cta" href="https://wa.me/201055850536?text=Dzie%C5%84%20dobry%21%20Pisz%C4%99%20ze%20strony%20atrakcjeegiptu.pl%20-%20mam%20pytanie%20o%20wycieczki." target="_blank" rel="noopener">WhatsApp</a>
+</div></header>
+<main>
 
-    fetch(url)
-      .then(r => r.json())
-      .then(({ result }) => {
-        const { settings, tours } = result;
-        if (settings) {
-          document.getElementById("site-title").textContent = settings.title || "atrakcjeegiptu.pl";
-          document.getElementById("site-tagline").textContent = settings.tagline || "";
-          document.getElementById("site-desc").textContent = settings.description || "";
-          if (settings.contactEmail) {
-            document.getElementById("contact").innerHTML =
-              `Kontakt: <a href="mailto:${settings.contactEmail}">${settings.contactEmail}</a>`;
-          }
-        }
-        const grid = document.getElementById("tours");
-        const status = document.getElementById("status");
-        if (!tours || !tours.length) {
-          status.textContent = "Oferty wkrótce.";
-          return;
-        }
-        status.remove();
-        grid.innerHTML = tours.map(t => `
-          <div class="card">
-            <div class="loc">${t.location || ""}</div>
-            <h3>${t.title}</h3>
-            <p class="excerpt">${t.excerpt || ""}</p>
-            <ul>${(t.highlights || []).map(h => `<li>${h}</li>`).join("")}</ul>
-            <div class="price">${t.price} ${t.currency || "PLN"}</div>
-            <div class="days">${t.durationDays} dni</div>
-          </div>
-        `).join("");
-      })
-      .catch(err => {
-        document.getElementById("status").textContent = "Nie udało się wczytać ofert.";
-        console.error(err);
-      });
-  </script>
+<section class="hero">
+<div class="hero-media plx">
+<video autoplay muted loop playsinline preload="none" poster="/assets/img/hero_poster.webp" id="herovid">
+</video>
+<img src="/assets/img/hero_poster.webp" alt="Piramidy w Gizie o zachodzie słońca" fetchpriority="high" width="1600" height="900" id="heroimg">
+</div>
+<div class="hero-inner container">
+<span class="eyebrow stagger">Wycieczki fakultatywne z Hurghady, Marsa Alam i Sharm el-Sheikh</span>
+<h1 class="stagger">Zobacz Egipt, który pamięta się latami</h1>
+<p class="sub stagger">Ponad 100 wycieczek fakultatywnych z polskojęzycznym przewodnikiem. Stałe ceny w dolarach, odbiór prosto z hotelu, rezerwacja przez WhatsApp - bez przedpłaty.</p>
+<div class="hero-ctas stagger">
+<a class="btn btn-gold" href="/wycieczki/">Przeglądaj wycieczki</a>
+<a class="btn btn-ghost" href="https://wa.me/201055850536?text=Dzie%C5%84%20dobry%21%20Pisz%C4%99%20ze%20strony%20atrakcjeegiptu.pl%20-%20mam%20pytanie%20o%20wycieczki." target="_blank" rel="noopener">Napisz na WhatsApp</a>
+</div>
+<div class="hero-stats"><div><b data-count="107">0</b><span>wycieczek i kursów</span></div><div><b data-count="3">0</b><span>kurorty wyjazdowe</span></div><div><b data-count="15">0</b><span>min - tyle czekasz na odpowiedź</span></div></div>
+</div>
+<div class="hero-scroll" aria-hidden="true"></div>
+</section>
+<div class="marquee" aria-hidden="true"><div class="marquee-track"><span>Piramidy w Gizie</span><span>Dolina Królów</span><span>Rejs po Nilu</span><span>Rafa koralowa</span><span>Safari na pustyni</span><span>Abu Simbel</span><span>Orange Bay</span><span>Lot balonem nad Luksorem</span><span>Delfiny w Sataya</span><span>Góra Mojżesza</span><span>Piramidy w Gizie</span><span>Dolina Królów</span><span>Rejs po Nilu</span><span>Rafa koralowa</span><span>Safari na pustyni</span><span>Abu Simbel</span><span>Orange Bay</span><span>Lot balonem nad Luksorem</span><span>Delfiny w Sataya</span><span>Góra Mojżesza</span></div></div>
+<section class="section"><div class="container">
+<span class="eyebrow">Skąd wyruszasz?</span>
+<h2>Trzy kurorty, jeden Egipt</h2>
+<p class="lead">Odbieramy z hotelu w każdym z trzech głównych kurortów Morza Czerwonego - i z ich okolic.</p>
+<div class="dest-tiles"><a class="dest-tile rv" href="/hurghada/">
+<img src="/assets/img/scene_raj.webp" alt="Wycieczki z Hurghady" width="640" height="800" loading="lazy">
+<div><h3>Hurghada</h3><p>Największy wybór: Kair, Luksor, rejsy i safari. Odbiór także z El Gouny, Makadi Bay, Soma Bay i Sahl Hasheesh.</p>
+<span class="count">56 wycieczek →</span></div></a><a class="dest-tile rv" href="/marsa-alam/">
+<img src="/assets/img/scene_delfiny.webp" alt="Wycieczki z Marsa Alam" width="640" height="800" loading="lazy">
+<div><h3>Marsa Alam</h3><p>Najpiękniejsze rafy i delfiny w zatoce Sataya. Stąd też najbliżej do Luksoru i Abu Simbel.</p>
+<span class="count">28 wycieczek →</span></div></a><a class="dest-tile rv" href="/sharm-el-sheikh/">
+<img src="/assets/img/scene_sharm.webp" alt="Wycieczki z Sharm el-Sheikh" width="640" height="800" loading="lazy">
+<div><h3>Sharm el-Sheikh</h3><p>Ras Mohammed, Góra Mojżesza i klasztor św. Katarzyny. Synaj ma swoją własną magię.</p>
+<span class="count">23 wycieczek →</span></div></a></div>
+</div></section>
+<section class="section section-alt">
+<div class="container"><span class="eyebrow">Bestsellery</span>
+<h2>Najchętniej wybierane wycieczki</h2>
+<p class="lead">Sprawdzone przez setki polskich turystów. Ceny w USD za osobę, bez ukrytych dopłat.</p></div>
+<div class="rail-wrap"><div class="rail"><article class="card rv" data-cat="morze" data-base="Hurghada">
+<div class="card-img"><a href="/wycieczki/wycieczka-z-hurghady-lodzia-seascope/"><img src="/assets/img/tours/wycieczka-z-hurghady-lodzia-seascope/0-s.webp" alt="Rejs łodzią podwodną Seascope z Hurghady" width="560" height="350" loading="lazy" style="view-transition-name:t-wycieczka-z-hurghady-lodzia-seascope"></a><span class="badge">Promocja</span><span class="badge-dur">1 dzień</span></div>
+<div class="card-body">
+<div class="card-meta"><span>z Hurghady</span><span>·</span><span>Morze i rafy</span></div>
+<h3><a href="/wycieczki/wycieczka-z-hurghady-lodzia-seascope/">Rejs łodzią podwodną Seascope z Hurghady</a></h3>
+<div class="card-foot"><div class="price"><span class="from">od</span> <s style="color:var(--ink-soft);font-size:.9rem;font-weight:500">24 USD</s> 18 USD<small>za osobę</small></div>
+<a class="btn btn-gold" href="/wycieczki/wycieczka-z-hurghady-lodzia-seascope/">Zobacz</a></div>
+</div></article><article class="card rv" data-cat="morze" data-base="Hurghada">
+<div class="card-img"><a href="/wycieczki/wycieczka-z-hurghady-jazda-konno-i-kapiel-w-morzu/"><img src="/assets/img/tours/wycieczka-z-hurghady-jazda-konno-i-kapiel-w-morzu/0-s.webp" alt="Wycieczka z Hurghady - Jazda konno i kąpiel w morzu" width="560" height="350" loading="lazy" style="view-transition-name:t-wycieczka-z-hurghady-jazda-konno-i-kapie"></a><span class="badge">Promocja</span><span class="badge-dur">1 dzień</span></div>
+<div class="card-body">
+<div class="card-meta"><span>z Hurghady</span><span>·</span><span>Morze i rafy</span></div>
+<h3><a href="/wycieczki/wycieczka-z-hurghady-jazda-konno-i-kapiel-w-morzu/">Wycieczka z Hurghady - Jazda konno i kąpiel w morzu</a></h3>
+<div class="card-foot"><div class="price"><span class="from">od</span> <s style="color:var(--ink-soft);font-size:.9rem;font-weight:500">30 USD</s> 23 USD<small>za osobę</small></div>
+<a class="btn btn-gold" href="/wycieczki/wycieczka-z-hurghady-jazda-konno-i-kapiel-w-morzu/">Zobacz</a></div>
+</div></article><article class="card rv" data-cat="morze" data-base="Hurghada">
+<div class="card-img"><a href="/wycieczki/wycieczka-z-hurghady-delfinarium-dolphin-show/"><img src="/assets/img/tours/wycieczka-z-hurghady-delfinarium-dolphin-show/0-s.webp" alt="Delfinarium Hurghada – pokaz delfinów z transferem" width="560" height="350" loading="lazy" style="view-transition-name:t-wycieczka-z-hurghady-delfinarium-dolphin"></a><span class="badge">Promocja</span><span class="badge-dur">1 dzień</span></div>
+<div class="card-body">
+<div class="card-meta"><span>z Hurghady</span><span>·</span><span>Morze i rafy</span></div>
+<h3><a href="/wycieczki/wycieczka-z-hurghady-delfinarium-dolphin-show/">Delfinarium Hurghada – pokaz delfinów z transferem</a></h3>
+<div class="card-foot"><div class="price"><span class="from">od</span> <s style="color:var(--ink-soft);font-size:.9rem;font-weight:500">33 USD</s> 25 USD<small>za osobę</small></div>
+<a class="btn btn-gold" href="/wycieczki/wycieczka-z-hurghady-delfinarium-dolphin-show/">Zobacz</a></div>
+</div></article><article class="card rv" data-cat="morze" data-base="Hurghada">
+<div class="card-img"><a href="/wycieczki/wycieczka-z-hurghady-do-domu-delfinow/"><img src="/assets/img/tours/wycieczka-z-hurghady-do-domu-delfinow/0-s.webp" alt="Wycieczka z Hurghady do Domu Delfinów (Dolphin House)" width="560" height="350" loading="lazy" style="view-transition-name:t-wycieczka-z-hurghady-do-domu-delfinow"></a><span class="badge">Promocja</span><span class="badge-dur">1 dzień</span></div>
+<div class="card-body">
+<div class="card-meta"><span>z Hurghady</span><span>·</span><span>Morze i rafy</span></div>
+<h3><a href="/wycieczki/wycieczka-z-hurghady-do-domu-delfinow/">Wycieczka z Hurghady do Domu Delfinów (Dolphin House)</a></h3>
+<div class="card-foot"><div class="price"><span class="from">od</span> <s style="color:var(--ink-soft);font-size:.9rem;font-weight:500">35 USD</s> 25 USD<small>za osobę</small></div>
+<a class="btn btn-gold" href="/wycieczki/wycieczka-z-hurghady-do-domu-delfinow/">Zobacz</a></div>
+</div></article><article class="card rv" data-cat="relaks" data-base="Hurghada">
+<div class="card-img"><a href="/wycieczki/wycieczka-z-hurghady-zakupy/"><img src="/assets/img/tours/wycieczka-z-hurghady-zakupy/0-s.webp" alt="Wycieczka z Hurghady – Zakupy - Shopping w Hurghadzie" width="560" height="350" loading="lazy" style="view-transition-name:t-wycieczka-z-hurghady-zakupy"></a><span class="badge-dur">1 dzień</span></div>
+<div class="card-body">
+<div class="card-meta"><span>z Hurghady</span><span>·</span><span>Relaks i rozrywka</span></div>
+<h3><a href="/wycieczki/wycieczka-z-hurghady-zakupy/">Wycieczka z Hurghady – Zakupy - Shopping w Hurghadzie</a></h3>
+<div class="card-foot"><div class="price"><span class="from">od</span> 5 USD<small>za osobę</small></div>
+<a class="btn btn-gold" href="/wycieczki/wycieczka-z-hurghady-zakupy/">Zobacz</a></div>
+</div></article><article class="card rv" data-cat="relaks" data-base="Hurghada">
+<div class="card-img"><a href="/wycieczki/wycieczka-city-tour-z-hurghady/"><img src="/assets/img/tours/wycieczka-city-tour-z-hurghady/0-s.webp" alt="Wycieczka City Tour z Hurghady" width="560" height="350" loading="lazy" style="view-transition-name:t-wycieczka-city-tour-z-hurghady"></a><span class="badge-dur">1 dzień</span></div>
+<div class="card-body">
+<div class="card-meta"><span>z Hurghady</span><span>·</span><span>Relaks i rozrywka</span></div>
+<h3><a href="/wycieczki/wycieczka-city-tour-z-hurghady/">Wycieczka City Tour z Hurghady</a></h3>
+<div class="card-foot"><div class="price"><span class="from">od</span> 12 USD<small>za osobę</small></div>
+<a class="btn btn-gold" href="/wycieczki/wycieczka-city-tour-z-hurghady/">Zobacz</a></div>
+</div></article><article class="card rv" data-cat="relaks" data-base="Hurghada">
+<div class="card-img"><a href="/wycieczki/turecki-hammam-w-hurghadzie-peeling-masaz-45-min/"><img src="/assets/img/tours/turecki-hammam-w-hurghadzie-peeling-masaz-45-min/0-s.webp" alt="Turecki Hammam" width="560" height="350" loading="lazy" style="view-transition-name:t-turecki-hammam-w-hurghadzie-peeling-masa"></a><span class="badge-dur">1 dzień</span></div>
+<div class="card-body">
+<div class="card-meta"><span>z Hurghady</span><span>·</span><span>Relaks i rozrywka</span></div>
+<h3><a href="/wycieczki/turecki-hammam-w-hurghadzie-peeling-masaz-45-min/">Turecki Hammam</a></h3>
+<div class="card-foot"><div class="price"><span class="from">od</span> 23 USD<small>za osobę</small></div>
+<a class="btn btn-gold" href="/wycieczki/turecki-hammam-w-hurghadzie-peeling-masaz-45-min/">Zobacz</a></div>
+</div></article><article class="card rv" data-cat="relaks" data-base="Hurghada">
+<div class="card-img"><a href="/wycieczki/wycieczka-z-hurghady-masaz-relaksacyjny-spa/"><img src="/assets/img/tours/wycieczka-z-hurghady-masaz-relaksacyjny-spa/0-s.webp" alt="Masaż relaksacyjny" width="560" height="350" loading="lazy" style="view-transition-name:t-wycieczka-z-hurghady-masaz-relaksacyjny-"></a><span class="badge-dur">1 dzień</span></div>
+<div class="card-body">
+<div class="card-meta"><span>z Hurghady</span><span>·</span><span>Relaks i rozrywka</span></div>
+<h3><a href="/wycieczki/wycieczka-z-hurghady-masaz-relaksacyjny-spa/">Masaż relaksacyjny</a></h3>
+<div class="card-foot"><div class="price"><span class="from">od</span> 24 USD<small>za osobę</small></div>
+<a class="btn btn-gold" href="/wycieczki/wycieczka-z-hurghady-masaz-relaksacyjny-spa/">Zobacz</a></div>
+</div></article></div>
+<div class="rail-nav"><button data-dir="prev" aria-label="Poprzednie">←</button><button data-dir="next" aria-label="Następne">→</button></div></div>
+<div class="container" style="padding-top:20px"><a class="btn btn-ghost" href="/wycieczki/">Zobacz wszystkie 107 wycieczek →</a></div>
+</section>
+<section class="section"><div class="container">
+<span class="eyebrow">Kategorie</span>
+<h2>Co Cię ciągnie?</h2>
+<div class="dest-tiles" style="grid-template-columns:repeat(auto-fit,minmax(210px,1fr))"><a class="dest-tile rv" href="/wycieczki/#historia" style="aspect-ratio:4/3">
+<img src="/assets/img/scene_luksor-s.webp" alt="Historia i zabytki" width="560" height="420" loading="lazy">
+<div><h3 style="font-size:1.2rem">Historia i zabytki</h3>
+<span class="count">30 ofert →</span></div></a><a class="dest-tile rv" href="/wycieczki/#morze" style="aspect-ratio:4/3">
+<img src="/assets/img/scene_rafa-s.webp" alt="Morze i rafy" width="560" height="420" loading="lazy">
+<div><h3 style="font-size:1.2rem">Morze i rafy</h3>
+<span class="count">44 ofert →</span></div></a><a class="dest-tile rv" href="/wycieczki/#safari" style="aspect-ratio:4/3">
+<img src="/assets/img/scene_safari-s.webp" alt="Safari i pustynia" width="560" height="420" loading="lazy">
+<div><h3 style="font-size:1.2rem">Safari i pustynia</h3>
+<span class="count">17 ofert →</span></div></a><a class="dest-tile rv" href="/wycieczki/#relaks" style="aspect-ratio:4/3">
+<img src="/assets/img/scene_kair-s.webp" alt="Relaks i rozrywka" width="560" height="420" loading="lazy">
+<div><h3 style="font-size:1.2rem">Relaks i rozrywka</h3>
+<span class="count">11 ofert →</span></div></a><a class="dest-tile rv" href="/wycieczki/#kurs" style="aspect-ratio:4/3">
+<img src="/assets/img/scene_delfiny-s.webp" alt="Kursy nurkowe" width="560" height="420" loading="lazy">
+<div><h3 style="font-size:1.2rem">Kursy nurkowe</h3>
+<span class="count">5 ofert →</span></div></a></div>
+</div></section>
+<section class="section section-dark"><div class="container">
+<span class="eyebrow">Jak to działa</span>
+<h2>Trzy kroki do rezerwacji</h2>
+<p class="lead">Bez formularzy, logowania i przedpłat - cała rezerwacja to jedna rozmowa na WhatsApp.</p>
+<div class="cols-3"><div class="feature rv"><span class="num">1</span><h3>Wybierz wycieczkę</h3><p>Przejrzyj katalog albo napisz, co lubisz - doradzimy szczerze, bez wciskania najdroższej opcji.</p></div><div class="feature rv"><span class="num">2</span><h3>Napisz na WhatsApp</h3><p>Podaj hotel, termin i liczbę osób. Potwierdzimy dostępność i godzinę odbioru zwykle w kwadrans.</p></div><div class="feature rv"><span class="num">3</span><h3>Zapłać w dniu wycieczki</h3><p>Bez przedpłat i zaliczek. Kierowca odbiera Cię z lobby hotelu, płacisz na miejscu - w dolarach lub euro.</p></div></div>
+</div></section>
+<section class="section"><div class="container">
+<span class="eyebrow">Dlaczego my</span>
+<h2>Egipt bez ściemy</h2>
+<div class="cols-3" style="grid-template-columns:repeat(auto-fit,minmax(230px,1fr))"><div class="feature rv"><h3>Polska obsługa na miejscu</h3><p>Mieszkamy w Egipcie na stałe. Piszesz po polsku, odpowiadamy po polsku - przed wycieczką, w trakcie i po niej.</p></div><div class="feature rv"><h3>Ceny bez gwiazdek</h3><p>Cena w dolarach, którą widzisz, to cena, którą płacisz. Bilety wstępu i transfer z hotelu wliczone tam, gdzie to napisane.</p></div><div class="feature rv"><h3>Płatność na miejscu</h3><p>Rezerwujesz przez WhatsApp bez przedpłaty i bez podawania karty. Płacisz dopiero w dniu wycieczki.</p></div><div class="feature rv"><h3>Małe grupy, swoje tempo</h3><p>Nie upychamy 50 osób w autokarze. Większość wycieczek jeździ w kameralnych grupach albo prywatnie.</p></div></div>
+</div></section>
+<section class="section section-alt"><div class="container">
+<span class="eyebrow">Opinie</span>
+<h2>Co mówią nasi turyści</h2>
+<div class="cols-3"><div class="review rv"><div class="stars">★★★★★</div><p>Kair z Hurghady w jeden dzień wydawał się szalony, ale organizacja była perfekcyjna. Przewodnik mówił po polsku lepiej niż niejeden rodak, a piramidy o poranku bez tłumów to coś, czego się nie zapomina.</p>
+<footer>Magdalena<span>Wrocław · Kair i piramidy</span></footer></div><div class="review rv"><div class="stars">★★★★★</div><p>Sataya to był strzał w dziesiątkę - delfiny podpłynęły na wyciągnięcie ręki. Żadnych ukrytych dopłat, lunch na łodzi naprawdę dobry. Polecam każdemu, kto jest w Marsa Alam.</p>
+<footer>Tomasz<span>Gdańsk · Delfiny Sataya</span></footer></div><div class="review rv"><div class="stars">★★★★★</div><p>Baliśmy się rezerwować przez internet u lokalnej firmy, ale kontakt po polsku rozwiał wątpliwości. Odpowiedź na WhatsApp przyszła w 10 minut, odbiór z hotelu co do minuty.</p>
+<footer>Karolina i Paweł<span>Kraków · Luksor z lotem balonem</span></footer></div></div>
+</div></section>
+<section class="section"><div class="container">
+<span class="eyebrow">FAQ</span>
+<h2>Częste pytania</h2>
+<div class="faq"><details><summary>Jak zarezerwować wycieczkę?</summary><p>Napisz do nas na WhatsApp - podaj nazwę wycieczki, hotel, termin i liczbę osób. Potwierdzimy dostępność i godzinę odbioru, zwykle w ciągu 15 minut. Nie pobieramy przedpłat.</p></details><details><summary>Czy mogę zapłacić w złotówkach albo kartą?</summary><p>Płatność przyjmujemy gotówką w dniu wycieczki - w dolarach lub euro. Złotówki i karty niestety nie działają u lokalnych operatorów, dlatego warto mieć przygotowaną gotówkę.</p></details><details><summary>Czy ceny zawierają odbiór z hotelu?</summary><p>Tak, transfer z hotelu i z powrotem jest wliczony w cenę w obrębie głównej strefy kurortu. Za odbiór z dalszych lokalizacji (np. El Gouna, Soma Bay, Sahl Hasheesh) obowiązuje niewielka dopłata podana przy wycieczce.</p></details><details><summary>Co jeśli muszę odwołać rezerwację?</summary><p>Wycieczkę można bezpłatnie odwołać do 24 godzin przed startem - wystarczy wiadomość na WhatsApp. Przy późniejszym odwołaniu może obowiązywać opłata, o której zawsze uprzedzamy.</p></details><details><summary>Czy wycieczki są bezpieczne dla dzieci?</summary><p>Większość tak - przy każdej wycieczce podajemy ceny dla dzieci i ograniczenia wiekowe (np. lot balonem od 8 lat). Foteliki i spokojniejsze tempo da się ustalić przy rezerwacji.</p></details><details><summary>W jakim języku prowadzone są wycieczki?</summary><p>Po polsku. Naszymi przewodnikami są osoby mówiące po polsku - to główny powód, dla którego polscy turyści wybierają nas zamiast anonimowych ofert hotelowych.</p></details></div>
+</div></section>
+<section class="section section-alt"><div class="container">
+<span class="eyebrow">Blog</span>
+<h2>Praktycznie o Egipcie</h2>
+<div class="grid"><article class="card post-card rv">
+<div class="card-img"><a href="/blog/pogoda-w-hurghadzie-miesiac-po-miesiacu/" aria-label="Pogoda w Hurghadzie miesiąc po miesiącu - kiedy jechać?"><img src="/assets/img/scene_raj-s.webp" alt="Pogoda w Hurghadzie miesiąc po miesiącu - kiedy jechać?" width="560" height="350" loading="lazy"></a></div>
+<div class="card-body">
+<span class="post-meta">2026-08-05 · 7 min czytania · Praktyczne</span>
+<h3><a href="/blog/pogoda-w-hurghadzie-miesiac-po-miesiacu/">Pogoda w Hurghadzie miesiąc po miesiącu - kiedy jechać?</a></h3>
+<p style="margin:0;color:var(--ink-soft);font-size:.92rem">Hurghada ma ponad 300 słonecznych dni w roku. Sprawdź temperatury powietrza i wody miesiąc po miesiącu i wybierz najlepszy termin na wakacje.</p>
+</div></article><article class="card post-card rv">
+<div class="card-img"><a href="/blog/zemsta-faraona-antinal-co-brac/" aria-label="Zemsta faraona i Antinal - jak nie chorować w Egipcie"><img src="/assets/img/scene_kair-s.webp" alt="Zemsta faraona i Antinal - jak nie chorować w Egipcie" width="560" height="350" loading="lazy"></a></div>
+<div class="card-body">
+<span class="post-meta">2026-08-03 · 6 min czytania · Zdrowie</span>
+<h3><a href="/blog/zemsta-faraona-antinal-co-brac/">Zemsta faraona i Antinal - jak nie chorować w Egipcie</a></h3>
+<p style="margin:0;color:var(--ink-soft);font-size:.92rem">Zemsta faraona potrafi zepsuć każde wakacje. Wyjaśniamy, skąd się bierze, jak działa egipski Antinal i czego unikać, żeby nie spędzić urlopu w łazience.</p>
+</div></article><article class="card post-card rv">
+<div class="card-img"><a href="/blog/wiza-do-egiptu-ile-kosztuje-jak-kupic/" aria-label="Wiza do Egiptu 2026 - ile kosztuje i jak ją kupić"><img src="/assets/img/scene_giza-s.webp" alt="Wiza do Egiptu 2026 - ile kosztuje i jak ją kupić" width="560" height="350" loading="lazy"></a></div>
+<div class="card-body">
+<span class="post-meta">2026-08-01 · 5 min czytania · Praktyczne</span>
+<h3><a href="/blog/wiza-do-egiptu-ile-kosztuje-jak-kupic/">Wiza do Egiptu 2026 - ile kosztuje i jak ją kupić</a></h3>
+<p style="margin:0;color:var(--ink-soft);font-size:.92rem">Wiza do Egiptu kosztuje 25 dolarów i kupisz ją w 5 minut po wylądowaniu. Wyjaśniamy krok po kroku: naklejka na lotnisku, e-wiza online i darmowy Sinai Stamp.</p>
+</div></article></div>
+</div></section>
+<div class="container"><div class="cta-band rv">
+<div><h2>Nie wiesz, co wybrać?</h2><p>Napisz, co lubisz - doradzimy szczerze i bez wciskania.</p></div>
+<a class="btn btn-wa" href="https://wa.me/201055850536?text=Dzie%C5%84%20dobry%21%20Prosz%C4%99%20o%20pomoc%20w%20wyborze%20wycieczki." target="_blank" rel="noopener">Napisz na WhatsApp</a>
+</div></div>
+<script>
+(function(){var v=document.getElementById('herovid'),i=document.getElementById('heroimg');
+if(matchMedia('(min-width:768px) and (prefers-reduced-motion: no-preference)').matches){
+var s=document.createElement('source');s.src='/assets/vid/hero.mp4';s.type='video/mp4';
+v.appendChild(s);v.load();v.addEventListener('playing',function(){i.style.display='none'});v.play().catch(function(){});
+}else{v.remove()}})();
+</script>
+</main>
+<footer class="site-footer">
+<div class="container">
+<div><div class="footer-brand"><img src="/assets/img/logo.svg" alt="" width="32" height="32">Atrakcje Egiptu</div><p class="about">Atrakcje Egiptu to polskojęzyczna agencja wycieczek fakultatywnych działająca w Hurghadzie, Marsa Alam i Sharm el-Sheikh. Pokazujemy Egipt bez pośpiechu i bez ukrytych opłat.</p></div>
+<div><h4>Kierunki</h4><ul><li><a href="/hurghada/">Wycieczki z Hurghady</a></li><li><a href="/marsa-alam/">Wycieczki z Marsa Alam</a></li><li><a href="/sharm-el-sheikh/">Wycieczki z Sharm el-Sheikh</a></li></ul></div>
+<div><h4>Na skróty</h4><ul><li><a href="/wycieczki/">Wszystkie wycieczki</a></li><li><a href="/blog/">Blog</a></li><li><a href="/wycieczki/#faq">Częste pytania</a></li><li><a href="/polityka-prywatnosci/">Polityka prywatności</a></li></ul></div>
+<div><h4>Kontakt</h4><ul>
+<li><a href="https://wa.me/201055850536?text=Dzie%C5%84%20dobry%21" target="_blank" rel="noopener">WhatsApp: +20 105 585 0536</a></li>
+<li><a href="mailto:kontakt@atrakcjeegiptu.pl">kontakt@atrakcjeegiptu.pl</a></li>
+</ul></div>
+</div>
+<div class="footer-legal">© 2026 Atrakcje Egiptu. Wszystkie ceny w USD za osobę.</div>
+</footer>
+<a class="wa-float" href="https://wa.me/201055850536?text=Dzie%C5%84%20dobry%21%20Pisz%C4%99%20ze%20strony%20atrakcjeegiptu.pl%20-%20mam%20pytanie%20o%20wycieczki." target="_blank" rel="noopener" aria-label="Napisz na WhatsApp"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M12 2a10 10 0 0 0-8.6 15.1L2 22l5-1.3A10 10 0 1 0 12 2Zm5.4 14.1c-.2.6-1.3 1.2-1.8 1.2-.5.1-1 .2-3.2-.7-2.7-1.1-4.4-3.8-4.6-4-.1-.2-1.1-1.4-1.1-2.7s.7-1.9.9-2.2c.2-.2.5-.3.7-.3h.5c.2 0 .4 0 .6.4l.9 2.1c.1.2.1.4 0 .6l-.4.6-.4.5c-.1.1-.3.3-.1.6.2.3.8 1.3 1.7 2.1 1.2 1.1 2.2 1.4 2.5 1.5.3.1.5.1.7-.1l1-1.2c.2-.3.4-.2.7-.1l2 1c.3.1.5.2.6.4 0 .1 0 .7-.2 1.3Z"/></svg></a>
+<script src="/js/site.js" defer></script>
 </body>
 </html>

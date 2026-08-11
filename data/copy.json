@@ -1,0 +1,63 @@
+{
+  "brand": "Atrakcje Egiptu",
+  "tagline": "Wycieczki fakultatywne z Hurghady, Marsa Alam i Sharm el-Sheikh",
+  "hero": {
+    "h1": "Zobacz Egipt, który pamięta się latami",
+    "sub": "Ponad 100 wycieczek fakultatywnych z polskojęzycznym przewodnikiem. Stałe ceny w dolarach, odbiór prosto z hotelu, rezerwacja przez WhatsApp - bez przedpłaty.",
+    "ctaMain": "Przeglądaj wycieczki",
+    "ctaWa": "Napisz na WhatsApp"
+  },
+  "stats": [
+    { "value": 107, "label": "wycieczek i kursów" },
+    { "value": 3, "label": "kurorty wyjazdowe" },
+    { "value": 15, "label": "min - tyle czekasz na odpowiedź" }
+  ],
+  "marquee": ["Piramidy w Gizie", "Dolina Królów", "Rejs po Nilu", "Rafa koralowa", "Safari na pustyni", "Abu Simbel", "Orange Bay", "Lot balonem nad Luksorem", "Delfiny w Sataya", "Góra Mojżesza"],
+  "destinations": [
+    { "id": "hurghada", "label": "Hurghada", "gen": "Hurghady", "img": "scene_raj", "desc": "Największy wybór: Kair, Luksor, rejsy i safari. Odbiór także z El Gouny, Makadi Bay, Soma Bay i Sahl Hasheesh." },
+    { "id": "marsa-alam", "label": "Marsa Alam", "gen": "Marsa Alam", "img": "scene_delfiny", "desc": "Najpiękniejsze rafy i delfiny w zatoce Sataya. Stąd też najbliżej do Luksoru i Abu Simbel." },
+    { "id": "sharm-el-sheikh", "label": "Sharm el-Sheikh", "gen": "Sharm el-Sheikh", "img": "scene_sharm", "desc": "Ras Mohammed, Góra Mojżesza i klasztor św. Katarzyny. Synaj ma swoją własną magię." }
+  ],
+  "categories": [
+    { "id": "historia", "label": "Historia i zabytki", "img": "scene_luksor" },
+    { "id": "morze", "label": "Morze i rafy", "img": "scene_rafa" },
+    { "id": "safari", "label": "Safari i pustynia", "img": "scene_safari" },
+    { "id": "relaks", "label": "Relaks i rozrywka", "img": "scene_kair" },
+    { "id": "kurs", "label": "Kursy nurkowe", "img": "scene_delfiny" }
+  ],
+  "usp": [
+    { "title": "Polska obsługa na miejscu", "body": "Mieszkamy w Egipcie na stałe. Piszesz po polsku, odpowiadamy po polsku - przed wycieczką, w trakcie i po niej." },
+    { "title": "Ceny bez gwiazdek", "body": "Cena w dolarach, którą widzisz, to cena, którą płacisz. Bilety wstępu i transfer z hotelu wliczone tam, gdzie to napisane." },
+    { "title": "Płatność na miejscu", "body": "Rezerwujesz przez WhatsApp bez przedpłaty i bez podawania karty. Płacisz dopiero w dniu wycieczki." },
+    { "title": "Małe grupy, swoje tempo", "body": "Nie upychamy 50 osób w autokarze. Większość wycieczek jeździ w kameralnych grupach albo prywatnie." }
+  ],
+  "howItWorks": [
+    { "title": "Wybierz wycieczkę", "body": "Przejrzyj katalog albo napisz, co lubisz - doradzimy szczerze, bez wciskania najdroższej opcji." },
+    { "title": "Napisz na WhatsApp", "body": "Podaj hotel, termin i liczbę osób. Potwierdzimy dostępność i godzinę odbioru zwykle w kwadrans." },
+    { "title": "Zapłać w dniu wycieczki", "body": "Bez przedpłat i zaliczek. Kierowca odbiera Cię z lobby hotelu, płacisz na miejscu - w dolarach lub euro." }
+  ],
+  "reviews": [
+    { "text": "Kair z Hurghady w jeden dzień wydawał się szalony, ale organizacja była perfekcyjna. Przewodnik mówił po polsku lepiej niż niejeden rodak, a piramidy o poranku bez tłumów to coś, czego się nie zapomina.", "name": "Magdalena", "city": "Wrocław", "tour": "Kair i piramidy" },
+    { "text": "Sataya to był strzał w dziesiątkę - delfiny podpłynęły na wyciągnięcie ręki. Żadnych ukrytych dopłat, lunch na łodzi naprawdę dobry. Polecam każdemu, kto jest w Marsa Alam.", "name": "Tomasz", "city": "Gdańsk", "tour": "Delfiny Sataya" },
+    { "text": "Baliśmy się rezerwować przez internet u lokalnej firmy, ale kontakt po polsku rozwiał wątpliwości. Odpowiedź na WhatsApp przyszła w 10 minut, odbiór z hotelu co do minuty.", "name": "Karolina i Paweł", "city": "Kraków", "tour": "Luksor z lotem balonem" }
+  ],
+  "faq": [
+    { "q": "Jak zarezerwować wycieczkę?", "a": "Napisz do nas na WhatsApp - podaj nazwę wycieczki, hotel, termin i liczbę osób. Potwierdzimy dostępność i godzinę odbioru, zwykle w ciągu 15 minut. Nie pobieramy przedpłat." },
+    { "q": "Czy mogę zapłacić w złotówkach albo kartą?", "a": "Płatność przyjmujemy gotówką w dniu wycieczki - w dolarach lub euro. Złotówki i karty niestety nie działają u lokalnych operatorów, dlatego warto mieć przygotowaną gotówkę." },
+    { "q": "Czy ceny zawierają odbiór z hotelu?", "a": "Tak, transfer z hotelu i z powrotem jest wliczony w cenę w obrębie głównej strefy kurortu. Za odbiór z dalszych lokalizacji (np. El Gouna, Soma Bay, Sahl Hasheesh) obowiązuje niewielka dopłata podana przy wycieczce." },
+    { "q": "Co jeśli muszę odwołać rezerwację?", "a": "Wycieczkę można bezpłatnie odwołać do 24 godzin przed startem - wystarczy wiadomość na WhatsApp. Przy późniejszym odwołaniu może obowiązywać opłata, o której zawsze uprzedzamy." },
+    { "q": "Czy wycieczki są bezpieczne dla dzieci?", "a": "Większość tak - przy każdej wycieczce podajemy ceny dla dzieci i ograniczenia wiekowe (np. lot balonem od 8 lat). Foteliki i spokojniejsze tempo da się ustalić przy rezerwacji." },
+    { "q": "W jakim języku prowadzone są wycieczki?", "a": "Po polsku. Naszymi przewodnikami są osoby mówiące po polsku - to główny powód, dla którego polscy turyści wybierają nas zamiast anonimowych ofert hotelowych." },
+    { "q": "Czy muszę mieć wizę do Egiptu?", "a": "Tak, ale to formalność - wizę turystyczną (25 USD) kupisz po wylądowaniu na lotnisku albo wcześniej online jako e-wizę. Paszport musi być ważny minimum 6 miesięcy od daty wjazdu." },
+    { "q": "Skąd odbieracie na wycieczki?", "a": "Z hoteli w Hurghadzie, Marsa Alam i Sharm el-Sheikh oraz okolicznych kurortów: El Gouna, Makadi Bay, Soma Bay, Sahl Hasheesh, Safaga, El Quseir i Port Ghalib." }
+  ],
+  "footer": {
+    "about": "Atrakcje Egiptu to polskojęzyczna agencja wycieczek fakultatywnych działająca w Hurghadzie, Marsa Alam i Sharm el-Sheikh. Pokazujemy Egipt bez pośpiechu i bez ukrytych opłat.",
+    "contact": {
+      "whatsapp": "+20 105 585 0536",
+      "email": "kontakt@atrakcjeegiptu.pl"
+    },
+    "legalNote": "Atrakcje Egiptu. Wszystkie ceny w USD za osobę."
+  },
+  "waDefault": "Dzień dobry! Piszę ze strony atrakcjeegiptu.pl - mam pytanie o wycieczki."
+}
