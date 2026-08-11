@@ -28,21 +28,23 @@
     document.querySelectorAll('.rv').forEach(function (el) { el.classList.add('in'); });
   }
 
+  var reduce = matchMedia('(prefers-reduced-motion: reduce)').matches;
+
   // horizontal rails
   document.querySelectorAll('.rail-wrap').forEach(function (w) {
     var rail = w.querySelector('.rail');
     w.querySelectorAll('.rail-nav button').forEach(function (b) {
       b.addEventListener('click', function () {
-        rail.scrollBy({ left: (b.dataset.dir === 'next' ? 1 : -1) * (rail.clientWidth * 0.85), behavior: 'smooth' });
+        rail.scrollBy({ left: (b.dataset.dir === 'next' ? 1 : -1) * (rail.clientWidth * 0.85), behavior: reduce ? 'auto' : 'smooth' });
       });
     });
   });
 
   // count-up stats
-  var reduce = matchMedia('(prefers-reduced-motion: reduce)').matches;
   document.querySelectorAll('[data-count]').forEach(function (el) {
     var target = parseInt(el.dataset.count, 10);
-    if (reduce) { el.textContent = target; return; }
+    if (reduce) return; // HTML already shows the final value
+    el.textContent = '0';
     var done = false;
     new IntersectionObserver(function (es, obs) {
       if (!es[0].isIntersecting || done) return;

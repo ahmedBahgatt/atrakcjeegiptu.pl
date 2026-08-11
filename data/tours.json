@@ -93,7 +93,7 @@
   "shortTitle": "Cleopatra Spa Plus w Hurghadzie.",
   "category": "relaks",
   "base": "Hurghada",
-  "duration": "1 dzień",
+  "duration": "ok. 1-3 godz.",
   "price": 30,
   "priceOld": 35,
   "tiers": [],
@@ -113,7 +113,7 @@
   "shortTitle": "Marokański Hammam SPA w Hurghadzie",
   "category": "relaks",
   "base": "Hurghada",
-  "duration": "1 dzień",
+  "duration": "ok. 1-3 godz.",
   "price": 30,
   "priceOld": 35,
   "tiers": [
@@ -133,8 +133,8 @@
  },
  {
   "slug": "orange-bay-hurghada",
-  "title": "Orange Bay Hurghada – wycieczka z Hurghady (rejs, plaża, snorkel) – od 30 USD",
-  "shortTitle": "Orange Bay Hurghada – wycieczka z Hurghady (rejs, plaża, snorkel) – od 30 USD",
+  "title": "Orange Bay Hurghada – wycieczka z Hurghady (rejs, plaża, snorkel)",
+  "shortTitle": "Orange Bay Hurghada – wycieczka z Hurghady (rejs, plaża, snorkel)",
   "category": "morze",
   "base": "Hurghada",
   "duration": "1 dzień",
@@ -235,7 +235,7 @@
   "shortTitle": "Wyspa Paradise Egipt – Paradise Island, Egypt",
   "category": "morze",
   "base": "Hurghada",
-  "duration": "1 dzień",
+  "duration": "ok. 1-3 godz.",
   "price": 45,
   "priceOld": 57,
   "tiers": [],
@@ -309,16 +309,15 @@
   "notIncluded": [
    "wydatki własne, napiwki",
    "zdjęcia robione przez fotografa",
-   "zakupy",
-   "Wycieczka z Hurghady do aquaparku Makadi Water World"
+   "zakupy"
   ],
   "photos": 5,
   "type": "wycieczka"
  },
  {
   "slug": "wycieczka-z-hurghady-do-kairu",
-  "title": "Wycieczka z Hurghady do Kairu | Autokar lub samolot",
-  "shortTitle": "Wycieczka z Hurghady do Kairu | Autokar lub samolot",
+  "title": "Wycieczka z Hurghady do Kairu autokarem",
+  "shortTitle": "Wycieczka z Hurghady do Kairu autokarem",
   "category": "historia",
   "base": "Hurghada",
   "duration": "1 dzień",
@@ -400,7 +399,7 @@
   "shortTitle": "Wyspa Bianca + Łódź ze Szklanym Dnem",
   "category": "morze",
   "base": "Hurghada",
-  "duration": "1 dzień",
+  "duration": "ok. 1-3 godz.",
   "price": 75,
   "priceOld": 90,
   "tiers": [
@@ -478,8 +477,7 @@
   "notIncluded": [
    "Napoje alkoholowe",
    "akupy, wydatki własne, napiwki",
-   "zdjęcia robione przez fotografa",
-   "Wycieczka z Hurghady na Wyspę Mahmya – Raj na Morzu Czerwonym"
+   "zdjęcia robione przez fotografa"
   ],
   "photos": 3,
   "type": "wycieczka"
@@ -511,8 +509,7 @@
    "zakupy, napoje, wydatki własne",
    "zdjęcia robione przez fotografa",
    "arafatki",
-   "gogle",
-   "Wycieczka Buggy Safari z Hurghady"
+   "gogle"
   ],
   "photos": 4,
   "type": "wycieczka"
@@ -615,8 +612,8 @@
    }
   ],
   "description": [
-   "Hurghada City Tour to wycieczka, na której zwiedzicieHurghadę, pokażemy wam znane miejsca.",
-   "Wycieczka ta rozpoczyna się w zależności od wasych preferencji, najczęsciej ok. 10 lub ok. 14  Zabierzemy was z hotelu klimatyzowanym autem bądź busem.",
+   "Hurghada City Tour to wycieczka, na której zwiedzicie Hurghadę, pokażemy wam znane miejsca.",
+   "Wycieczka ta rozpoczyna się w zależności od waszych preferencji, najczęściej ok. 10 lub ok. 14  Zabierzemy was z hotelu klimatyzowanym autem bądź busem.",
    "Zwiedzimy Kościół Koptyjski, Meczet, Bazar, tzw. SUKH z warzywami, owocami i mięsem. A także Targ Rybny, Nową Marinę, czyli nadmorski deptak oraz zabierzemy was na punkt widokowy, z którego zobaczycie panoramę miasta.  Dla chętnych Fabryka Perfum i zakupy pamiątek."
   ],
   "included": [
@@ -637,7 +634,7 @@
   "shortTitle": "Turecki Hammam",
   "category": "relaks",
   "base": "Hurghada",
-  "duration": "1 dzień",
+  "duration": "ok. 1-3 godz.",
   "price": 23,
   "priceOld": null,
   "tiers": [
@@ -661,7 +658,7 @@
   "shortTitle": "Masaż relaksacyjny",
   "category": "relaks",
   "base": "Hurghada",
-  "duration": "1 dzień",
+  "duration": "ok. 1-3 godz.",
   "price": 24,
   "priceOld": null,
   "tiers": [],
@@ -718,7 +715,7 @@
   "shortTitle": "Wycieczka z Hurghady Moto Quad Safari 3h",
   "category": "safari",
   "base": "Hurghada",
-  "duration": "1 dzień",
+  "duration": "ok. 3 godz.",
   "price": 25,
   "priceOld": null,
   "tiers": [
@@ -785,7 +782,7 @@
   "shortTitle": "Cleopatra Spa + masaż w Hurghadzie",
   "category": "relaks",
   "base": "Hurghada",
-  "duration": "1 dzień",
+  "duration": "ok. 1-3 godz.",
   "price": 27,
   "priceOld": null,
   "tiers": [
@@ -824,7 +821,7 @@
    }
   ],
   "description": [
-   "Hurghada City Tour to wycieczka, na której zwiedzicieHurghadę, pokażemy wam znane miejsca.",
+   "Hurghada City Tour to wycieczka, na której zwiedzicie Hurghadę, pokażemy wam znane miejsca.",
    "Wycieczka ta rozpoczyna się w zależności od waszych preferencji, najczęściej ok. 10 lub ok. 14  Zabierzemy was z hotelu klimatyzowanym autem bądź busem.",
    "Zwiedzimy Kościół Koptyjski, Meczet, Bazar, tzw. SUKH z warzywami, owocami i mięsem. A także Targ Rybny, Nową Marinę, czyli nadmorski deptak oraz zabierzemy was na punkt widokowy, z którego zobaczycie panoramę miasta.  Dla chętnych Fabryka Perfum i zakupy pamiątek.",
    "W trakcie wycieczki zwiedzicie również Muzeum w Hurghadzie. To pierwsze muzeum archeologiczne w Egipcie, które powstało we współpracy z sektorem prywatnym."
@@ -895,7 +892,7 @@
    }
   ],
   "description": [
-   "Parasailng to oferta wycieczki morskiej, oferująca wzbicie się na spadochronie  za ciągnącą go motorówką.",
+   "Parasailing to oferta wycieczki morskiej, oferująca wzbicie się na spadochronie  za ciągnącą go motorówką.",
    "Zobacz jak wygląda Hurghada z lotu ptaka i poczuj sporą dawkę adrenaliny!",
    "Z całą pewnością atrakcja w Hurghadzie warta waszej uwagi. Wprawdzie lot ze spadochronem trwa tylko kilka (5-7) minut, ale wycieczka trwa dłużej. Na motorówce, która ciągnie spadochron jest więcej osób, które będą korzystać z tej atrakcji.",
    "Sami możecie zdecydować czy chcecie lecieć wyżej czy niżej, czy chcecie zanurzyć część ciała w wodzie, czy nie."
@@ -918,7 +915,7 @@
   "shortTitle": "Wycieczka z Hurghady Moto Quad Safari 5h",
   "category": "safari",
   "base": "Hurghada",
-  "duration": "1 dzień",
+  "duration": "ok. 5 godz.",
   "price": 30,
   "priceOld": null,
   "tiers": [
@@ -1302,7 +1299,7 @@
   "description": [
    "Wycieczka z Hurghady Kair + Stary Kair Być w Egipcie i nie zobaczyć piramid, to jak być w Chinach i nie zobaczyć Muru Chińskiego…",
    "Ponad 90% turystów, wybierając się na wakacje do Egiptu, planuje zobaczyć PIRAMIDY.",
-   "Zapraszamy na wycieczkę do Kairu. Wycieczkę rozpoczniemy około 24:30-2:30 (czas zależny od lokalizacji hotelu). Przyjedziemy po was dużym, wygodnym, klimatyzowanym autokarem.",
+   "Zapraszamy na wycieczkę do Kairu. Wycieczkę rozpoczniemy około 00:30-2:30 (czas zależny od lokalizacji hotelu). Przyjedziemy po was dużym, wygodnym, klimatyzowanym autokarem.",
    "Zwiedzanie zaczynamy od Starego Kairu, gdzie głównymi punktami są:"
   ],
   "included": [],
@@ -1463,8 +1460,8 @@
  },
  {
   "slug": "prywatna-wycieczka-do-kairu-stary-kair-i-piramidy-z-hurghady",
-  "title": "Prywatna Wycieczka z Hyrghady do Kairu+Stary Kair",
-  "shortTitle": "Prywatna Wycieczka z Hyrghady do Kairu+Stary Kair",
+  "title": "Prywatna Wycieczka z Hurghady do Kairu+Stary Kair",
+  "shortTitle": "Prywatna Wycieczka z Hurghady do Kairu+Stary Kair",
   "category": "historia",
   "base": "Hurghada",
   "duration": "1 dzień",
@@ -1491,7 +1488,7 @@
   "description": [
    "Być w Egipcie i nie zobaczyć piramid, to jak być w Chinach i nie zobaczyć Muru Chińskiego…",
    "Ponad 90% turystów, wybierając się na wakacje do Egiptu, planuje zobaczyć PIRAMIDY.",
-   "Zapraszamy na prywatną wycieczkę do Kairu. Wycieczkę rozpoczniemy około 24:30-2:30 (czas zależny od lokalizacji hotelu). Przyjedziemy po was dużym, wygodnym, klimatyzowanym autem osobowym lub mikrobusem..",
+   "Zapraszamy na prywatną wycieczkę do Kairu. Wycieczkę rozpoczniemy około 00:30-2:30 (czas zależny od lokalizacji hotelu). Przyjedziemy po was dużym, wygodnym, klimatyzowanym autem osobowym lub mikrobusem..",
    "Zwiedzanie zaczynamy od Starego Kairu, gdzie głównymi punktami są:"
   ],
   "included": [],
@@ -1643,7 +1640,7 @@
   "shortTitle": "Wycieczka z Marsa Alam - Moto Quad Safari 2h",
   "category": "safari",
   "base": "Marsa Alam",
-  "duration": "1 dzień",
+  "duration": "ok. 2 godz.",
   "price": 33,
   "priceOld": 42,
   "tiers": [],
@@ -1747,8 +1744,8 @@
  },
  {
   "slug": "wycieczka-z-marsa-alam-do-zatoki-abu-dabbab",
-  "title": "Abu Dabbab Marsa Alam – żółwie i snorkeling od 60 USD",
-  "shortTitle": "Abu Dabbab Marsa Alam – żółwie i snorkeling od 60 USD",
+  "title": "Abu Dabbab Marsa Alam – żółwie i snorkeling",
+  "shortTitle": "Abu Dabbab Marsa Alam – żółwie i snorkeling",
   "category": "morze",
   "base": "Marsa Alam",
   "duration": "1 dzień",
@@ -1787,8 +1784,8 @@
  },
  {
   "slug": "wycieczka-z-marsa-alam-lodzia-seascope",
-  "title": "Seascope Marsa Alam – łódź podwodna od 62 USD",
-  "shortTitle": "Seascope Marsa Alam – łódź podwodna od 62 USD",
+  "title": "Seascope Marsa Alam – łódź podwodna",
+  "shortTitle": "Seascope Marsa Alam – łódź podwodna",
   "category": "morze",
   "base": "Marsa Alam",
   "duration": "1 dzień",
@@ -1827,8 +1824,8 @@
  },
  {
   "slug": "wycieczka-z-marsa-alam-do-domu-delfinow-shaab-samadai",
-  "title": "Sha'ab Samadai Marsa Alam – dom delfinów od 65 USD",
-  "shortTitle": "Sha'ab Samadai Marsa Alam – dom delfinów od 65 USD",
+  "title": "Sha'ab Samadai Marsa Alam – dom delfinów",
+  "shortTitle": "Sha'ab Samadai Marsa Alam – dom delfinów",
   "category": "morze",
   "base": "Marsa Alam",
   "duration": "1 dzień",
@@ -1906,8 +1903,8 @@
  },
  {
   "slug": "wycieczka-z-marsa-alam-rejs-lodzia-nefertari",
-  "title": "Nefertari Marsa Alam – Rejs Premium od 87 USD",
-  "shortTitle": "Nefertari Marsa Alam – Rejs Premium od 87 USD",
+  "title": "Nefertari Marsa Alam – Rejs Premium",
+  "shortTitle": "Nefertari Marsa Alam – Rejs Premium",
   "category": "morze",
   "base": "Marsa Alam",
   "duration": "1 dzień",
@@ -2431,7 +2428,7 @@
   "shortTitle": "Quad safari Sharm El Sheikh – 3h wycieczka na pustynię",
   "category": "safari",
   "base": "Sharm el-Sheikh",
-  "duration": "1 dzień",
+  "duration": "ok. 3 godz.",
   "price": 25,
   "priceOld": 38,
   "tiers": [],
@@ -2771,7 +2768,7 @@
   "shortTitle": "Wycieczka z Sharm el Sheikh – Wyspa Tiran",
   "category": "morze",
   "base": "Sharm el-Sheikh",
-  "duration": "1 dzień",
+  "duration": "ok. 1-3 godz.",
   "price": 38,
   "priceOld": null,
   "tiers": [],
@@ -2792,7 +2789,7 @@
   "shortTitle": "Moto Quad Safari 5h w Sharm el Sheikh",
   "category": "safari",
   "base": "Sharm el-Sheikh",
-  "duration": "1 dzień",
+  "duration": "ok. 5 godz.",
   "price": 40,
   "priceOld": null,
   "tiers": [],
@@ -2834,7 +2831,7 @@
   "shortTitle": "Wycieczka z Sharm el Sheikh – Wyspa Tiran z nurkowaniem",
   "category": "morze",
   "base": "Sharm el-Sheikh",
-  "duration": "1 dzień",
+  "duration": "ok. 1-3 godz.",
   "price": 49,
   "priceOld": null,
   "tiers": [],
@@ -2853,9 +2850,9 @@
   "slug": "turecki-hammam-sharm-el-sheikh",
   "title": "Turecki Hammam – Sharm el Sheikh",
   "shortTitle": "Turecki Hammam – Sharm el Sheikh",
-  "category": "morze",
+  "category": "relaks",
   "base": "Sharm el-Sheikh",
-  "duration": "1 dzień",
+  "duration": "ok. 1-3 godz.",
   "price": 50,
   "priceOld": null,
   "tiers": [],
@@ -2874,9 +2871,9 @@
   "slug": "marokanski-hammam-sharm-el-sheikh",
   "title": "Marokański Hammam – Sharm el Sheikh",
   "shortTitle": "Marokański Hammam – Sharm el Sheikh",
-  "category": "morze",
+  "category": "relaks",
   "base": "Sharm el-Sheikh",
-  "duration": "1 dzień",
+  "duration": "ok. 1-3 godz.",
   "price": 60,
   "priceOld": null,
   "tiers": [],

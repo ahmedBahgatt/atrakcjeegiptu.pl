@@ -21,6 +21,15 @@ def usd(n):
     return f"{n} USD"
 
 
+def pl_count(n, one, few, many):
+    # 1 wycieczka / 2-4, 22-24... wycieczki / 5-21, 25-31... wycieczek
+    if n == 1:
+        return f"{n} {one}"
+    if 2 <= n % 10 <= 4 and not 12 <= n % 100 <= 14:
+        return f"{n} {few}"
+    return f"{n} {many}"
+
+
 def wa_link(msg):
     return f"https://wa.me/{WA_DIGITS}?text={urllib.parse.quote(msg)}"
 
@@ -55,7 +64,7 @@ WA_SVG = '<svg viewBox="0 0 24 24" aria-hidden="true"><path d="M12 2a10 10 0 0 0
 
 
 def shell(title, desc, body, canonical, active="", jsonld=None, og_img=None, noindex=False, og_type="website", wa_float=True, preload=None):
-    act = ' class="active"'
+    act = ' class="active" aria-current="page"'
     nav = "".join(f'<a href="{h}"{act if l == active else ""}>{l}</a>' for l, h in NAV)
     lds = ""
     if jsonld:
@@ -92,13 +101,14 @@ def shell(title, desc, body, canonical, active="", jsonld=None, og_img=None, noi
 {lds}
 </head>
 <body>
+<a class="skip-link" href="#main">Przejdź do treści</a>
 <header class="site-header"><div class="container">
 <a class="brand" href="/"><img src="/assets/img/logo.svg" alt="" width="36" height="36">Atrakcje Egiptu</a>
 <button class="nav-toggle" aria-label="Menu" aria-expanded="false" aria-controls="main-nav">☰</button>
 <nav class="main-nav" id="main-nav">{nav}</nav>
 <a class="btn btn-wa header-cta" href="{wa_link(copy['waDefault'])}" target="_blank" rel="noopener">WhatsApp</a>
 </div></header>
-<main>
+<main id="main">
 {body}
 </main>
 <footer class="site-footer">
@@ -125,7 +135,7 @@ def tour_card(t, lazy=True):
     badge = '<span class="badge">Promocja</span>' if t.get("priceOld") else ""
     load = ' loading="lazy"' if lazy else ' fetchpriority="high"'
     return f"""<article class="card rv" data-cat="{t['category']}" data-base="{t['base']}">
-<div class="card-img"><a href="/wycieczki/{t['slug']}/"><img src="{card_img(t)}" alt="{esc(t['shortTitle'])}" width="560" height="350"{load} style="view-transition-name:t-{t['slug'][:40]}"></a>{badge}<span class="badge-dur">{esc(dur)}</span></div>
+<div class="card-img"><a href="/wycieczki/{t['slug']}/"><img src="{card_img(t)}" alt="{esc(t['shortTitle'])}" width="560" height="350"{load} style="view-transition-name:t-{t['slug']}"></a>{badge}<span class="badge-dur">{esc(dur)}</span></div>
 <div class="card-body">
 <div class="card-meta"><span>z {esc(BASE_GEN.get(t['base'], t['base']))}</span><span>·</span><span>{esc(CAT_LABEL.get(t['category'], ''))}</span></div>
 <h3><a href="/wycieczki/{t['slug']}/">{esc(t['shortTitle'])}</a></h3>
@@ -154,19 +164,19 @@ def build_home():
     dests = "".join(f"""<a class="dest-tile rv" href="/{d['id']}/">
 <img src="/assets/img/{d['img']}.webp" alt="Wycieczki z {esc(d['gen'])}" width="640" height="800" loading="lazy">
 <div><h3>{esc(d['label'])}</h3><p>{esc(d['desc'])}</p>
-<span class="count">{sum(1 for t in tours if t['base'] == d['label'])} wycieczek →</span></div></a>""" for d in copy["destinations"])
+<span class="count">{pl_count(sum(1 for t in tours if t['base'] == d['label']), 'wycieczka', 'wycieczki', 'wycieczek')} →</span></div></a>""" for d in copy["destinations"])
     cats = "".join(f"""<a class="dest-tile rv" href="/wycieczki/#{c['id']}" style="aspect-ratio:4/3">
 <img src="/assets/img/{c['img']}-s.webp" alt="{esc(c['label'])}" width="560" height="420" loading="lazy">
 <div><h3 style="font-size:1.2rem">{esc(c['label'])}</h3>
-<span class="count">{sum(1 for t in tours if t['category'] == c['id'])} ofert →</span></div></a>""" for c in copy["categories"])
+<span class="count">{pl_count(sum(1 for t in tours if t['category'] == c['id']), 'oferta', 'oferty', 'ofert')} →</span></div></a>""" for c in copy["categories"])
     marq = "".join(f"<span>{esc(m)}</span>" for m in copy["marquee"]) * 2
     steps = "".join(f'<div class="feature rv"><span class="num">{i+1}</span><h3>{esc(s["title"])}</h3><p>{esc(s["body"])}</p></div>'
                     for i, s in enumerate(copy["howItWorks"]))
     usps = "".join(f'<div class="feature rv"><h3>{esc(u["title"])}</h3><p>{esc(u["body"])}</p></div>' for u in copy["usp"])
-    revs = "".join(f"""<div class="review rv"><div class="stars">★★★★★</div><p>{esc(r['text'])}</p>
+    revs = "".join(f"""<div class="review rv"><div class="stars" aria-hidden="true">★★★★★</div><span class="sr-only">Ocena: 5 na 5</span><p>{esc(r['text'])}</p>
 <footer>{esc(r['name'])}<span>{esc(r['city'])} · {esc(r['tour'])}</span></footer></div>""" for r in copy["reviews"])
     faqs = "".join(f'<details><summary>{esc(f["q"])}</summary><p>{esc(f["a"])}</p></details>' for f in copy["faq"][:6])
-    stats = "".join(f'<div><b data-count="{s["value"]}">0</b><span>{esc(s["label"])}</span></div>' for s in copy["stats"])
+    stats = "".join(f'<div><b data-count="{s["value"]}">{s["value"]}</b><span>{esc(s["label"])}</span></div>' for s in copy["stats"])
     latest = "".join(post_card(p) for p in sorted(posts, key=lambda p: p["date"], reverse=True)[:3])
     body = f"""
 <section class="hero">
@@ -239,9 +249,12 @@ def build_home():
 </div></div>
 <script>
 (function(){{var v=document.getElementById('herovid'),i=document.getElementById('heroimg');
-if(matchMedia('(min-width:768px) and (prefers-reduced-motion: no-preference)').matches){{
+var c=navigator.connection||{{}};
+if(matchMedia('(min-width:768px) and (prefers-reduced-motion: no-preference)').matches && !c.saveData && c.effectiveType!=='2g'){{
+addEventListener('load',function(){{
 var s=document.createElement('source');s.src='/assets/vid/hero.mp4';s.type='video/mp4';
 v.appendChild(s);v.load();v.addEventListener('playing',function(){{i.style.display='none'}});v.play().catch(function(){{}});
+}});
 }}else{{v.remove()}}}})();
 </script>"""
     ld = [
@@ -256,15 +269,15 @@ v.appendChild(s);v.load();v.addEventListener('playing',function(){{i.style.displ
         faq_ld(copy["faq"][:6]),
     ]
     write("index.html", shell(
-        "Atrakcje Egiptu - wycieczki fakultatywne z Hurghady, Marsa Alam i Sharm",
+        "Atrakcje Egiptu - wycieczki: Hurghada, Marsa Alam, Sharm el-Sheikh",
         "Ponad 100 wycieczek fakultatywnych w Egipcie po polsku: Kair, Luksor, rejsy, safari i nurkowanie. Ceny w USD, odbiór z hotelu, rezerwacja przez WhatsApp.",
         body, f"{SITE}/", active="Strona główna", jsonld=ld,
         preload="/assets/img/hero_poster.webp"))
 
 
 def build_listing():
-    cats = '<a href="#lista" data-cat="all" class="active">Wszystkie</a>' + \
-           "".join(f'<a href="#lista" data-cat="{c["id"]}" id="{c["id"]}">{esc(c["label"])}</a>' for c in copy["categories"])
+    cats = '<a href="#lista" data-cat="all" class="active" role="button" aria-pressed="true">Wszystkie</a>' + \
+           "".join(f'<a href="#lista" data-cat="{c["id"]}" id="{c["id"]}" role="button" aria-pressed="false">{esc(c["label"])}</a>' for c in copy["categories"])
     base_nav = "".join(f'<a href="#z-{bid}">z {esc(gen)} ({sum(1 for t in tours if t["base"] == lbl)})</a>' for bid, lbl, gen in BASES)
     dest_sections = ""
     for bid, lbl, gen in BASES:
@@ -292,9 +305,16 @@ def build_listing():
 </div></section>
 <script>
 function applyCat(c){{
-  document.querySelectorAll('.cats a[data-cat]').forEach(x => x.classList.toggle('active', x.dataset.cat === c));
+  document.querySelectorAll('.cats a[data-cat]').forEach(x => {{
+    const on = x.dataset.cat === c;
+    x.classList.toggle('active', on);
+    x.setAttribute('aria-pressed', on);
+  }});
   document.querySelectorAll('#lista .card[data-cat]').forEach(card => {{
-    card.style.display = (c === 'all' || card.dataset.cat === c) ? '' : 'none';
+    card.hidden = !(c === 'all' || card.dataset.cat === c);
+  }});
+  document.querySelectorAll('#lista .dest-section').forEach(sec => {{
+    sec.hidden = !sec.querySelector('.card:not([hidden])');
   }});
 }}
 document.querySelectorAll('.cats a[data-cat]').forEach(a => a.addEventListener('click', () => applyCat(a.dataset.cat)));
@@ -325,7 +345,7 @@ def build_tour(t):
         gallery = f'<h2>Zdjęcia z wycieczki</h2><div class="gallery" id="gal">{gitems}</div>'
     dur = t.get("duration") or "1 dzień"
     chips = f'<div class="chips"><span>{esc(CAT_LABEL.get(t["category"], t["category"]))}</span><span>z {esc(BASE_GEN.get(t["base"], t["base"]))}</span><span>{esc(dur)}</span><span>Bezpłatne odwołanie do 24 h</span></div>'
-    desc = "".join(f"<p>{esc(p)}</p>" for p in t["description"])
+    desc = "".join(f"<p>{esc(p)}</p>" for p in t["description"] if p.strip())
     incl = "".join(f"<li>{esc(x)}</li>" for x in t["included"])
     nincl = "".join(f"<li>{esc(x)}</li>" for x in t["notIncluded"])
     incl_section = ""
@@ -342,12 +362,12 @@ def build_tour(t):
 {t['shortTitle']} (z {BASE_GEN.get(t['base'], t['base'])})
 Data: (do ustalenia)
 Hotel: (do podania)
-Dorośli: 2 | Dzieci: 0
+Dorośli: __ | Dzieci: __
 {SITE}/wycieczki/{t['slug']}/
 Proszę o potwierdzenie dostępności, godziny odbioru i ceny.""")
     body = f"""
 <div class="container">
-<div class="tour-hero plx"><img src="{hero_img(t)}" alt="{esc(t['shortTitle'])}" width="1400" height="600" fetchpriority="high" style="view-transition-name:t-{t['slug'][:40]}"></div>
+<div class="tour-hero plx"><img src="{hero_img(t)}" alt="{esc(t['shortTitle'])}" width="1400" height="600" fetchpriority="high" style="view-transition-name:t-{t['slug']}"></div>
 <div class="tour-layout">
 <div class="tour-main">
 <span class="eyebrow">z {esc(BASE_GEN.get(t['base'], t['base']))} · {esc(dur)}</span>
@@ -372,7 +392,7 @@ Proszę o potwierdzenie dostępności, godziny odbioru i ceny.""")
 <p class="book-note">Bezpłatne odwołanie do 24 h przed wyjazdem. Cena w USD za osobę dorosłą{' - ceny dla dzieci w cenniku powyżej' if t.get('tiers') else ' - o ceny dla dzieci zapytaj przy rezerwacji'}.</p>
 </aside>
 </div></div>
-<div class="stickybar"><div class="price">{usd(t['price'])}</div><a class="btn btn-wa" href="{wa}" target="_blank" rel="noopener">Rezerwuj</a></div>
+<div class="stickybar"><div class="price"><span class="from">od</span> {usd(t['price'])}</div><a class="btn btn-wa" href="{wa}" target="_blank" rel="noopener">Rezerwuj</a></div>
 <dialog id="lb" aria-label="Powiększone zdjęcie" style="max-width:92vw;border:0;border-radius:12px;padding:0;background:transparent">
 <button id="lbx" aria-label="Zamknij" style="position:absolute;top:8px;right:8px;z-index:2;width:38px;height:38px;border-radius:50%;border:0;background:rgba(11,18,38,.75);color:#fff;font-size:1.2rem;cursor:pointer">×</button>
 <img alt="" style="max-height:86vh;border-radius:12px"></dialog>
@@ -391,9 +411,11 @@ lb.addEventListener('click',e=>{{if(e.target===lb)lb.close()}});}}
                       "url": f"{SITE}/wycieczki/{t['slug']}/"}},
           breadcrumb_ld([("Strona główna", SITE + "/"), ("Wycieczki", f"{SITE}/wycieczki/"),
                          (t["title"], f"{SITE}/wycieczki/{t['slug']}/")])]
+    first_para = next((p for p in t["description"] if p.strip()), t["title"])
+    meta_desc = trunc(first_para, 120) + f" Wyjazd z {BASE_GEN.get(t['base'], t['base'])}, od {t['price']} USD/os."
     write(f"wycieczki/{t['slug']}/index.html",
           shell(f"{t['shortTitle']} - od {usd(t['price'])} | Atrakcje Egiptu",
-                trunc(t["description"][0] if t["description"] else t.get("teaser", t["title"])), body,
+                meta_desc, body,
                 f"{SITE}/wycieczki/{t['slug']}/", active="Wycieczki", jsonld=ld,
                 og_img=f"{SITE}{hero_img(t)}", preload=hero_img(t), wa_float=False))
 
@@ -425,7 +447,6 @@ def build_dest(bid, lbl, gen):
     bt = [t for t in tours if t["base"] == lbl]
     cards = "".join(tour_card(t) for t in bt)
     intro = "".join(f"<p>{esc(p)}</p>" for p in meta["intro"])
-    faqs = [f for f in copy["faq"] if "odbiór" in f["q"].lower() or "zarezerwować" in f["q"].lower() or "zapłacić" in f["q"].lower()]
     faq_html = "".join(f'<details><summary>{esc(f["q"])}</summary><p>{esc(f["a"])}</p></details>' for f in copy["faq"][:5])
     body = f"""
 <section class="page-hero container">
@@ -548,9 +569,7 @@ def build_meta_files():
            [f"{SITE}/wycieczki/{t['slug']}/" for t in tours] + \
            [f"{SITE}/blog/{p['slug']}/" for p in posts] + \
            [f"{SITE}/polityka-prywatnosci/"]
-    import datetime
-    today = datetime.date.today().isoformat()
-    items = "".join(f"<url><loc>{u.replace('&', '&amp;')}</loc><lastmod>{today}</lastmod></url>" for u in urls)
+    items = "".join(f"<url><loc>{u.replace('&', '&amp;')}</loc></url>" for u in urls)
     open(D("sitemap.xml"), "w").write(
         f'<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">{items}</urlset>')
     open(D("robots.txt"), "w").write(f"User-agent: *\nAllow: /\nSitemap: {SITE}/sitemap.xml\n")
@@ -580,7 +599,21 @@ def write(rel, html):
     open(path, "w").write(html)
 
 
+def prune_stale_tour_dirs():
+    import shutil
+    live = {t["slug"] for t in tours}
+    base = D("wycieczki")
+    if not os.path.isdir(base):
+        return
+    for d in os.listdir(base):
+        p = os.path.join(base, d)
+        if os.path.isdir(p) and d not in live:
+            shutil.rmtree(p)
+            print("pruned stale:", d)
+
+
 if __name__ == "__main__":
+    prune_stale_tour_dirs()
     build_home()
     build_listing()
     for t in tours:
